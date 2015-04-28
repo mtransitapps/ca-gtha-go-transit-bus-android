@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonTransit GO Transit Bus (GTHA)</string>
+    <string name="app_desc">Données des autobus de GO Transit dans la Region de Toronto et Hamilton (GTHA) pour MonTransit.</string>
+</resources>
