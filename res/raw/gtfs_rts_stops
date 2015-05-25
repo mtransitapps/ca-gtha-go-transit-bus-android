@@ -32,7 +32,7 @@
 50,'','Winchester Rd / Anderson St',43.956413,-78.947403
 51,'','Brock St / Dundas St',43.879929,-78.942314
 52,'','Union Station Bus Terminal / Bay St',43.645557,-79.377663
-53,'','Canadas Wonderland / Wonderland Parking',43.846012,-79.540611
+53,'','Canadas Wonderland / Wonderland Parking',43.846046,-79.54039
 54,'','Bramalea Station / Steeles Ave',43.702259,-79.688751
 60,'','Langstaff Station South / Langstaff R',43.83646,-79.42025
 61,'','Langstaff Station South / Langstaff R',43.836624,-79.420235
@@ -500,7 +500,6 @@
 881,'','Plains Rd / 484 Plains Rd E',43.318424,-79.837036
 882,'','Plains Rd / 169 Plains Rd E',43.310947,-79.847336
 883,'','Plains Rd / Lasalle Park Rd',43.306946,-79.85218
-884,'','Plains Rd / Waterdown Rd',43.307011,-79.852577
 885,'','Plains Rd / Willowbrook Rd',43.317108,-79.83934
 886,'','Plains Rd / 480 Plains Rd E',43.318768,-79.836952
 887,'','Queen St / Acton Blvd',43.635513,-80.030388
@@ -521,7 +520,6 @@
 902,'','Trafalgar Rd / Iroquois Shore Rd',43.464867,-79.687737
 907,'','Trafalgar Rd / McCraney St',43.467335,-79.691544
 910,'','Trafalgar Rd / River Oaks Blvd',43.477379,-79.705566
-911,'','Waterdown Rd / Masonry Ct',43.308475,-79.854904
 912,'','Waterdown Rd / Masonry Ct',43.308723,-79.855438
 913,'','Young St / Peel St',43.634281,-80.032707
 914,'','Young St / Peel St',43.634163,-80.032845
@@ -1233,11 +1231,8 @@
 2199,'','Islington Ave / Kellam St',43.844185,-79.628433
 2200,'','Albert St / River St',44.262367,-79.066399
 2202,'','Hwy 11 / Victoria St',44.324902,-79.619576
-2203,'','Frederick St / King St',43.449551,-80.487587
 2204,'','Webber St / Montgomery Rd',43.438725,-80.46019
-2205,'','Webber St / Montgomery Rd',43.438705,-80.459557
 2206,'','Frederick St / King St',43.449486,-80.487396
-2401,'','Great Western St / Permilla St',43.147614,-79.254906
 2402,'','YMCA Dr / North Service Rd',43.178627,-79.245255
 2404,'','Stanley Ave / Stamford St',43.097271,-79.085236
 2405,'','Stanley Ave / Stamford St',43.096474,-79.08548
@@ -1259,7 +1254,6 @@
 2511,'','Queen St / West Dr',43.709522,-79.733696
 2512,'','Blind Line / Hansen Blvd',43.924759,-80.116844
 2513,'','Blind Line / College Ave',43.922195,-80.116203
-2517,'','King St / Picton St',43.254395,-79.071182
 2518,'','MacDonell St / Carden St',43.546314,-80.245232
 2519,'','Wyndham St / Carden St',43.544926,-80.246384
 2520,'','Wellington St / John W. Way',44.003506,-79.450684
