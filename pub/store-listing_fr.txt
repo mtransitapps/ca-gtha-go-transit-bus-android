@@ -1,27 +1,23 @@
 Title: Bus GO Transit - MonTransit
 ----------
 Short description:
-Autobus GO Transit du GTHA pour MonTransit BETA.
+Autobus GO Transit du GTHA pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 11 Avril 2015 au 26 Juin 2015.
 Tweets de @GOtransitFR.
-
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-Cette application ajoute les informations des aubotus GO Transit de la Region de Toronto et Hamilton (GTHA) à MonTransit BETA.
+Cette application ajoute les informations des aubotus GO Transit de la Region de Toronto et Hamilton (GTHA) à MonTransit.
 
 L'app contient les horaires et les nouvelles de YouTube et @GOtransitFR sur Twitter.
 
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Les aubotus de GO Transit desservent Toronto, Hamilton, Halton, Peel, York, Durham, Niagara, Waterloo, Peterborough, Simcoe, Dufferin, Wellington en Ontario, Canada.
 
-Une fois cette application installée, l'application MonTransit BETA affichera les informations des aubotus (horaires ...).
+Une fois cette application installée, l'application MonTransit affichera les informations des aubotus (horaires ...).
 
-Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit BETA (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 

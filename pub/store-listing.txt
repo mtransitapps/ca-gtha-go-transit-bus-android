@@ -1,27 +1,23 @@
 Title: GO Transit Bus - MonTransit
 ----------
 Short description:
-GTHA GO Transit buses for MonTransit BETA.
+GTHA GO Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
 Schedule from April 11, 2015 to June 26, 2015.
 Tweets from @GOtransit.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Greater Toronto & Hamilton Area GO buses information to MonTransit BETA.
+This app adds Greater Toronto & Hamilton Area GO buses information to MonTransit.
 
 This app provides the planned schedule as well as real time service statuses and news from YouTube and @GOtransit on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 GO Transit buses serve Toronto, Hamilton, Halton, Peel, York, Durham, Niagara, Waterloo, Peterborough, Simcoe, Dufferin, Wellington in Ontario, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
