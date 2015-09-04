@@ -126,8 +126,6 @@
 215,'','Bovaird Dr W / Mississauga Rd',43.6660957,-79.8306732
 216,'','Bovaird Dr W / Chinguacousy Rd',43.6868248,-79.8075638
 217,'','Bovaird Dr W / Chinguacousy Rd',43.6859589,-79.8089981
-218,'','Main St N / Bovaird Dr W',43.7028351,-79.7897644
-219,'','Bovaird Dr E / Hurontario St',43.7066078,-79.7863464
 221,'','Brampton Bus Terminal',43.6869087,-79.7628632
 222,'','Shopper''s World',43.6678429,-79.7354813
 223,'','Shopper''s World',43.6675682,-79.7358246
@@ -135,17 +133,10 @@
 227,'','Steeles Ave E / Rutherford Rd S',43.679863,-79.7183075
 228,'','Malton Bus',43.705143,-79.637825
 231,'','Trinity Common Mall',43.7313271,-79.7631531
-232,'','Trinity Common Mall',43.7315178,-79.7633972
-235,'','Airport Rd / Hull St',43.7042809,-79.6434784
-236,'','Airport Rd / Hull St',43.7042122,-79.6429138
 237,'','Queen St E / Dixie Rd',43.7142944,-79.7290268
 238,'','Queen St E / Dixie Rd',43.7153816,-79.7271194
-239,'','Martin Grv Rd / Dixon Rd',43.6917953,-79.5711746
-240,'','Dixon Rd / Martin Grv Rd',43.6913567,-79.5712662
 241,'','Finch Ave W / Longo Cir',43.7334518,-79.6333313
 242,'','Finch Ave W / Darcel Ave',43.7335091,-79.6343002
-243,'','Humber College',43.7304688,-79.6062317
-244,'','Humber College',43.7307587,-79.6064606
 245,'','Hwy 27 / Humber College Blvd',43.730999,-79.6019287
 246,'','Hwy 27 / Humber College Blvd',43.7303085,-79.6012726
 247,'','Hwy 27 / Rexdale Blvd (Woodbine Racetrack)',43.7178192,-79.596138
@@ -172,7 +163,6 @@
 272,'','Queensgate Blvd / Queen St',43.8694229,-79.7227402
 273,'','Queensgate Blvd / Queen St',43.8700562,-79.7222977
 276,'','East Gwillimbury Bus',44.078506,-79.456539
-291,'','Bovaird Dr E / Main St N',43.7060318,-79.7862625
 292,'','Bovaird Dr W / Hurontario St',43.705513,-79.7875595
 296,'','Mt Pleasant Bus',43.674976,-79.822181
 297,'','Wellington St E / Bayview Ave',44.0053253,-79.4434891
@@ -536,7 +526,6 @@
 938,'','King St W / Temperance St',43.9121895,-78.6885605
 939,'','Sheridan College',43.4698067,-79.6977158
 942,'','Bovaird Dr W / Lk Louise Dr',43.6811218,-79.8139801
-943,'','Humber College Blvd / Humberline Dr',43.7322922,-79.6096725
 944,'','Queen St E / Ctr St',43.6904869,-79.7548599
 945,'','Martin Rd / Aspen Spgs Dr',43.9070091,-78.7005005
 946,'','Martin Rd / Aspen Spgs Dr',43.9068298,-78.7001495
@@ -579,6 +568,10 @@
 986,'','Holland Lndg Rd / Bradford St',44.0999832,-79.4990005
 987,'','Holland Lndg Rd / Oriole Dr',44.1052437,-79.5155182
 988,'','Holland Lndg Rd / Oriole Dr',44.1050797,-79.5155869
+989,'','Hurontario St / County Court Blvd',43.6621399,-79.7277679
+990,'','Hurontario St / County Court Blvd',43.6589584,-79.7234879
+991,'','Hurontario St / Ray Lawson Blvd',43.658577,-79.7236023
+992,'','Hurontario St / Sir Lou Dr',43.6612053,-79.7271576
 1001,'','King St W / Caroline St N',43.258461,-79.8752441
 1002,'','King St E / Hughson St N',43.2562103,-79.8672409
 1003,'','King St W / Queen St N',43.259346,-79.878418
@@ -597,37 +590,8 @@
 1017,'','Derry Rd / Thompson Rd S',43.5167885,-79.8501892
 1021,'','Queen St E / Kennedy Rd S',43.696003,-79.7488632
 1022,'','Queen St E / Kennedy Rd N',43.6954765,-79.749939
-1023,'','Peter Robertson Blvd / Dixie Rd',43.7383499,-79.7604446
 1024,'','Thompson Rd S / Derry Rd W',43.517498,-79.8523712
 1025,'','Thompson Rd S / Derry Rd W',43.5168037,-79.8518219
-1101,'','Airport Rd / Thamesgate Dr',43.7148476,-79.6576385
-1102,'','Dixon Rd / Attwell Dr',43.6882286,-79.5862656
-1103,'','Airport Rd / American Dr',43.6891861,-79.6218109
-1104,'','Airport Rd / American Dr',43.6895638,-79.6220093
-1105,'','Airport Rd / Beverly St',43.7076454,-79.6478195
-1106,'','Airport Rd / Bresler Dr',43.686039,-79.6073532
-1107,'','Airport Rd / Ripon St',43.7062683,-79.6453094
-1108,'','Airport Rd / Driver Rd',43.7208824,-79.6655121
-1109,'','Airport Rd / Driver Rd',43.7205963,-79.6646729
-1110,'','Dixon Rd / Hwy 427',43.6867599,-79.598671
-1111,'','Airport Rd / Ironstone Crt.',43.7059441,-79.6453934
-1112,'','Jetliner Rd / Airport Rd',43.6855316,-79.6071167
-1113,'','Airport Rd / Morning Star Dr',43.709259,-79.6500931
-1114,'','Airport Rd / Morning Star Dr',43.710041,-79.6506729
-1116,'','Airport Rd / Orlando Dr',43.6951027,-79.6311264
-1119,'','Airport Rd / Silver Dart Dr (Air Canada)',43.6912613,-79.6259537
-1120,'','6445 Airport Rd / Orlando Dr',43.6928635,-79.6276321
-1121,'','6661 Airport Rd / Derry Rd E',43.6963959,-79.6323776
-1122,'','Airport Rd / Northwest Dr (International Ctr)',43.7005424,-79.6379166
-1123,'','Airport Rd / Derry Rd E',43.7020226,-79.6398087
-1124,'','Airport Rd / Northwest Dr',43.6989288,-79.6363297
-1125,'','Airport Rd / Northwest Dr',43.6988678,-79.6356506
-1126,'','Airport Rd / Silver Dart Dr',43.692955,-79.6282272
-1127,'','Airport Rd / Orlando Dr',43.6947937,-79.6301651
-1128,'','Airport Rd / Slough St',43.7124519,-79.6545258
-1129,'','Airport Rd / Slough St',43.712429,-79.653923
-1130,'','Airport Rd / Victory Cr.',43.7075577,-79.6471329
-1131,'','6355 Airport Rd / American Dr',43.6911049,-79.6251526
 1132,'','Albion Vaughan Rd / Dovaston Gt',43.8711624,-79.7091064
 1133,'','Albion Vaughan Rd / King Vaughan Rd',43.8706589,-79.7085648
 1134,'','Aquitaine Ave / Gln Erin Dr',43.5867882,-79.7581024
@@ -638,30 +602,13 @@
 1139,'','Aquitaine Ave / Millcreek Dr',43.5927467,-79.756218
 1140,'','Blind Line / Banting Dr',43.9170532,-80.114975
 1143,'','Blind Line / St Andrews Dr',43.919075,-80.1154175
-1144,'','Bovaird Dr W / Brisdale Dr',43.6835098,-79.8116913
-1145,'','Bovaird Dr W / Edenbrook Hl Dr',43.6908913,-79.8038406
-1146,'','Bovaird Dr W / Gillingham Dr',43.7029572,-79.7901459
-1147,'','Bovaird Dr E / Hinchley Wood Grv',43.7123146,-79.7801361
-1148,'','Bovaird Dr E / Kennedy Rd',43.7154961,-79.7772446
-1149,'','Bovaird Dr E / Kennedy Rd N',43.7161598,-79.7760544
 1150,'','Bovaird Dr W / McLaughlin Rd N',43.6961441,-79.7971039
 1151,'','Bovaird Dr W / McLaughlin Rd',43.6965752,-79.7972107
-1152,'','Bovaird Dr W / Pertosa Dr',43.6833267,-79.81147
 1153,'','Bovaird Dr W / Worthington Ave',43.6813278,-79.8141403
-1154,'','Bovaird Dr E / Southlake Blvd',43.7210693,-79.7700119
-1155,'','Bovaird Dr E / Yellow Brick Rd',43.709156,-79.7829971
-1156,'','Bramalea Rd / Alexandria Gt',43.7110825,-79.6993484
-1157,'','Bramalea Rd / Alexandria Gt',43.7115936,-79.7002411
-1158,'','Bramalea Rd / Algonquin Blvd',43.713459,-79.7025681
-1159,'','Bramalea Rd / Algonquin Blvd',43.7135963,-79.7029266
 1160,'','Bramalea Rd / Avondale Blvd',43.7094116,-79.6974106
 1161,'','Bramalea Rd / Balmoral Dr',43.7152138,-79.7049255
 1162,'','Bramalea Rd / Balmoral Dr',43.7151604,-79.7050934
-1163,'','Bramalea Rd / Clark Blvd',43.7188339,-79.7096786
-1164,'','Bramalea Rd / Clark Blvd',43.7194405,-79.7108078
 1165,'','Bramalea Rd / Dearbourne Blvd',43.7092781,-79.6968994
-1166,'','Bramalea Rd / East Dr',43.7067375,-79.6935577
-1169,'','Airport Rd / Jetliner Rd',43.6858292,-79.6064224
 1170,'','Broadway / 4th St',43.9208946,-80.0893478
 1171,'','Broadway / Banting Dr',43.9158554,-80.1123886
 1172,'','Broadway / Ctr St',43.9175949,-80.1044159
@@ -672,7 +619,6 @@
 1178,'','City Ctr Dr / Kariya Gt',43.5932426,-79.6385803
 1179,'','201 City Ctr Dr / Duke Of York Blvd',43.5899887,-79.6415939
 1180,'','City Ctr Dr / Kariya Gt',43.5932465,-79.638916
-1183,'','Clark Blvd / Central Pk Dr',43.7170753,-79.7150421
 1184,'','Clark Blvd / Kings Cross Rd',43.7190437,-79.7124939
 1185,'','Clark Blvd / Kings Cross Rd',43.7183762,-79.7130508
 1191,'','Creditview Rd / Eglinton Ave',43.577282,-79.6845093
@@ -686,26 +632,6 @@
 1202,'','Derry Rd W / Tenth Line W',43.5840263,-79.7760086
 1203,'','Derry Rd W / Tenth Line W',43.5840569,-79.7763901
 1204,'','Derry Rd W / Terragar Blvd',43.5817947,-79.7787247
-1205,'','Dixie Rd / Bovaird Dr',43.7352333,-79.7553253
-1206,'','Dixie Rd / Bovaird Dr',43.7342377,-79.7543335
-1207,'','Dixie Rd / Cr Hl Dr S',43.72118,-79.7366409
-1208,'','Dixie Rd / Cr Hl Dr S',43.7210274,-79.7360916
-1209,'','Dixie Rd / Hazelwood Dr',43.7182922,-79.7328033
-1210,'','Dixie Rd / Hazelwood Dr',43.7180595,-79.7322769
-1211,'','Dixie Rd / Hillside Dr',43.7157631,-79.7291107
-1212,'','Dixie Rd / Howden Blvd',43.7197037,-79.7342758
-1213,'','Dixie Rd / Howden Blvd',43.7195435,-79.7344894
-1214,'','Dixie Rd / Lascelles Blvd',43.7236786,-79.7396927
-1215,'','Dixie Rd / Lascelles Blvd',43.7232285,-79.7394943
-1218,'','Dixie Rd / Mansion St',43.7268791,-79.7440567
-1219,'','Dixie Rd / Moregate Cr.',43.7327805,-79.7519455
-1220,'','Dixie Rd / North Pk Dr',43.7298012,-79.7477875
-1221,'','Dixie Rd / North Pk Dr',43.729496,-79.7479019
-1222,'','Dixie Rd / Northampton St',43.7271576,-79.7447586
-1223,'','Dixie Rd / Northcliffe St',43.7325134,-79.751976
-1225,'','Dixie Rd / Williams Pkwy.',43.7257462,-79.7424469
-1226,'','Dixie Rd / Williams Pkwy.',43.7249641,-79.7417755
-1227,'','Dixon Rd / Carlingview Dr',43.6868973,-79.5952072
 1230,'','Duke Of York Blvd / Princess Royal Dr',43.5899925,-79.6446991
 1231,'','Duke Of York Blvd / Princess Royal Dr',43.5897636,-79.6438599
 1232,'','Eglinton Ave W / Gln Erin Dr',43.5535965,-79.7123184
@@ -729,20 +655,9 @@
 1256,'','Hansen Blvd / Scott Dr',43.9273224,-80.113327
 1257,'','Hurontario St / Robert Speck Pkwy.',43.5971298,-79.6393738
 1258,'','Hurontario St / Bovaird Dr W',43.7074814,-79.7887878
-1260,'','Hurontario St / Collingwood Ave',43.7374802,-79.8300552
 1261,'','Hurontario St / Conservation Dr',43.7256508,-79.8135529
-1262,'','Hurontario St / Cresthaven Rd',43.7283325,-79.8177567
-1263,'','Hurontario St / Fisherman Dr',43.7149086,-79.7989426
-1264,'','Hurontario St / Fisherman Dr',43.7151985,-79.7998581
-1265,'','Hurontario St / Highwood Rd',43.7374306,-79.8295746
-1266,'','Hurontario St / Perth St',43.7280693,-79.816803
-1269,'','Hurontario St / Roycrest St',43.7303276,-79.8200912
 1271,'','Hurontario St / Sandalwood Pkwy. W',43.7173424,-79.8027267
-1272,'','Hurontario St / Tremblay St',43.712532,-79.7956467
-1273,'','Hurontario St / Tremblay St',43.712162,-79.7956543
 1276,'','Hurontario St / Wanless Dr',43.7261734,-79.8145447
-1277,'','Hurontario St / Wexford Rd',43.7095642,-79.7917252
-1278,'','Hurontario St / Wexford Rd',43.7091331,-79.7915878
 1279,'','Hwy 10 / 4th Ave',43.9273758,-80.0888596
 1280,'','Hurontario St / Boston Mills Rd',43.7932968,-79.9048004
 1281,'','Hurontario St / Boston Mills Rd',43.7933197,-79.905365
@@ -763,52 +678,24 @@
 1297,'','King St E / Evans Rdg',43.8869095,-79.7284775
 1298,'','King St E / Caledon / King Townline S',43.8878136,-79.7189941
 1299,'','King St E / Elm St',43.8804588,-79.7371292
-1300,'','Main St N / Archibald St',43.696476,-79.7743073
-1301,'','Main St N / Brickyard Way',43.7006264,-79.779953
-1302,'','Main St N / Brickyard Way',43.7006111,-79.7796402
-1303,'','Main St S / Charolais Blvd',43.6700783,-79.7389526
-1304,'','Main St N / Church St W',43.6882744,-79.7634506
-1305,'','Main St N / Church St E',43.6881142,-79.7626724
 1306,'','Main St S / Clarence St',43.6800728,-79.752037
 1307,'','Main St S / Elgin Dr',43.6734314,-79.7431564
 1308,'','Main St S / Elgin Dr',43.6736908,-79.743866
-1309,'','Main St N / English St',43.6947784,-79.7720184
-1310,'','Main St N / English St',43.6945267,-79.7713013
 1311,'','Wellington St W / George St S',43.6841316,-79.7590332
-1312,'','Main St N / Gillingham Dr',43.7035065,-79.7842255
 1313,'','Main St S / Wellington St E',43.6844635,-79.7582321
 1314,'','Main St S / Harold St',43.6797104,-79.7517166
-1315,'','Main St N / Layham Gt',43.6961899,-79.773613
 1316,'','Main St S / Nanwood Dr',43.6765976,-79.7471695
 1317,'','Main St S / Nanwood Dr',43.6763763,-79.7472763
-1318,'','Main St S / Peel Vlg Pkwy.',43.6717567,-79.74086
-1319,'','Main St S / Peel Vlg Pkwy.',43.6712036,-79.7405472
-1320,'','Main St N / Quarry Edge Dr',43.703228,-79.7832794
 1321,'','Main St N / Vodden St E',43.6925087,-79.7685547
 1322,'','Main St N / Williams Pkwy.',43.6990433,-79.7777634
-1324,'','Main St S / Woodbrook Dr',43.6825409,-79.7554779
 1325,'','Millcreek Dr / Erin Mills Pkwy.',43.5904884,-79.7418976
 1326,'','Millcreek Dr / Millrace Crt.',43.5927086,-79.7469559
 1327,'','Millcreek Dr / Millrace Crt.',43.5925064,-79.7460556
-1328,'','Peter Robertson Blvd / Blue Whale Blvd',43.7364616,-79.7626266
-1329,'','Peter Robertson Blvd / Canada Goose Blvd',43.7370834,-79.7618027
-1330,'','Peter Robertson Blvd / Dixie Rd',43.7381554,-79.7610092
-1331,'','Peter Robertson Blvd / Rainstorm Rd',43.7354431,-79.7630386
-1332,'','Peter Robertson Blvd / Riverbank Rd',43.7341995,-79.7638397
-1333,'','Peter Robertson Blvd / Riverbank Rd',43.7340431,-79.7637939
 1334,'','Queen St E / Ctr St N',43.6910973,-79.754631
 1335,'','Queen St S / Downey Dr',43.8749619,-79.7316437
-1336,'','Queen St E / Hansen Rd S',43.6983948,-79.7462082
-1337,'','Queen St E / Hansen Rd N',43.6987305,-79.7462463
-1338,'','Queen St E / Hwy 410',43.7032776,-79.7406693
-1339,'','Queen St E / Hwy 410',43.7038803,-79.7405167
-1340,'','Queen St E / James St',43.6891937,-79.7561874
 1343,'','Queen St E / Rutherford Rd S',43.7015877,-79.7425995
 1344,'','Queen St E / Rutherford Rd N',43.7016296,-79.7429504
-1345,'','Queen St E / Scott St',43.6895905,-79.7560654
 1346,'','Queen St S / Shr St',43.8749657,-79.7319031
-1347,'','Queen St E / Trueman St',43.6924629,-79.7528076
-1348,'','Queen St E / Trueman St',43.6926079,-79.7529297
 1349,'','Queen St E / Laurelcrest St',43.7084885,-79.7353745
 1350,'','Queensgate Blvd / Landsbridge St',43.8705444,-79.7214432
 1351,'','Queensgate Blvd / Landsbridge St',43.8748589,-79.7144928
@@ -825,17 +712,8 @@
 1363,'','Rathburn Rd W / Elora Dr',43.5863609,-79.6529465
 1364,'','Robert Speck Pkwy. / City Ctr Dr',43.5954018,-79.6391525
 1365,'','Robert Speck Pkwy. / Hurontario St',43.5957222,-79.6392899
-1368,'','Steeles Ave / Castleview Dr',43.7367477,-79.6538773
-1369,'','Steeles Ave / Castleview Dr',43.7374458,-79.6536713
-1372,'','Steeles Ave E / Hartford Trl',43.6729469,-79.7254105
 1373,'','Steeles Ave E / Kennedy Rd S',43.6759148,-79.7218475
 1374,'','Steeles Ave E / Kennedy Rd S',43.6751747,-79.7234573
-1375,'','Steeles Ave E / Melanie Dr',43.710083,-79.6843719
-1376,'','Steeles Ave E / Melanie Dr',43.7119293,-79.6822205
-1377,'','Steeles Ave E / Melanie Dr',43.7118568,-79.6828079
-1378,'','Steeles Ave E / Melanie Dr',43.7100372,-79.6851196
-1379,'','Steeles Ave E / Orchard Dr',43.6736183,-79.7251282
-1383,'','Steeles Ave E / Torbram Rd',43.7154465,-79.6788177
 1384,'','Thomas St / Erin Mills Pkwy.',43.5701637,-79.722023
 1385,'','Thomas St / Erin Mills Pkwy.',43.5702477,-79.7223434
 1391,'','Winston Churchill Blvd / Artesian Dr',43.5469627,-79.7148743
@@ -856,18 +734,7 @@
 1410,'','Regional Rd 50 / Cross Country Blvd',43.8875618,-79.7492142
 1411,'','Regional Rd 50 / Mill St',43.8809319,-79.7398224
 1412,'','Regional Rd 50 / Mill St',43.8806992,-79.7398987
-1413,'','Bovaird Dr W / Fletchers Crk Blvd',43.6917496,-79.8022308
-1414,'','Bovaird Dr W / Van Kirk Dr',43.6977043,-79.7958832
-1417,'','Bovaird Dr W / Royal Orchard Dr',43.698555,-79.7943268
-1418,'','Bovaird Dr E / Heart Lk Rd',43.7222939,-79.769371
-1419,'','Bovaird Dr E / Langston Dr',43.718544,-79.7734604
-1420,'','Bovaird Dr E / Richvale Dr S',43.7196503,-79.7725067
-1421,'','Bovaird Dr E / Conestoga Dr',43.713398,-79.7795334
-1422,'','Bovaird Dr E / Sunforest Dr',43.7083626,-79.7843399
-1423,'','Hurontario St / Brinkley Dr',43.7305222,-79.8207932
-1425,'','Main St N / Sproule Dr',43.6909904,-79.7666321
 1426,'','Main St N / Vodden St W',43.6926956,-79.7692566
-1427,'','Main St N / Rosedale Ave',43.691124,-79.7671127
 1432,'','City Ctr Dr / Duke Of York Blvd (201 City Ctr Dr)',43.5902252,-79.6414948
 1435,'','Trafalgar Rd / Burnhamthorpe Rd',43.5013275,-79.7375031
 1436,'','Streetsville Sta Pkng Lot',43.5774536,-79.7130508
@@ -876,31 +743,20 @@
 1439,'','Mississauga Rd / Argentia Rd',43.6013832,-79.7402344
 1440,'','Mississauga Rd / Royal Bank Dr',43.6087875,-79.7501144
 1441,'','Trafalgar Rd / Burnhamthorpe Rd',43.5017662,-79.7387924
-1443,'','Central Pk Dr / Clark Blvd',43.7173843,-79.7169342
 1444,'','Eglinton Ave W / Credit Vly Rd',43.5619164,-79.7030182
 1445,'','Eglinton Ave W / Summersky Court',43.5625381,-79.7030792
 1446,'','Erin Mills Pkwy. / McFarren Blvd',43.5677757,-79.7184906
 1447,'','Erin Mills Pkwy. / Banfield Rd',43.567482,-79.7188568
 1448,'','Mayfield Rd / Pillsworth Rd Pk & Ride',43.8466263,-79.6971207
-1449,'','Dixon Rd / Carlingview Dr',43.6865349,-79.5957794
-1450,'','Airport Rd / Thamesgate Dr',43.7147141,-79.6568832
 1451,'','King St E / Evans Rdg',43.8867188,-79.7282181
 1452,'','Hurontario St / Sandalwood Pkwy. E',43.7181053,-79.8032684
-1453,'','Steeles Ave E / Goreway Dr',43.7328835,-79.6588821
 1454,'','Main St N / Williams Pkwy.',43.6986389,-79.7768326
 1455,'','Erin Mills Pkwy. / Vista Blvd',43.5736008,-79.7274475
-1456,'','Steeles Ave E / Airport Rd',43.7231903,-79.6701279
-1457,'','Airport Rd / Steeles Ave E',43.7234192,-79.6686401
-1458,'','Steeles Ave E / Airport Rd',43.7241211,-79.6683731
 1459,'','Steeles Ave E / 1st Gulf Blvd',43.6811714,-79.7163315
-1461,'','Steeles Ave E / Goreway Dr',43.7335205,-79.6573639
 1462,'','Main St N / Bovaird Dr W',43.7049713,-79.7861862
 1481,'','Derry Rd W / Winston Churchill Blvd',43.5877228,-79.7712631
 1482,'','Winston Churchill Blvd / Derry Rd W',43.5865669,-79.7686844
 1483,'','Winston Churchill Blvd / Vanderbilt Rd',43.5848999,-79.7667999
-1484,'','Queen St E / Carnegie Ln.',43.6874161,-79.7580948
-1485,'','Hurontario St / Petworth Rd',43.7216873,-79.8081207
-1486,'','Hurontario St / Petworth Rd',43.7213783,-79.8082581
 1487,'','Hurontario St / Travelled Rd Carpool Lot',43.8551598,-79.9887848
 1488,'','Hurontario St / Travelled Rd Carpool Lot',43.8550072,-79.9889755
 1504,'','Barrie St / 8th Line',44.1262932,-79.5678711
@@ -928,14 +784,11 @@
 1538,'','Yonge St / Glenn Ave',44.3280373,-79.6202011
 1543,'','Wellington St E / 1st Commerce Dr',44.0122299,-79.4139557
 1544,'','Aurora- Wellington St / 1st Commerce Dr',44.0118065,-79.4146194
-1545,'','Steeles Ave E / Torbram Rd',43.7151222,-79.6785889
 1546,'','Yonge St / Big Bay Pt Rd',44.3565178,-79.6470184
 1601,'','Belfield Rd / City Vw Dr',43.699543,-79.5854187
 1602,'','Belfield Rd / City Vw Dr',43.6997261,-79.58564
 1603,'','Belfield Rd / Iron St',43.7004929,-79.5812912
 1604,'','Belfield Rd / Iron St',43.7008095,-79.5808258
-1605,'','Belfield Rd / Kipling Ave',43.7046242,-79.5638275
-1606,'','Belfield Rd / Kipling Ave',43.7047539,-79.5641098
 1607,'','Belfield Rd / Martin Grv Rd',43.7017059,-79.5761719
 1608,'','Belfield Rd / Martin Grv Rd',43.7021408,-79.5754166
 1609,'','Belfield Rd / Mcculloch Ave',43.7024269,-79.573288
@@ -944,21 +797,8 @@
 1612,'','62 Belfield Rd / Shaft Rd',43.7034035,-79.5691986
 1613,'','Belfield Rd / Shaft Rd',43.703907,-79.5662384
 1614,'','Belfield Rd / Shaft Rd',43.7040443,-79.5665588
-1615,'','Dixon Rd / Skyway Ave',43.687748,-79.5871353
-1616,'','Dixon Rd / City Vw Dr',43.6904411,-79.5767212
-1617,'','Dixon Rd / Hwy 427',43.6865234,-79.5985565
-1618,'','Dixon Rd / Kelfield St',43.6900444,-79.5773544
 1619,'','Ellesmere Rd / Morningside Ave',43.7854576,-79.1925735
 1620,'','Ellesmere Rd / Morningside Ave',43.7854385,-79.1931229
-1621,'','Finch Ave W / Humber College Blvd',43.7343254,-79.6126404
-1622,'','Finch Ave W / Humber College Blvd',43.7342873,-79.6107941
-1623,'','Finch Ave W / Humberline Dr',43.7349052,-79.6181259
-1624,'','Finch Ave W / Humberline Dr',43.735096,-79.6174011
-1625,'','Finch Ave W / Humber College Blvd',43.7344666,-79.612236
-1626,'','Humber College Blvd / Finch Ave W',43.7335777,-79.61026
-1627,'','Humber College Blvd / Humberline Dr',43.7321663,-79.6089401
-1628,'','Humber College Blvd / Hwy 27',43.730217,-79.6018829
-1629,'','Humber College Blvd / Hwy 27',43.7303581,-79.6024246
 1630,'','Hwy 27 / Carrier Dr',43.7392311,-79.6056442
 1631,'','Hwy 27 / Carrier Dr',43.7390442,-79.6051331
 1632,'','Hwy 27 / Finch Ave W',43.7344933,-79.6034851
@@ -1166,7 +1006,6 @@
 2111,'','Bullock Dr / Laidlaw Blvd',43.8744316,-79.2800446
 2112,'','Main St N / 16th Ave',43.8919067,-79.2639542
 2113,'','Hwy 48 / 16th Ave',43.8920631,-79.2641983
-2114,'','Queen St E / Theatre Ln.',43.6871338,-79.7587585
 2116,'','Queen St N / Columbia Way',43.8915863,-79.754982
 2117,'','Tenth Line / Aintree Dr',43.9778366,-79.2319031
 2126,'','Main St / Stouffer St',43.9733505,-79.2380981
@@ -1217,16 +1056,19 @@
 2193,'','Main St / Weldon Rd',43.9682426,-79.2604752
 2194,'','Main St / Westlawn Cres.',43.9685707,-79.2601318
 2196,'','Burlington Bus',43.3406448,-79.8111801
-2197,'','Bramalea Rd / Orenda Rd',43.7060204,-79.6929092
 2198,'','Yonge St / Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave / Kellam St',43.8441849,-79.6284332
 2200,'','Albert St S / River St',44.2623672,-79.0663986
 2202,'','Yonge St / Victoria St',44.3249016,-79.6195755
-2203,'','Kitchener Bus Terminal',43.4495506,-80.487587
 2204,'','Weber St E / Montgomery Rd',43.4387245,-80.4601898
-2205,'','Weber St E / Montgomery Rd',43.4387054,-80.4595566
 2206,'','Kitchener Bus Terminal',43.4494858,-80.4873962
 2207,'','West Harbour Bus',43.265225,-79.865379
+2208,'','Renforth Dr / Convair Dr',43.6720657,-79.5930939
+2209,'','Renforth Dr / Convair Dr',43.6723671,-79.5936432
+2210,'','Mississauga Transitway',43.5520363,-79.7003021
+2213,'','Erin Mills Transitway',43.552124,-79.7004547
+2214,'','Erin Mills Transitway',43.5520363,-79.7003021
+2215,'','Erin Mills Transitway',43.552124,-79.7004547
 2401,'','St Catharines Bus',43.1476898,-79.2553024
 2402,'','St Catharines Fairview Mall',43.178627,-79.2452545
 2404,'','Stamford St / Stanley Ave Pk & Ride',43.097271,-79.0852356
@@ -1256,8 +1098,9 @@
 2521,'','Wellington St E / Mary St',44.0031967,-79.451149
 2522,'','Woodbine Ave / Hwy 404 Pk And Ride',44.1918488,-79.4372101
 2523,'','Queensville Side Rd / Hwy 404 Pk And Ride',44.1420212,-79.4405518
-2525,'','Morningside Ave / Military Trl',43.7895584,-79.194603
-2526,'','Toronto- Morningside Ave / Military Trl',43.7885704,-79.1939468
+2527,'','Mountainview Rd N / Maple Ave',43.6561584,-79.9112625
+2528,'','Mountainview Rd N / Maple Ave',43.6555405,-79.9107971
+2529,'','Sq One',43.5951881,-79.6492691
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
