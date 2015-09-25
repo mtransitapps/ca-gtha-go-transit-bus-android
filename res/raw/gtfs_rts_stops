@@ -46,6 +46,8 @@
 74,'','Yonge St / Steeles Ave W',43.7986336,-79.4200897
 79,'','Yonge St / North York Blvd (Mel Lastman Sq)',43.7681007,-79.4128571
 81,'','Aurora Bus',43.999846,-79.459435
+83,'','Yonge St / Mt Albert Rd',44.0952721,-79.4899673
+84,'','Yonge St / Queen St',44.0951653,-79.4901352
 87,'','Yonge St / Killarney Beach Rd',44.2514305,-79.6007919
 88,'','Yonge St / 4th Line',44.2516747,-79.6010361
 90,'','Yonge St / Victoria St',44.3241806,-79.6191483
@@ -79,7 +81,7 @@
 147,'','Pickering Bus',43.830982,-79.084571
 148,'','Streetsville Bus',43.575378,-79.709271
 150,'','Hwy 7 W / Westney Rd',43.9329987,-79.0689163
-151,'','Hwy 7 E / Westney Rd',43.9338036,-79.0673599
+152,'','Hwy 7 E / Westney Rd',43.934021,-79.0670166
 153,'','University Of Ontario Institute Of Technology',43.9433594,-78.8949661
 154,'','Oshawa Bus Terminal',43.8978462,-78.865593
 155,'','Waverly Rd / Baseline Rd',43.8975792,-78.6905899
@@ -294,8 +296,6 @@
 542,'','King Ave W / Rudell Rd',43.9143715,-78.6017914
 543,'','King Ave W / Rudell Rd',43.9147644,-78.6007919
 544,'','Durham Hwy 2 / Rundle Rd',43.9139404,-78.7460556
-545,'','King St W / Scugog St',43.9129982,-78.6920242
-546,'','King St E / Simpson Ave',43.9113541,-78.6754837
 547,'','Durham Hwy 2 / Solina Rd',43.9138412,-78.7575531
 548,'','King St W / Temperance St',43.9119873,-78.6884995
 549,'','Durham Hwy 2 / Trulls Rd',43.911026,-78.7880707
@@ -421,6 +421,9 @@
 731,'','Yonge St / 16th Ave',43.8536987,-79.4329987
 732,'','Main St W / Longwood Rd S',43.2590866,-79.901741
 733,'','Hwy 7 / Bullock Dr',43.865406,-79.2925491
+734,'','King St E / Simpson Ave',43.9116249,-78.6742783
+735,'','Simpson Ave / King St E',43.9112968,-78.6749878
+736,'','Finch Bus Terminal',43.7819481,-79.4159088
 801,'','Main St S / Frederick St',43.6113472,-80.1336594
 802,'','Alma St / Fall St',43.6140785,-80.148674
 803,'','Alma St / Fall St',43.6138763,-80.1490631
@@ -562,12 +565,6 @@
 980,'','Cooke Blvd / Masonry Crt.',43.3092003,-79.853508
 981,'','Hwy 7 W / Paddock Rd',43.9257317,-79.0787201
 982,'','Hwy 7 W / Concession 6',43.9257317,-79.0776825
-983,'','Holland Lndg Rd / Yonge St',44.0924377,-79.4902115
-984,'','Holland Lndg Rd / Yonge St',44.0923996,-79.4903946
-985,'','Holland Lndg Rd / Bradford St',44.0997162,-79.4984818
-986,'','Holland Lndg Rd / Bradford St',44.0999832,-79.4990005
-987,'','Holland Lndg Rd / Oriole Dr',44.1052437,-79.5155182
-988,'','Holland Lndg Rd / Oriole Dr',44.1050797,-79.5155869
 989,'','Hurontario St / County Court Blvd',43.6621399,-79.7277679
 990,'','Hurontario St / County Court Blvd',43.6589584,-79.7234879
 991,'','Hurontario St / Ray Lawson Blvd',43.658577,-79.7236023
@@ -862,6 +859,8 @@
 1801,'','Wellington St E / Stronach Blvd',44.0072441,-79.4335251
 1802,'','Tenth Line / Aintree Dr',43.978157,-79.2320175
 1803,'','Bayview Ave / Langstaff Rd E',43.8349037,-79.4053802
+1804,'','Bradford St / Olive St',44.1012955,-79.49263
+1805,'','Bradford St / Yonge St',44.101223,-79.4919434
 1806,'','Bullock Dr / Hwy 7',43.8661575,-79.2920685
 1810,'','Davis Dr / Lorne Ave',44.0578918,-79.466423
 1812,'','Davis Dr / Ashton Rd',44.0642853,-79.4387512
@@ -934,6 +933,12 @@
 1937,'','Rutherford Rd / Clarence St',43.8159866,-79.6056671
 1938,'','Rutherford Rd / Clarence St',43.8155441,-79.606163
 1939,'','Rutherford Rd / Forest Fountain Dr',43.8147736,-79.6108627
+1969,'','Toll Rd / Bradford St',44.1004066,-79.4977875
+1970,'','Toll Rd / Bradford St',44.1004219,-79.4975357
+1971,'','Toll Rd / Centennial Ave',44.1031227,-79.505188
+1972,'','Toll Rd / Centennial Ave',44.103157,-79.5050201
+1973,'','Toll Rd / Oriole Dr',44.1051941,-79.5132675
+1974,'','Toll Rd / Oriole Dr',44.1052742,-79.5132294
 1979,'','Yonge St / Carrville Rd',43.8532715,-79.4332428
 1982,'','Yonge St / Aspenwood Dr',44.0681725,-79.4838028
 1984,'','Yonge St / Maple St',44.0034065,-79.4686279
@@ -978,6 +983,8 @@
 2060,'','Yonge St / Mulock Dr',44.0367699,-79.4759674
 2061,'','Yonge St / Mulock Dr',44.0358086,-79.4761047
 2065,'','Upper Canada Mall',44.0586586,-79.4814758
+2067,'','Yonge St / North St',44.0978394,-79.4906998
+2068,'','Yonge St / North St',44.0976105,-79.4905701
 2069,'','Yonge St / Northern Hts Dr',43.849144,-79.4318695
 2071,'','Yonge St / Oak Ave',43.8500443,-79.4324112
 2072,'','Yonge St / Observatory Ln.',43.8581696,-79.4340744
@@ -1008,6 +1015,7 @@
 2113,'','Hwy 48 / 16th Ave',43.8920631,-79.2641983
 2116,'','Queen St N / Columbia Way',43.8915863,-79.754982
 2117,'','Tenth Line / Aintree Dr',43.9778366,-79.2319031
+2118,'','Yonge St / Mortonvale Dr',44.1003456,-79.4911728
 2126,'','Main St / Stouffer St',43.9733505,-79.2380981
 2127,'','Yonge St / Clark Ave E',43.8069839,-79.4221497
 2128,'','Davis Dr / Main St (Newmarket GO)',44.0589409,-79.4613876
@@ -1029,7 +1037,6 @@
 2150,'','Cambridge Smart Ctr',43.4117165,-80.3236008
 2151,'','Regional Rd 25 / Hwy 401 Pk & Ride',43.5274849,-79.9038162
 2153,'','Wilfrid Laurier University',43.4752655,-80.5272827
-2155,'','King St E / Montgomery Rd',43.4375038,-80.4602432
 2157,'','Maple Bus',43.859853,-79.505926
 2158,'','Major Mackenzie Dr E / Keele St',43.8550568,-79.5116119
 2159,'','Keele St / Church St',43.852829,-79.5120239
@@ -1061,11 +1068,11 @@
 2200,'','Albert St S / River St',44.2623672,-79.0663986
 2202,'','Yonge St / Victoria St',44.3249016,-79.6195755
 2204,'','Weber St E / Montgomery Rd',43.4387245,-80.4601898
-2206,'','Kitchener Bus Terminal',43.4494858,-80.4873962
+2205,'','Weber St E / Montgomery Rd',43.4387054,-80.4595566
 2207,'','West Harbour Bus',43.265225,-79.865379
 2208,'','Renforth Dr / Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr / Convair Dr',43.6723671,-79.5936432
-2210,'','Mississauga Transitway',43.5520363,-79.7003021
+2210,'','Erin Mills Transitway',43.5520363,-79.7003021
 2213,'','Erin Mills Transitway',43.552124,-79.7004547
 2214,'','Erin Mills Transitway',43.5520363,-79.7003021
 2215,'','Erin Mills Transitway',43.552124,-79.7004547
@@ -1101,6 +1108,9 @@
 2527,'','Mountainview Rd N / Maple Ave',43.6561584,-79.9112625
 2528,'','Mountainview Rd N / Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
+2530,'','Kitchener Bus Terminal',43.4519386,-80.4876175
+2531,'','Kitchener Bus Ternminal',43.451828,-80.4870758
+2532,'','King St W / Scugog St',43.9128571,-78.6923294
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
