@@ -19,7 +19,7 @@
 2901,0,'Cooksville',29
 2900,0,'Guelph Central',29
 3001,0,'Bramalea',30
-3000,0,'Kitchener- WeberSt W @ Queen St N',30
+3000,0,'Kitchener',30
 3100,0,'U of Guelph',31
 3101,0,'Union',31
 3200,0,'Brampton',32
@@ -52,13 +52,13 @@
 5400,0,'York U',54
 6101,0,'Richmond Hl',61
 6100,0,'Union',61
-6301,0,'King- Keele St @ Burton Grv',63
+6301,0,'King',63
 6300,0,'Union',63
 6501,0,'East Gwillimbury',65
 6500,0,'Union',65
 6601,0,'Newmarket',66
 6600,0,'Yorkdale',66
-6701,0,'East Gwillimbury- Woodbine & Hwy 404 Pk & Ride',67
+6701,0,'East Gwillimbury',67
 6700,0,'Finch',67
 6801,0,'Barrie',68
 6800,0,'Newmarket',68
