@@ -11,7 +11,6 @@
 21,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0275345,-79.5959473
 22,'','Keele St @ Hwy 401',43.7216759,-79.4808273
 25,'','Barrie St @ Holland St W',44.1146889,-79.565094
-26,'','Barrie St @ John St E',44.1148643,-79.564827
 27,'','Keele St @ Sta Rd',43.9203224,-79.5260773
 28,'','Rutherford Bus',43.838582,-79.498945
 29,'','York University',43.7730637,-79.5009308
@@ -32,7 +31,6 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
-53,'','Canada''s Wonderland',43.8460121,-79.5406113
 54,'','Bramalea Bus',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
@@ -46,8 +44,6 @@
 74,'','Yonge St @ Steeles Ave W',43.7986336,-79.4200897
 79,'','Yonge St @ North York Blvd (Mel Lastman Sq)',43.7681007,-79.4128571
 81,'','Aurora Bus',43.999846,-79.459435
-83,'','Yonge St @ Mt Albert Rd',44.0952721,-79.4899673
-84,'','Yonge St @ Queen St',44.0951653,-79.4901352
 87,'','Yonge St @ Killarney Beach Rd',44.2514305,-79.6007919
 88,'','Yonge St @ 4th Line',44.2516747,-79.6010361
 90,'','Yonge St @ Victoria St',44.3241806,-79.6191483
@@ -216,6 +212,7 @@
 366,'','Kingston Rd @ Westney Rd',43.8572845,-79.0426102
 367,'','Kingston Rd @ Westney Rd',43.8576012,-79.0421982
 368,'','Dundas St @ Thickson Rd',43.886425,-78.9140778
+400,'','Grn Ln. E @ Leslie St',44.084465,-79.4360123
 401,'','King Ave E @ Beaver St S',43.9180527,-78.5859451
 402,'','Durham Hwy 2 @ Darlington Blvd',43.9069023,-78.8081512
 407,'','Albert St S @ Hwy 7 & 12',44.2531013,-79.0652847
@@ -293,11 +290,9 @@
 539,'','Durham Hwy 2 @ Rickard Rd',43.9124374,-78.6391907
 540,'','King St W @ Roenigk Dr',43.9127769,-78.6950073
 541,'','King St W @ Roenigk Dr',43.9130325,-78.6950607
-542,'','King Ave W @ Rudell Rd',43.9143715,-78.6017914
 543,'','King Ave W @ Rudell Rd',43.9147644,-78.6007919
 544,'','Durham Hwy 2 @ Rundle Rd',43.9139404,-78.7460556
 547,'','Durham Hwy 2 @ Solina Rd',43.9138412,-78.7575531
-548,'','King St W @ Temperance St',43.9119873,-78.6884995
 549,'','Durham Hwy 2 @ Trulls Rd',43.911026,-78.7880707
 550,'','Durham Hwy 2 @ Varcoe Rd',43.9071846,-78.8074951
 553,'','Durham Hwy 47 @ Goodwood Rd',44.0338898,-79.2021637
@@ -424,6 +419,8 @@
 734,'','King St E @ Simpson Ave',43.9116249,-78.6742783
 735,'','Simpson Ave @ King St E',43.9112968,-78.6749878
 736,'','Finch Bus Terminal',43.7819481,-79.4159088
+737,'','Hwy 48 @ 19th Ave',43.945057,-79.278046
+738,'','Hwy 48 @ 19th Ave',43.945339,-79.277901
 801,'','Main St S @ Frederick St',43.6113472,-80.1336594
 802,'','Alma St @ Fall St',43.6140785,-80.148674
 803,'','Alma St @ Fall St',43.6138763,-80.1490631
@@ -501,7 +498,6 @@
 895,'','Thompson Rd S @ McCuaig Dr',43.5221252,-79.8587494
 896,'','Thompson Rd S @ McCuaig Dr',43.5222435,-79.8590088
 897,'','Trafalgar Rd @ Briarhall Gt',43.4771309,-79.7049179
-898,'','Trafalgar Rd @ Dundas St E',43.4883308,-79.7200241
 899,'','Trafalgar Rd @ Dundas St E',43.488224,-79.7202759
 900,'','Trafalgar Rd @ Glenashton Dr',43.4801941,-79.7090683
 901,'','Trafalgar Rd @ Glenashton Dr',43.480526,-79.7098923
@@ -565,6 +561,12 @@
 980,'','Cooke Blvd @ Masonry Crt.',43.3092003,-79.853508
 981,'','Hwy 7 W @ Paddock Rd',43.9257317,-79.0787201
 982,'','Hwy 7 W @ Concession 6',43.9257317,-79.0776825
+983,'','Holland Lndg Rd @ Yonge St',44.0924377,-79.4902115
+984,'','Holland Lndg Rd @ Yonge St',44.0923996,-79.4903946
+985,'','Holland Lndg Rd @ Bradford St',44.0997162,-79.4984818
+986,'','Holland Lndg Rd @ Bradford St',44.0999832,-79.4990005
+987,'','Holland Lndg Rd @ Oriole Dr',44.1052437,-79.5155182
+988,'','Holland Lndg Rd @ Oriole Dr',44.1050797,-79.5155869
 989,'','Hurontario St @ County Court Blvd',43.6621399,-79.7277679
 990,'','Hurontario St @ County Court Blvd',43.6589584,-79.7234879
 991,'','Hurontario St @ Ray Lawson Blvd',43.658577,-79.7236023
@@ -717,7 +719,6 @@
 1392,'','Winston Churchill Blvd @ Credit Vly Rd',43.5466614,-79.7139511
 1393,'','Albion Rd @ Steeles Ave W',43.7503242,-79.6393509
 1394,'','Albion Rd @ Steeles Ave W',43.7499313,-79.639595
-1395,'','Hwy 50 @ Hwy 7',43.7669487,-79.648201
 1398,'','Hwy 50 @ Cottrelle Blvd',43.7850227,-79.6589432
 1400,'','Regional Rd 50 @ Castlemore Rd',43.8032684,-79.6695251
 1402,'','Regional Rd 50 @ Countryside Dr',43.8368378,-79.6890564
@@ -859,8 +860,6 @@
 1801,'','Wellington St E @ Stronach Blvd',44.0072441,-79.4335251
 1802,'','Tenth Line @ Aintree Dr',43.978157,-79.2320175
 1803,'','Bayview Ave @ Langstaff Rd E',43.8349037,-79.4053802
-1804,'','Bradford St @ Olive St',44.1012955,-79.49263
-1805,'','Bradford St @ Yonge St',44.101223,-79.4919434
 1806,'','Bullock Dr @ Hwy 7',43.8661575,-79.2920685
 1810,'','Davis Dr @ Lorne Ave',44.0578918,-79.466423
 1812,'','Davis Dr @ Ashton Rd',44.0642853,-79.4387512
@@ -933,12 +932,6 @@
 1937,'','Rutherford Rd @ Clarence St',43.8159866,-79.6056671
 1938,'','Rutherford Rd @ Clarence St',43.8155441,-79.606163
 1939,'','Rutherford Rd @ Forest Fountain Dr',43.8147736,-79.6108627
-1969,'','Toll Rd @ Bradford St',44.1004066,-79.4977875
-1970,'','Toll Rd @ Bradford St',44.1004219,-79.4975357
-1971,'','Toll Rd @ Centennial Ave',44.1031227,-79.505188
-1972,'','Toll Rd @ Centennial Ave',44.103157,-79.5050201
-1973,'','Toll Rd @ Oriole Dr',44.1051941,-79.5132675
-1974,'','Toll Rd @ Oriole Dr',44.1052742,-79.5132294
 1979,'','Yonge St @ Carrville Rd',43.8532715,-79.4332428
 1982,'','Yonge St @ Aspenwood Dr',44.0681725,-79.4838028
 1984,'','Yonge St @ Maple St',44.0034065,-79.4686279
@@ -983,8 +976,6 @@
 2060,'','Yonge St @ Mulock Dr',44.0367699,-79.4759674
 2061,'','Yonge St @ Mulock Dr',44.0358086,-79.4761047
 2065,'','Upper Canada Mall',44.0586586,-79.4814758
-2067,'','Yonge St @ North St',44.0978394,-79.4906998
-2068,'','Yonge St @ North St',44.0976105,-79.4905701
 2069,'','Yonge St @ Northern Hts Dr',43.849144,-79.4318695
 2071,'','Yonge St @ Oak Ave',43.8500443,-79.4324112
 2072,'','Yonge St @ Observatory Ln.',43.8581696,-79.4340744
@@ -1015,7 +1006,6 @@
 2113,'','Hwy 48 @ 16th Ave',43.8920631,-79.2641983
 2116,'','Queen St N @ Columbia Way',43.8915863,-79.754982
 2117,'','Tenth Line @ Aintree Dr',43.9778366,-79.2319031
-2118,'','Yonge St @ Mortonvale Dr',44.1003456,-79.4911728
 2126,'','Main St @ Stouffer St',43.9733505,-79.2380981
 2127,'','Yonge St @ Clark Ave E',43.8069839,-79.4221497
 2128,'','Davis Dr @ Main St (Newmarket GO)',44.0589409,-79.4613876
@@ -1076,7 +1066,6 @@
 2213,'','Erin Mills Transitway',43.552124,-79.7004547
 2214,'','Erin Mills Transitway',43.5520363,-79.7003021
 2215,'','Erin Mills Transitway',43.552124,-79.7004547
-2401,'','St Catharines Bus',43.1476898,-79.2553024
 2402,'','St Catharines Fairview Mall',43.178627,-79.2452545
 2404,'','Stamford St @ Stanley Ave Pk & Ride',43.097271,-79.0852356
 2405,'','Stanley Ave @ Hwy 420',43.0964737,-79.0854797
@@ -1098,7 +1087,6 @@
 2511,'','Queen St East @ West Dr',43.7095222,-79.733696
 2512,'','Blind Line @ Hansen Blvd',43.9247589,-80.1168442
 2513,'','Blind Line @ College Ave',43.9221954,-80.1162033
-2517,'','King St @ Picton St',43.2543945,-79.0711823
 2518,'','MacDonell St @ Carden St (Guelph Central GO)',43.5463142,-80.2452316
 2519,'','Guelph Central Bus',43.544932,-80.246388
 2520,'','Wellington St E @ John West Way',44.0035057,-79.4506836
@@ -1111,6 +1099,19 @@
 2530,'','Kitchener Bus Terminal',43.4519386,-80.4876175
 2531,'','Kitchener Bus Terminal',43.451828,-80.4870758
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
+2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
+2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
+2535,'','Hwy 50 @ Ebenezer Rd',43.777973,-79.654884
+2536,'','Trafalgar Rd @ Dundas St E',43.487812,-79.71936
+2537,'','Barrie St @ Doctors Ln',44.115643,-79.565002
+2540,'','Morningside Ave @ Tams Rd',43.792179,-79.19574
+2541,'','Morningside Ave @ Tams Rd',43.791924,-79.195305
+2542,'','Simcoe St N @ Parkwood Court',43.905533,-78.867271
+2543,'','Simcoe St N @ Parkwood Court',43.905807,-78.867111
+2544,'','Markham Rd @ Edward Jeffreys Ave',43.896362,-79.265251
+2545,'','Markham Rd @ Edward Jeffreys Ave',43.895947,-79.264854
+2546,'','Hurontario St @ Old School Rd',43.753716,-79.851891
+2567,'','Hurontario St @ Old School Rd',43.753563,-79.851234
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
