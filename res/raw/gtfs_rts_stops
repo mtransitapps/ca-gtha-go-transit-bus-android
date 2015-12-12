@@ -44,6 +44,8 @@
 74,'','Yonge St @ Steeles Ave W',43.7986336,-79.4200897
 79,'','Yonge St @ North York Blvd (Mel Lastman Sq)',43.7681007,-79.4128571
 81,'','Aurora Bus',43.999846,-79.459435
+83,'','Yonge St @ Mt Albert Rd',44.0952721,-79.4899673
+84,'','Yonge St @ Queen St',44.0951653,-79.4901352
 87,'','Yonge St @ Killarney Beach Rd',44.2514305,-79.6007919
 88,'','Yonge St @ 4th Line',44.2516747,-79.6010361
 90,'','Yonge St @ Victoria St',44.3241806,-79.6191483
@@ -561,12 +563,6 @@
 980,'','Cooke Blvd @ Masonry Crt.',43.3092003,-79.853508
 981,'','Hwy 7 W @ Paddock Rd',43.9257317,-79.0787201
 982,'','Hwy 7 W @ Concession 6',43.9257317,-79.0776825
-983,'','Holland Lndg Rd @ Yonge St',44.0924377,-79.4902115
-984,'','Holland Lndg Rd @ Yonge St',44.0923996,-79.4903946
-985,'','Holland Lndg Rd @ Bradford St',44.0997162,-79.4984818
-986,'','Holland Lndg Rd @ Bradford St',44.0999832,-79.4990005
-987,'','Holland Lndg Rd @ Oriole Dr',44.1052437,-79.5155182
-988,'','Holland Lndg Rd @ Oriole Dr',44.1050797,-79.5155869
 989,'','Hurontario St @ County Court Blvd',43.6621399,-79.7277679
 990,'','Hurontario St @ County Court Blvd',43.6589584,-79.7234879
 991,'','Hurontario St @ Ray Lawson Blvd',43.658577,-79.7236023
@@ -860,6 +856,8 @@
 1801,'','Wellington St E @ Stronach Blvd',44.0072441,-79.4335251
 1802,'','Tenth Line @ Aintree Dr',43.978157,-79.2320175
 1803,'','Bayview Ave @ Langstaff Rd E',43.8349037,-79.4053802
+1804,'','Bradford St @ Olive St',44.1012955,-79.49263
+1805,'','Bradford St @ Yonge St',44.101223,-79.4919434
 1806,'','Bullock Dr @ Hwy 7',43.8661575,-79.2920685
 1810,'','Davis Dr @ Lorne Ave',44.0578918,-79.466423
 1812,'','Davis Dr @ Ashton Rd',44.0642853,-79.4387512
@@ -932,6 +930,12 @@
 1937,'','Rutherford Rd @ Clarence St',43.8159866,-79.6056671
 1938,'','Rutherford Rd @ Clarence St',43.8155441,-79.606163
 1939,'','Rutherford Rd @ Forest Fountain Dr',43.8147736,-79.6108627
+1969,'','Toll Rd @ Bradford St',44.1004066,-79.4977875
+1970,'','Toll Rd @ Bradford St',44.1004219,-79.4975357
+1971,'','Toll Rd @ Centennial Ave',44.1031227,-79.505188
+1972,'','Toll Rd @ Centennial Ave',44.103157,-79.5050201
+1973,'','Toll Rd @ Oriole Dr',44.1051941,-79.5132675
+1974,'','Toll Rd @ Oriole Dr',44.1052742,-79.5132294
 1979,'','Yonge St @ Carrville Rd',43.8532715,-79.4332428
 1982,'','Yonge St @ Aspenwood Dr',44.0681725,-79.4838028
 1984,'','Yonge St @ Maple St',44.0034065,-79.4686279
@@ -976,6 +980,8 @@
 2060,'','Yonge St @ Mulock Dr',44.0367699,-79.4759674
 2061,'','Yonge St @ Mulock Dr',44.0358086,-79.4761047
 2065,'','Upper Canada Mall',44.0586586,-79.4814758
+2067,'','Yonge St @ North St',44.0978394,-79.4906998
+2068,'','Yonge St @ North St',44.0976105,-79.4905701
 2069,'','Yonge St @ Northern Hts Dr',43.849144,-79.4318695
 2071,'','Yonge St @ Oak Ave',43.8500443,-79.4324112
 2072,'','Yonge St @ Observatory Ln.',43.8581696,-79.4340744
@@ -1006,6 +1012,7 @@
 2113,'','Hwy 48 @ 16th Ave',43.8920631,-79.2641983
 2116,'','Queen St N @ Columbia Way',43.8915863,-79.754982
 2117,'','Tenth Line @ Aintree Dr',43.9778366,-79.2319031
+2118,'','Yonge St @ Mortonvale Dr',44.1003456,-79.4911728
 2126,'','Main St @ Stouffer St',43.9733505,-79.2380981
 2127,'','Yonge St @ Clark Ave E',43.8069839,-79.4221497
 2128,'','Davis Dr @ Main St (Newmarket GO)',44.0589409,-79.4613876
@@ -1121,7 +1128,7 @@
 8024,'','Trafalgar Rd @ Hwy 407 Carpool Lot',43.5061531,-79.7453842
 8025,'','Trafalgar Rd @ Hwy 407 Carpool Lot',43.5061531,-79.7453842
 8029,'','University Of Toronto Scarborough',43.7843628,-79.1851273
-8030,'','Williams Pkwy. @ Hwy 410 Carpool Lot',43.716526,-79.7513046
+8030,'','Williams Pkwy. @ Hwy 410 Pk & Ride',43.716526,-79.7513046
 8032,'','Bramalea Bus Terminal',43.7186356,-79.7205734
-8039,'','Regional Rd 25 @ Hwy 401 Pk And Ride',43.5274849,-79.9038162
+8039,'','Regional Rd 25 @ Hwy 401 Pk & Ride',43.5274849,-79.9038162
 8040,'','Bronte Rd @ Hwy 407 Carpool Lot',43.4457626,-79.7920151
