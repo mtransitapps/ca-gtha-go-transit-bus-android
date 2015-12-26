@@ -1111,6 +1111,8 @@
 2535,'','Hwy 50 @ Ebenezer Rd',43.777973,-79.654884
 2536,'','Trafalgar Rd @ Dundas St E',43.487812,-79.71936
 2537,'','Barrie St @ Doctors Ln',44.115643,-79.565002
+2538,'','Davis Dr @ Hwy 404 Pk & Ride',44.0676956,-79.4215164
+2539,'','Brock Rd @ Hwy 407 Pk & Ride',43.912816,-79.095858
 2540,'','Morningside Ave @ Tams Rd',43.792179,-79.19574
 2541,'','Morningside Ave @ Tams Rd',43.791924,-79.195305
 2542,'','Simcoe St N @ Parkwood Court',43.905533,-78.867271
@@ -1119,6 +1121,9 @@
 2545,'','Markham Rd @ Edward Jeffreys Ave',43.895947,-79.264854
 2546,'','Hurontario St @ Old School Rd',43.753716,-79.851891
 2567,'','Hurontario St @ Old School Rd',43.753563,-79.851234
+2568,'','Yonge St @ Sheppard Ave',43.7613983,-79.4107361
+2569,'','Brock Rd @ Hwy 407 Pk & Ride',43.912816,-79.095858
+2570,'','Yonge St @ Greenfield Ave',43.7635994,-79.4113083
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
