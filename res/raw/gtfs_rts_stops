@@ -177,7 +177,6 @@
 312,'','Kingston Rd @ Fairport Rd',43.8234673,-79.1067047
 313,'','Kingston Rd @ Fairport Rd',43.8236504,-79.1069107
 314,'','Kingston Rd @ Glenanna Rd',43.8381004,-79.087471
-315,'','Kingston Rd @ Glenanna Rd',43.8378639,-79.0874023
 322,'','Kingston Rd @ Harwood Ave',43.8612671,-79.0265427
 323,'','Kingston Rd @ Harwood Ave',43.8611984,-79.0252075
 325,'','Dundas St @ White Oaks Crt.',43.8750877,-78.9639893
@@ -1121,6 +1120,9 @@
 2568,'','Yonge St @ Sheppard Ave',43.7613983,-79.4107361
 2569,'','Brock Rd @ Hwy 407 Pk & Ride',43.912816,-79.095858
 2570,'','Yonge St @ Greenfield Ave',43.7635994,-79.4113083
+2571,'','Kingston Rd @ Glenanna Rd',43.8386154,-79.0863266
+2572,'','Victoria St@ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
+2573,'','Victoria St@ Thickson Rd (Thickson Rdg Power Ctr)',43.8673973,-78.8993225
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
