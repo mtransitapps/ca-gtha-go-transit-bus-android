@@ -11,10 +11,10 @@
 21,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0275345,-79.5959473
 22,'','Keele St @ Hwy 401',43.7216759,-79.4808273
 25,'','Barrie St @ Holland St W',44.1146889,-79.565094
-27,'','Keele St @ Sta Rd',43.9203224,-79.5260773
+27,'','Keele St @ Sta Rd(King City GO)',43.9203224,-79.5260773
 28,'','Rutherford Bus',43.838582,-79.498945
 29,'','York University',43.7730637,-79.5009308
-30,'','Keele St @ Burton Grv',43.9208336,-79.5259781
+30,'','Keele St @ Burton Grv (King City GO)',43.9208336,-79.5259781
 31,'','Whitby Bus',43.8653526,-78.9379272
 32,'','Brock St @ Dundas St',43.8796806,-78.9420319
 33,'','Winchester Rd @ Watford St',43.9566841,-78.9469223
@@ -861,7 +861,7 @@
 1814,'','Davis Dr @ George St',44.0552406,-79.478241
 1815,'','Davis Dr @ George St',44.0555191,-79.4776688
 1816,'','Davis Dr @ Huron Hts Dr',44.0628891,-79.4451447
-1817,'','Davis Dr @ Longford Dr',44.0567245,-79.4714966
+1817,'','Davis Dr @ Parkside Dr',44.0564995,-79.4724121
 1818,'','Davis Dr @ Lorne Ave',44.0582314,-79.4656296
 1819,'','Davis Dr @ Lundy''s Ln.',44.0608406,-79.4540863
 1820,'','Davis Dr @ Main St',44.0590591,-79.4616241
@@ -1121,8 +1121,8 @@
 2569,'','Brock Rd @ Hwy 407 Pk & Ride',43.912816,-79.095858
 2570,'','Yonge St @ Greenfield Ave',43.7635994,-79.4113083
 2571,'','Kingston Rd @ Glenanna Rd',43.8386154,-79.0863266
-2572,'','Victoria St@ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
-2573,'','Victoria St@ Thickson Rd (Thickson Rdg Power Ctr)',43.8673973,-78.8993225
+2572,'','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
+2573,'','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.8673973,-78.8993225
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
