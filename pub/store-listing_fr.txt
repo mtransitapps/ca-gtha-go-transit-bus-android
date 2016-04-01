@@ -5,7 +5,7 @@ Autobus GO Transit du GTHA pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 4 février 2016 au 1 avril 2016.
+Horaires du 2 avril 2016 au 24 juin 2016.
 Tweets de @GOtransitFR.
 ----------
 Full description:
