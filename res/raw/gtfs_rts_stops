@@ -31,6 +31,7 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
+53,'','Canada''s Wonderland',43.8460121,-79.5406113
 54,'','Bramalea Bus',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
@@ -47,7 +48,6 @@
 83,'','Yonge St @ Mt Albert Rd',44.0952721,-79.4899673
 84,'','Yonge St @ Queen St',44.0951653,-79.4901352
 87,'','Yonge St @ Killarney Beach Rd',44.2514305,-79.6007919
-88,'','Yonge St @ 4th Line',44.2516747,-79.6010361
 90,'','Yonge St @ Victoria St',44.3241806,-79.6191483
 92,'','Yonge St @ Mapleview Dr E',44.3481598,-79.6270218
 93,'','Yonge St @ Mapleview Dr E',44.3486099,-79.6277084
@@ -175,7 +175,6 @@
 310,'','McMaster University',43.2617264,-79.9225693
 311,'','Pearson Airport Terminal 1',43.6821671,-79.6132584
 312,'','Kingston Rd @ Fairport Rd',43.8234673,-79.1067047
-313,'','Kingston Rd @ Fairport Rd',43.8236504,-79.1069107
 314,'','Kingston Rd @ Glenanna Rd',43.8381004,-79.087471
 322,'','Kingston Rd @ Harwood Ave',43.8612671,-79.0265427
 323,'','Kingston Rd @ Harwood Ave',43.8611984,-79.0252075
@@ -465,7 +464,6 @@
 857,'','Main St E @ Ontario St',43.518795,-79.8772278
 860,'','Main St S @ Vly Rd',43.6163979,-80.1408844
 861,'','Main St S @ Bridge St',43.6170883,-80.1415176
-862,'','Main St E @ Wilson Dr',43.5229797,-79.872345
 863,'','Main St E @ Wilson Dr',43.5234795,-79.8721008
 864,'','Mill St E @ Fellows St (Acton GO)',43.6337471,-80.0368423
 865,'','Mill St E @ Elgin St N',43.6317863,-80.0392303
@@ -551,7 +549,6 @@
 970,'','Durham Hwy 2 @ Boswell Dr',43.9092484,-78.7148361
 971,'','Kingston Rd @ Walnut Ln.',43.8308105,-79.0965042
 972,'','Kingston Rd @ Walnut Ln.',43.8309517,-79.0968323
-973,'','Tenth Line @ Forsyth Farm Dr',43.9838295,-79.2332001
 974,'','Tenth Line @ Forsyth Farm Dr',43.9830933,-79.233284
 975,'','Guelph St @ Maple Ave',43.6509438,-79.9177551
 976,'','Guelph St @ Mountainview Rd S',43.6500969,-79.9024353
@@ -610,7 +607,6 @@
 1176,'','Broadway @ Townline',43.9213676,-80.0873718
 1177,'','Broadway @ Wellington St',43.9202347,-80.0920944
 1178,'','City Ctr Dr @ Kariya Gt',43.5932426,-79.6385803
-1179,'','201 City Ctr Dr @ Duke Of York Blvd',43.5899887,-79.6415939
 1180,'','City Ctr Dr @ Kariya Gt',43.5932465,-79.638916
 1184,'','Clark Blvd @ Kings Cross Rd',43.7190437,-79.7124939
 1185,'','Clark Blvd @ Kings Cross Rd',43.7183762,-79.7130508
@@ -727,7 +723,6 @@
 1411,'','Regional Rd 50 @ Mill St',43.8809319,-79.7398224
 1412,'','Regional Rd 50 @ Mill St',43.8806992,-79.7398987
 1426,'','Main St N @ Vodden St W',43.6926956,-79.7692566
-1432,'','City Ctr Dr @ Duke Of York Blvd (201 City Ctr Dr)',43.5902252,-79.6414948
 1435,'','Trafalgar Rd @ Burnhamthorpe Rd',43.5013275,-79.7375031
 1436,'','Streetsville Sta Pkng Lot',43.5774536,-79.7130508
 1437,'','Eglinton Ave W @ Gln Erin Dr',43.5543556,-79.7117081
@@ -1077,6 +1072,8 @@
 2408,'','Niagara Falls Bus Terminal',43.1085358,-79.0636063
 2412,'','Main St S @ Rdg Rd',43.6111412,-80.13311
 2413,'','Georgetown Bus',43.6560287,-79.9186783
+2414,'','City Ctr Dr @ Mercer St',43.5895958,-79.6420135
+2415,'','City Ctr Dr @Mercer St',43.5898323,-79.6420441
 2501,'','Trent University',44.3569412,-78.2870331
 2502,'','Peterborough Bus Terminal',44.3045998,-78.3224182
 2503,'','Crawford Dr @ Harper Rd Carpool Lot',44.2678642,-78.3492737
@@ -1123,6 +1120,13 @@
 2571,'','Kingston Rd @ Glenanna Rd',43.8386154,-79.0863266
 2572,'','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
 2573,'','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.8673973,-78.8993225
+2574,'','Markham Rd @ Castlemore Ave',43.9044647,-79.2672577
+2575,'','Markham Rd @ Castlemore Ave',43.9040985,-79.2667618
+2576,'','Kingston Rd @ Fairport Rd',43.8238487,-79.1063309
+2577,'','Yonge St @ 4th Line (Churchill Community Ctr)',44.2538338,-79.6016998
+2578,'','Main St E @ Wilson Dr',43.5233803,-79.8718872
+2579,'','Major Mackenzie St E @ Cedar Ave',43.8731232,-79.4284439
+2580,'','Major Mackenzie St E @ Cedar Ave',43.8734169,-79.4278793
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
