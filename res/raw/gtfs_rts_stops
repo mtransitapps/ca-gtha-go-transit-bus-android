@@ -815,12 +815,6 @@
 1659,'','Toronto St S @ Banff Rd',44.0937347,-79.1310883
 1660,'','Yonge St @ Empress Ave',43.7691803,-79.4126587
 1661,'','Yonge St @ Finch Ave',43.7804375,-79.4156036
-1701,'','Elizabeth St @ Beaumont Cr.',43.5557289,-80.2199249
-1702,'','Elizabeth St @ Beaumont Cr.',43.5560417,-80.2197418
-1703,'','Elizabeth St @ Stevenson St S',43.5534325,-80.2346191
-1704,'','Elizabeth St @ Stevenson St S',43.5527267,-80.23526
-1705,'','Elizabeth St @ Victoria Rd S',43.5554352,-80.22966
-1706,'','Elizabeth St @ Victoria Rd S',43.5553131,-80.2293396
 1707,'','785 York Rd @ Cityview Dr',43.5588226,-80.2142868
 1708,'','Gordon St @ Stone Rd',43.5271797,-80.2259216
 1709,'','Gordon St @ Stone Rd',43.5270767,-80.2252502
@@ -1053,7 +1047,6 @@
 2196,'','Burlington Bus',43.3406448,-79.8111801
 2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
-2200,'','Albert St S @ River St',44.2623672,-79.0663986
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
 2204,'','Weber St E @ Montgomery Rd',43.4387245,-80.4601898
 2205,'','Weber St E @ Montgomery Rd',43.4387054,-80.4595566
@@ -1127,6 +1120,13 @@
 2578,'','Main St E @ Wilson Dr',43.5233803,-79.8718872
 2579,'','Major Mackenzie St E @ Cedar Ave',43.8731232,-79.4284439
 2580,'','Major Mackenzie St E @ Cedar Ave',43.8734169,-79.4278793
+2581,'','Albert St S @ Jones St',44.2612915,-79.0663376
+2582,'','York Rd @ Victoria Rd S',43.5520706,-80.2238388
+2583,'','York Rd @ Victoria Rd S',43.5518036,-80.2239227
+2584,'','York Rd @ Stevenson St S',43.5486908,-80.2284622
+2585,'','York Rd @ Dodds Ave',43.5483055,-80.228653
+2586,'','Financial Dr @ Syntex Crt.',43.6110306,-79.7488174
+2587,'','Dupont Mdw Pl @ Mississauga Rd',43.6081848,-79.7510834
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
