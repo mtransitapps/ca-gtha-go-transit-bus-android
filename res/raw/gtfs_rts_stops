@@ -71,8 +71,8 @@
 133,'','Sq One',43.5946693,-79.6474915
 136,'','Trafalgar Rd @ Upper Middle Rd E',43.4754295,-79.7028046
 137,'','Oakville Bus',43.455966,-79.681676
-138,'','Bronte Rd @ Hwy 407 Carpool Lot',43.4457626,-79.7920151
-139,'','Northampton Blvd @ Dundas St Carpool Lot',43.3892708,-79.8287811
+138,'','Bronte Rd @ Hwy 407 Pk & Ride',43.4457626,-79.7920151
+139,'','Dundas St @ Hwy 407 Pk & Ride',43.3892708,-79.8287811
 141,'','Hamilton Ctr Bus',43.252945,-79.869586
 142,'','Scarborough Ctr Bus Terminal',43.7748413,-79.2563171
 144,'','University Of Toronto Scarborough',43.7843628,-79.1851273
@@ -147,10 +147,10 @@
 252,'','Hurontario St @ King St',43.7734947,-79.8786621
 253,'','Hurontario St @ Charleston Side Rd',43.8601723,-79.9954758
 254,'','Hurontario St @ Charleston Side Rd',43.8602753,-79.99617
-255,'','Hwy 10 @ Buena Vista Dr Carpool Lot',43.921978,-80.0827255
+255,'','Hwy 10 @ Buena Vista Dr',43.921978,-80.0827255
 257,'','Hansen Blvd @ 1st St (Orangeville Mall)',43.930336,-80.1022568
 258,'','Broadway @ Blind Line',43.9155502,-80.1138382
-259,'','Hwy 10 @ Buena Vista Dr Carpool Lot',43.9218445,-80.0830078
+259,'','Hwy 10 @ Buena Vista Dr',43.9218445,-80.0830078
 260,'','Rutherford Rd @ Vaughan Mills Rd',43.8132133,-79.6167603
 261,'','Rutherford Rd @ Vaughan Mills Rd',43.8135452,-79.6160278
 263,'','Appleby Bus',43.379261,-79.760483
@@ -170,7 +170,7 @@
 300,'','Yonge St @ North York Blvd',43.7668343,-79.412468
 302,'','Railway St @ Albert St',44.1095467,-79.125206
 303,'','Wellington St E @ Bayview Ave',44.0047264,-79.4445038
-306,'','Prince William Blvd @ Clarington Blvd Pk & Ride',43.9078712,-78.7046204
+306,'','Clarington Blvd @ Durham Hwy 2 (Bowmanville) Pk & Ride',43.9078712,-78.7046204
 307,'','Wellington St E @ Hwy 404 Pk & Ride',44.0128479,-79.4081802
 310,'','McMaster University',43.2617264,-79.9225693
 311,'','Pearson Airport Terminal 1',43.6821671,-79.6132584
@@ -186,8 +186,8 @@
 331,'','Dundas St @ Thickson Rd',43.8865662,-78.9120483
 332,'','Bond St W @ Stevenson Rd N',43.8938599,-78.8843384
 333,'','King  St W @ Stevenson Rd',43.8933334,-78.8819885
-334,'','Major MacKenzie Dr W @ Hwy 400 Pk & Ride',43.8460693,-79.5503922
-337,'','Brock Rd S @ McLean Rd Pk & Ride',43.4609909,-80.133667
+334,'','Major Mackenzie Dr @ Hwy 400 Pk & Ride',43.8460693,-79.5503922
+337,'','Brock Rd @ McLean Rd (Aberfoyle) Pk & Ride',43.4609909,-80.133667
 338,'','Hwy 50 @ Columbia Way',43.8914528,-79.7542267
 339,'','Regional Rd 50 @ Nashville Rd',43.8360138,-79.6881485
 340,'','Hwy 50 @ Queen St E',43.7673454,-79.6489105
@@ -198,11 +198,11 @@
 345,'','Barrie South Bus',44.351771,-79.628335
 346,'','Queen St S @ Wilton Dr',43.8719444,-79.7277222
 347,'','Queen St S @ Allan Dr',43.8719978,-79.7272873
-349,'','Town Line @ Mill St Pk & Ride',43.9135475,-80.0906754
+349,'','Town Line @ Mill St (Orangeville) Pk & Ride',43.9135475,-80.0906754
 350,'','Richmond Hl Ctr',43.8401451,-79.4252853
-351,'','Nash Rd N @ Barton St E Pk & Ride',43.2398567,-79.7700806
+351,'','Nash Rd @ Barton St Pk & Ride',43.2398567,-79.7700806
 352,'','Lincolnville Bus',43.994805,-79.233773
-354,'','Edwards Blvd @ Topflight Dr Pk & Ride',43.6521416,-79.7108765
+354,'','Hurontario St @ Hwy 407 Pk & Ride',43.6521416,-79.7108765
 355,'','Trafalgar Rd @ Upper Middle Rd E',43.4749031,-79.7014771
 358,'','Centennial College',43.7854233,-79.2290802
 359,'','Allandale Waterfront Bus',44.373817,-79.689441
@@ -734,7 +734,7 @@
 1445,'','Eglinton Ave W @ Summersky Court',43.5625381,-79.7030792
 1446,'','Erin Mills Pkwy. @ McFarren Blvd',43.5677757,-79.7184906
 1447,'','Erin Mills Pkwy. @ Banfield Rd',43.567482,-79.7188568
-1448,'','Mayfield Rd @ Pillsworth Rd Pk & Ride',43.8466263,-79.6971207
+1448,'','Mayfield Rd @ Hwy 50 Pk & Ride',43.8466263,-79.6971207
 1451,'','King St E @ Evans Rdg',43.8867188,-79.7282181
 1452,'','Hurontario St @ Sandalwood Pkwy. E',43.7181053,-79.8032684
 1454,'','Main St N @ Williams Pkwy.',43.6986389,-79.7768326
@@ -744,8 +744,8 @@
 1481,'','Derry Rd W @ Winston Churchill Blvd',43.5877228,-79.7712631
 1482,'','Winston Churchill Blvd @ Derry Rd W',43.5865669,-79.7686844
 1483,'','Winston Churchill Blvd @ Vanderbilt Rd',43.5848999,-79.7667999
-1487,'','Hurontario St @ Travelled Rd Carpool Lot',43.8551598,-79.9887848
-1488,'','Hurontario St @ Travelled Rd Carpool Lot',43.8550072,-79.9889755
+1487,'','Hurontario St @ Travelled Rd',43.8551598,-79.9887848
+1488,'','Hurontario St @ Travelled Rd',43.8550072,-79.9889755
 1504,'','Barrie St @ 8th Line',44.1262932,-79.5678711
 1505,'','Barrie St @ 8th Line',44.1266556,-79.5680771
 1506,'','Barrie St @ Britannia Ave',44.1205559,-79.5662613
@@ -1024,8 +1024,8 @@
 2158,'','Major Mackenzie Dr E @ Keele St',43.8550568,-79.5116119
 2159,'','Keele St @ Church St',43.852829,-79.5120239
 2160,'','Bradford Bus',44.116654,-79.555752
-2162,'','Hwy 2 @ Hwy 35/115 Carpool Lot',43.9128494,-78.6129303
-2163,'','Trafalgar Rd @ Hwy 407 Carpool Lot',43.5061531,-79.7453842
+2162,'','Hwy 2 @ Hwy 35/115 Pk & Ride',43.9128494,-78.6129303
+2163,'','Trafalgar Rd @ Hwy 407 Pk & Ride',43.5061531,-79.7453842
 2170,'','Tenth Line @ Sleepy Hollow Ln.',44.0000153,-79.2369232
 2171,'','Tenth Line @ Sleepy Hollow Ln.',44.0002556,-79.2371979
 2172,'','Keele St @ Kirby Rd',43.8916321,-79.5207977
@@ -1059,9 +1059,9 @@
 2215,'','Erin Mills Transitway',43.552124,-79.7004547
 2401,'','St Catharines Bus',43.1476898,-79.2553024
 2402,'','St Catharines Fairview Mall',43.178627,-79.2452545
-2404,'','Stamford St @ Stanley Ave Pk & Ride',43.097271,-79.0852356
-2405,'','Stanley Ave @ Hwy 420',43.0964737,-79.0854797
-2406,'','South Service Rd @ Casablanca Blvd Pk & Ride',43.2047997,-79.5964279
+2404,'','Stanley Ave @ Hwy 420 Pk & Ride',43.097271,-79.0852356
+2405,'','Stanley Ave @ Hwy 420 Pk & Ride',43.0964737,-79.0854797
+2406,'','Casablanca Blvd @ QEW Pk & Ride',43.2047997,-79.5964279
 2407,'','Scarborough Ctr Bus Terminal',43.7746925,-79.2563095
 2408,'','Niagara Falls Bus Terminal',43.1085358,-79.0636063
 2412,'','Main St S @ Rdg Rd',43.6111412,-80.13311
@@ -1070,9 +1070,9 @@
 2415,'','City Ctr Dr @Mercer St',43.5898323,-79.6420441
 2501,'','Trent University',44.3569412,-78.2870331
 2502,'','Peterborough Bus Terminal',44.3045998,-78.3224182
-2503,'','Crawford Dr @ Harper Rd Carpool Lot',44.2678642,-78.3492737
-2504,'','Syer Line @ County Rd 10 Carpool Lot',44.1872025,-78.4643936
-2505,'','Beaucage Rd @ Hwy 35 Pk & Ride',44.064003,-78.6258087
+2503,'','Crawford Dr @ Harper Rd Pk & Ride',44.2678642,-78.3492737
+2504,'','Peterborough Rd 10 @ Hwy 115 Pk & Ride',44.1872025,-78.4643936
+2505,'','Hwy 35 @ Hwy 115 Pk & Ride',44.064003,-78.6258087
 2506,'','Islington Ave @ Turning Leaf Dr',43.8187294,-79.6032486
 2507,'','Islington Ave @ Turning Leaf Dr',43.8186493,-79.6024704
 2508,'','Derry Rd W @ 9th Line',43.574543,-79.78685
@@ -1086,8 +1086,8 @@
 2519,'','Guelph Central Bus',43.544932,-80.246388
 2520,'','Wellington St E @ John West Way',44.0035057,-79.4506836
 2521,'','Wellington St E @ Mary St',44.0031967,-79.451149
-2522,'','Woodbine Ave @ Hwy 404 Pk And Ride',44.1918488,-79.4372101
-2523,'','Queensville Side Rd @ Hwy 404 Pk And Ride',44.1420212,-79.4405518
+2522,'','Woodbine Ave @ Hwy 404 Pk & Ride',44.1918488,-79.4372101
+2523,'','Queensville Sdrd. @ Hwy 404 Pk & Ride',44.1420212,-79.4405518
 2527,'','Mountainview Rd N @ Maple Ave',43.6561584,-79.9112625
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
@@ -1133,12 +1133,12 @@
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
 8012,'','Malton Bus',43.705143,-79.637825
-8020,'','Hwy 35 & 115 @ Durham Hwy 2 Carpool Lot',43.9128494,-78.6129303
-8021,'','Hwy 35 & 115 @ Durham Hwy 2 Carpool Lot',43.9128494,-78.6129303
-8024,'','Trafalgar Rd @ Hwy 407 Carpool Lot',43.5061531,-79.7453842
-8025,'','Trafalgar Rd @ Hwy 407 Carpool Lot',43.5061531,-79.7453842
+8020,'','Hwy 2 @ Hwy 35/115 Pk & Ride',43.9128494,-78.6129303
+8021,'','Hwy 2 @ Hwy 35/115 Pk & Ride',43.9128494,-78.6129303
+8024,'','Trafalgar Rd @ Hwy 407 Pk & Ride',43.5061531,-79.7453842
+8025,'','Trafalgar Rd @ Hwy 407 Pk & Ride',43.5061531,-79.7453842
 8029,'','University Of Toronto Scarborough',43.7843628,-79.1851273
 8030,'','Williams Pkwy. @ Hwy 410 Pk & Ride',43.716526,-79.7513046
 8032,'','Bramalea Bus Terminal',43.7186356,-79.7205734
 8039,'','Regional Rd 25 @ Hwy 401 Pk & Ride',43.5274849,-79.9038162
-8040,'','Bronte Rd @ Hwy 407 Carpool Lot',43.4457626,-79.7920151
+8040,'','Bronte Rd @ Hwy 407 Pk & Ride',43.4457626,-79.7920151
