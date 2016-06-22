@@ -8,7 +8,6 @@
 15,'','Yonge St @ 16th Ave (South Hl Shopping Ctr)',43.8551788,-79.4333191
 19,'','Yorkdale Bus Terminal',43.7249374,-79.4488754
 20,'','Hwy 401 @ Keele St',43.7232399,-79.4819412
-21,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0275345,-79.5959473
 22,'','Keele St @ Hwy 401',43.7216759,-79.4808273
 25,'','Barrie St @ Holland St W',44.1146889,-79.565094
 27,'','Keele St @ Sta Rd(King City GO)',43.9203224,-79.5260773
@@ -158,8 +157,6 @@
 267,'','Islington Ave @ Nashville Rd',43.844368,-79.6291428
 268,'','King Rd @ Hwy 27',43.902195,-79.6534348
 269,'','King Rd @ Hwy 27',43.9020309,-79.6533432
-270,'','King St E @ Humber Lea Rd',43.8823891,-79.7349701
-271,'','King St E @ Humber Lea Rd',43.8823853,-79.7344894
 272,'','Queensgate Blvd @ Queen St',43.8694229,-79.7227402
 273,'','Queensgate Blvd @ Queen St',43.8700562,-79.7222977
 276,'','East Gwillimbury Bus',44.078506,-79.456539
@@ -582,8 +579,6 @@
 1022,'','Queen St E @ Kennedy Rd N',43.6954765,-79.749939
 1024,'','Thompson Rd S @ Derry Rd W',43.517498,-79.8523712
 1025,'','Thompson Rd S @ Derry Rd W',43.5168037,-79.8518219
-1132,'','Albion Vaughan Rd @ Dovaston Gt',43.8711624,-79.7091064
-1133,'','Albion Vaughan Rd @ King Vaughan Rd',43.8706589,-79.7085648
 1134,'','Aquitaine Ave @ Gln Erin Dr',43.5867882,-79.7581024
 1135,'','Aquitaine Ave @ Gln Erin Dr',43.5866318,-79.7586594
 1136,'','Aquitaine Ave @ Montevideo Rd',43.5898781,-79.7560043
@@ -662,11 +657,6 @@
 1292,'','Hurontario St @ Travelled Rd',43.8571777,-79.9916916
 1293,'','Hurontario St @ Travelled Rd',43.8571892,-79.9919662
 1294,'','Hwy 10 @ Dufferin Rd',43.9159317,-80.0721436
-1295,'','King St E @ Caledon / King Townline S',43.8879166,-79.7194138
-1296,'','King St E @ Chapel Rd',43.8802299,-79.7376175
-1297,'','King St E @ Evans Rdg',43.8869095,-79.7284775
-1298,'','King St E @ Caledon / King Townline S',43.8878136,-79.7189941
-1299,'','King St E @ Elm St',43.8804588,-79.7371292
 1306,'','Main St S @ Clarence St',43.6800728,-79.752037
 1307,'','Main St S @ Elgin Dr',43.6734314,-79.7431564
 1308,'','Main St S @ Elgin Dr',43.6736908,-79.743866
@@ -735,7 +725,6 @@
 1446,'','Erin Mills Pkwy. @ McFarren Blvd',43.5677757,-79.7184906
 1447,'','Erin Mills Pkwy. @ Banfield Rd',43.567482,-79.7188568
 1448,'','Mayfield Rd @ Hwy 50 Pk & Ride',43.8466263,-79.6971207
-1451,'','King St E @ Evans Rdg',43.8867188,-79.7282181
 1452,'','Hurontario St @ Sandalwood Pkwy. E',43.7181053,-79.8032684
 1454,'','Main St N @ Williams Pkwy.',43.6986389,-79.7768326
 1455,'','Erin Mills Pkwy. @ Vista Blvd',43.5736008,-79.7274475
@@ -815,6 +804,12 @@
 1659,'','Toronto St S @ Banff Rd',44.0937347,-79.1310883
 1660,'','Yonge St @ Empress Ave',43.7691803,-79.4126587
 1661,'','Yonge St @ Finch Ave',43.7804375,-79.4156036
+1701,'','Elizabeth St @ Beaumont Cr.',43.5557289,-80.2199249
+1702,'','Elizabeth St @ Beaumont Cr.',43.5560417,-80.2197418
+1703,'','Elizabeth St @ Stevenson St S',43.5534325,-80.2346191
+1704,'','Elizabeth St @ Stevenson St S',43.5527267,-80.23526
+1705,'','Elizabeth St @ Victoria Rd S',43.5554352,-80.22966
+1706,'','Elizabeth St @ Victoria Rd S',43.5553131,-80.2293396
 1707,'','785 York Rd @ Cityview Dr',43.5588226,-80.2142868
 1708,'','Gordon St @ Stone Rd',43.5271797,-80.2259216
 1709,'','Gordon St @ Stone Rd',43.5270767,-80.2252502
@@ -908,7 +903,6 @@
 1896,'','King Rd W @ Nobleview Dr',43.8985329,-79.6698685
 1902,'','King Rd W @ Henry Gt',43.9003258,-79.6608887
 1903,'','King Rd W @ Chinook Dr',43.9010963,-79.6572723
-1904,'','King St W @ Nobleview Dr',43.8985062,-79.6691742
 1905,'','Langstaff Rd E @ Bayview Ave',43.8346367,-79.4062042
 1924,'','Main St @ Church St N',43.9717598,-79.2452011
 1925,'','Main St @ Mkt St',43.9712067,-79.2472229
@@ -965,7 +959,6 @@
 2059,'','Yonge St @ Millard Ave W',44.0513725,-79.4797592
 2060,'','Yonge St @ Mulock Dr',44.0367699,-79.4759674
 2061,'','Yonge St @ Mulock Dr',44.0358086,-79.4761047
-2065,'','Upper Canada Mall',44.0586586,-79.4814758
 2067,'','Yonge St @ North St',44.0978394,-79.4906998
 2068,'','Yonge St @ North St',44.0976105,-79.4905701
 2069,'','Yonge St @ Northern Hts Dr',43.849144,-79.4318695
@@ -982,7 +975,6 @@
 2093,'','Yonge St @ Valhalla Crt.',44.0061722,-79.468895
 2094,'','Yonge St @ Valhalla Crt.',44.0064583,-79.4693451
 2095,'','Yonge St @ Weldrick Rd E',43.859993,-79.4343033
-2097,'','Yonge St @ William Roe Blvd',44.0398788,-79.4766388
 2100,'','Yonge St @ Yongehurst Dr',43.8627815,-79.4354706
 2101,'','Yonge St @ Spruce Ave',43.8511429,-79.4323959
 2102,'','15800 Yonge St @ Saint John''s Sideroad',44.0138626,-79.4708405
@@ -1057,6 +1049,7 @@
 2213,'','Erin Mills Transitway',43.552124,-79.7004547
 2214,'','Erin Mills Transitway',43.5520363,-79.7003021
 2215,'','Erin Mills Transitway',43.552124,-79.7004547
+2216,'','Erin Mills Transitway',43.5522194,-79.7003632
 2401,'','St Catharines Bus',43.1476898,-79.2553024
 2402,'','St Catharines Fairview Mall',43.178627,-79.2452545
 2404,'','Stanley Ave @ Hwy 420 Pk & Ride',43.097271,-79.0852356
@@ -1123,12 +1116,19 @@
 2579,'','Major Mackenzie St E @ Cedar Ave',43.8731232,-79.4284439
 2580,'','Major Mackenzie St E @ Cedar Ave',43.8734169,-79.4278793
 2581,'','Albert St S @ Jones St',44.2612915,-79.0663376
-2582,'','York Rd @ Victoria Rd S',43.5520706,-80.2238388
-2583,'','York Rd @ Victoria Rd S',43.5518036,-80.2239227
-2584,'','York Rd @ Stevenson St S',43.5486908,-80.2284622
-2585,'','York Rd @ Dodds Ave',43.5483055,-80.228653
 2586,'','Financial Dr @ Syntex Crt.',43.6110306,-79.7488174
 2587,'','Dupont Mdw Pl @ Mississauga Rd',43.6081848,-79.7510834
+2589,'','Yonge St @ William Roe Blvd',44.0404587,-79.4767838
+2590,'','Caledon / King Townline S @ King Rd',43.8879089,-79.7181778
+2591,'','Caledon / King Townline S @ King St E',43.8872299,-79.7180481
+2592,'','Yonge St @ Line 13',44.1873474,-79.5825195
+2593,'','Yonge St @ Line 13',44.1866646,-79.5825729
+2594,'','Yonge St @ Line 11',44.16325,-79.5767746
+2595,'','Yonge St @ Line 11',44.1623192,-79.5767288
+2596,'','Yonge St @ Davis Dr (Upper Canada Mall)',44.0550804,-79.4807053
+2597,'','6715 Millcreek Dr @ Aquitaine Ave (Millcreek Business Ctr)',43.5951004,-79.7512894
+2598,'','6700 Millcreek Dr @ Aquitaine Ave',43.5951157,-79.7525024
+2599,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0273666,-79.595787
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8010,'','Kitchener Bus',43.455573,-80.492543
