@@ -33,7 +33,7 @@
 3600,0,'Brampton',36
 3601,0,'York Mills',36
 3700,0,'Brampton',37
-3701,0,'Town Line @ Mill St. (Orangeville) P & R',37
+3701,0,'Orangeville',37
 3801,0,'Bolton',38
 3800,0,'York Mills',38
 4000,0,'Hamilton',40
@@ -52,18 +52,18 @@
 5200,0,'York U',52
 5401,0,'Mt Joy',54
 5400,0,'York U',54
-6001,0,'Canada Wonderland',60
+6001,0,'Canadas Wonderland',60
 6000,0,'York Mills',60
 6101,0,'Richmond Hl',61
 6100,0,'Union',61
-6301,0,'King',63
+6301,0,'King City',63
 6300,0,'Union',63
 6501,0,'East Gwillimbury',65
 6500,0,'Union',65
 6601,0,'Newmarket',66
 6600,0,'Yorkdale',66
 6700,0,'Finch',67
-6701,0,'Woodbine Ave. @ Hwy. 404 P&R',67
+6701,0,'Woodbine / 404',67
 6801,0,'Barrie',68
 6800,0,'Newmarket',68
 7000,0,'Unionville',70
