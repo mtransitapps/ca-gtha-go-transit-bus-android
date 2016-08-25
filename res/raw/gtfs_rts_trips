@@ -3,7 +3,7 @@
 1201,0,'Burlington Carpool',12
 1200,0,'Niagara Falls',12
 1501,0,'Aldershot',15
-1500,0,'McMaster U',15
+1500,0,'Brantford',15
 1600,0,'Hamilton',16
 1601,0,'Union',16
 1800,0,'Hamilton',18
@@ -14,12 +14,14 @@
 2000,0,'Oakville',20
 2100,0,'Milton',21
 2101,0,'Union',21
+2400,0,'Cambridge',24
+2401,0,'Milton',24
 2500,0,'U Of Waterloo',25
 2501,0,'York U',25
 2701,0,'Finch',27
 2700,0,'Milton',27
-2901,0,'Cooksville',29
 2900,0,'Guelph Central',29
+2901,0,'Sq One',29
 3001,0,'Bramalea',30
 3000,0,'Kitchener',30
 3100,0,'U of Guelph',31
@@ -52,7 +54,7 @@
 5200,0,'York U',52
 5401,0,'Mt Joy',54
 5400,0,'York U',54
-6001,0,'Canada Wonderland',60
+6001,0,'Canadas Wonderland',60
 6000,0,'York Mills',60
 6101,0,'Richmond Hl',61
 6100,0,'Union',61
@@ -80,5 +82,7 @@
 9100,0,'Oshawa',91
 9201,0,'Oshawa',92
 9200,0,'Yorkdale',92
+9300,0,'Scarboro',93
+9301,0,'UOIT / D.C.',93
 9600,0,'Finch',96
 9601,0,'Oshawa',96

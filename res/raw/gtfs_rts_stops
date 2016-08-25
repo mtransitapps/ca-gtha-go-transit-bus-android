@@ -8,6 +8,7 @@
 15,'','Yonge St @ 16th Ave (South Hl Shopping Ctr)',43.8551788,-79.4333191
 19,'','Yorkdale Bus Terminal',43.7249374,-79.4488754
 20,'','Hwy 401 @ Keele St',43.7232399,-79.4819412
+21,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0275345,-79.5959473
 22,'','Keele St @ Hwy 401',43.7216759,-79.4808273
 25,'','Barrie St @ Holland St W',44.1146889,-79.565094
 27,'','Keele St @ Sta Rd(King City GO)',43.9203224,-79.5260773
@@ -100,8 +101,6 @@
 180,'','Aldershot Bus',43.313036,-79.855903
 181,'','Clarkson Bus',43.512831,-79.633109
 182,'','Port Credit Bus',43.555814,-79.587088
-183,'','Eglinton Ave W @ Metcalfe Ave',43.5561562,-79.7095032
-184,'','Eglinton Ave W @ Erin Mills Pkwy. (Erin Mills Town Ctr)',43.556675,-79.7092972
 187,'','Dixie Bus',43.608022,-79.578347
 188,'','Cooksville Bus',43.58207,-79.623563
 189,'','Erindale Bus',43.567861,-79.667632
@@ -157,6 +156,8 @@
 267,'','Islington Ave @ Nashville Rd',43.844368,-79.6291428
 268,'','King Rd @ Hwy 27',43.902195,-79.6534348
 269,'','King Rd @ Hwy 27',43.9020309,-79.6533432
+270,'','King St E @ Humber Lea Rd',43.8823891,-79.7349701
+271,'','King St E @ Humber Lea Rd',43.8823853,-79.7344894
 272,'','Queensgate Blvd @ Queen St',43.8694229,-79.7227402
 273,'','Queensgate Blvd @ Queen St',43.8700562,-79.7222977
 276,'','East Gwillimbury Bus',44.078506,-79.456539
@@ -224,7 +225,6 @@
 417,'','Baldwin Ave @ Sonley Dr',43.9259758,-78.9620514
 418,'','Baldwin St @ Taunton Rd',43.9157333,-78.9577713
 419,'','Baldwin St @ Winchester Rd W',43.9532204,-78.9621048
-426,'','Bond St E @ Claymore Cr.',43.9041786,-78.8439407
 428,'','Bond St E @ Mary St N',43.8992729,-78.8607101
 429,'','Bond St W @ Pk Rd N',43.8962479,-78.8746185
 430,'','Bond St E @ Patricia Ave',43.9026566,-78.849968
@@ -293,7 +293,6 @@
 550,'','Durham Hwy 2 @ Varcoe Rd',43.9071846,-78.8074951
 553,'','Durham Hwy 47 @ Goodwood Rd',44.0338898,-79.2021637
 554,'','Toronto St @ Welwood Dr',44.0885963,-79.1344528
-557,'','Hwy 7 @ Lakeridge Rd',43.9398804,-79.0180359
 558,'','Hwy 7 & 12 @ Couves Ln.',44.1485939,-79.0134583
 559,'','Hwy 7 & 12 @ Mud Lk Rd',44.0193825,-78.9690247
 560,'','Hwy 7 & 12 @ Scugog 10th Line',44.139286,-79.0097122
@@ -480,6 +479,8 @@
 880,'','Plains Rd E @ King Rd',43.3211784,-79.833252
 881,'','481 Plains Rd E @ Sanford Dr',43.3184242,-79.8370361
 882,'','175 Plains Rd E @ Saint Matthews Ave',43.3109474,-79.8473358
+883,'','Plains Rd E @ Lasalle Pk Rd',43.3069458,-79.8521805
+884,'','Plains Rd E @ Waterdown Rd',43.3070107,-79.8525772
 885,'','Plains Rd E @ Willowbrook Rd',43.3171082,-79.8393402
 886,'','Plains Rd E @ Willowbrook Rd (Maplehurst Public School)',43.3187675,-79.8369522
 887,'','Queen St @ Acton Blvd',43.6355133,-80.0303879
@@ -499,6 +500,8 @@
 902,'','Trafalgar Rd @ Iroquois Shr Rd',43.4648666,-79.6877365
 907,'','Trafalgar Rd @ Lynwood Dr',43.4673347,-79.6915436
 910,'','Trafalgar Rd @ River Oaks Blvd E',43.4773788,-79.7055664
+911,'','Waterdown Rd @ Masonry Crt.',43.3084755,-79.8549042
+912,'','Waterdown Rd @ Masonry Crt.',43.3087234,-79.8554382
 913,'','Young St @ Peel St',43.6342812,-80.0327072
 914,'','Young St @ Peel St',43.6341629,-80.0328445
 915,'','Derry Rd @ Holly Ave',43.5118408,-79.8560486
@@ -551,8 +554,6 @@
 976,'','Guelph St @ Mountainview Rd S',43.6500969,-79.9024353
 977,'','Yonge St @ Shr Acres Dr',44.2156067,-79.5902023
 978,'','Yonge St @ County Rd 89',44.2153625,-79.5903854
-979,'','Cooke Blvd @ Masonry Crt.',43.3092079,-79.853302
-980,'','Cooke Blvd @ Masonry Crt.',43.3092003,-79.853508
 981,'','Hwy 7 W @ Paddock Rd',43.9257317,-79.0787201
 982,'','Hwy 7 W @ Concession 6',43.9257317,-79.0776825
 989,'','Hurontario St @ County Court Blvd',43.6621399,-79.7277679
@@ -579,6 +580,8 @@
 1022,'','Queen St E @ Kennedy Rd N',43.6954765,-79.749939
 1024,'','Thompson Rd S @ Derry Rd W',43.517498,-79.8523712
 1025,'','Thompson Rd S @ Derry Rd W',43.5168037,-79.8518219
+1132,'','Albion Vaughan Rd @ Dovaston Gt',43.8711624,-79.7091064
+1133,'','Albion Vaughan Rd @ King Vaughan Rd',43.8706589,-79.7085648
 1134,'','Aquitaine Ave @ Gln Erin Dr',43.5867882,-79.7581024
 1135,'','Aquitaine Ave @ Gln Erin Dr',43.5866318,-79.7586594
 1136,'','Aquitaine Ave @ Montevideo Rd',43.5898781,-79.7560043
@@ -618,7 +621,6 @@
 1204,'','Derry Rd W @ Terragar Blvd',43.5817947,-79.7787247
 1230,'','Duke Of York Blvd @ Princess Royal Dr',43.5899925,-79.6446991
 1231,'','Duke Of York Blvd @ Princess Royal Dr',43.5897636,-79.6438599
-1232,'','Eglinton Ave W @ Gln Erin Dr',43.5535965,-79.7123184
 1234,'','Eglinton Ave W @ Mississauga Rd',43.5683022,-79.695961
 1235,'','Eglinton Ave W @ Mississauga Rd',43.5688934,-79.6957703
 1236,'','Erin Mills Pkwy. @ Battleford Rd',43.5849304,-79.742157
@@ -657,6 +659,11 @@
 1292,'','Hurontario St @ Travelled Rd',43.8571777,-79.9916916
 1293,'','Hurontario St @ Travelled Rd',43.8571892,-79.9919662
 1294,'','Hwy 10 @ Dufferin Rd',43.9159317,-80.0721436
+1295,'','King St E @ Caledon / King Townline S',43.8879166,-79.7194138
+1296,'','King St E @ Chapel Rd',43.8802299,-79.7376175
+1297,'','King St E @ Evans Rdg',43.8869095,-79.7284775
+1298,'','King St E @ Caledon / King Townline S',43.8878136,-79.7189941
+1299,'','King St E @ Elm St',43.8804588,-79.7371292
 1306,'','Main St S @ Clarence St',43.6800728,-79.752037
 1307,'','Main St S @ Elgin Dr',43.6734314,-79.7431564
 1308,'','Main St S @ Elgin Dr',43.6736908,-79.743866
@@ -695,8 +702,6 @@
 1374,'','Steeles Ave E @ Kennedy Rd S',43.6751747,-79.7234573
 1384,'','Thomas St @ Erin Mills Pkwy.',43.5701637,-79.722023
 1385,'','Thomas St @ Erin Mills Pkwy.',43.5702477,-79.7223434
-1391,'','Winston Churchill Blvd @ Artesian Dr',43.5469627,-79.7148743
-1392,'','Winston Churchill Blvd @ Credit Vly Rd',43.5466614,-79.7139511
 1393,'','Albion Rd @ Steeles Ave W',43.7503242,-79.6393509
 1394,'','Albion Rd @ Steeles Ave W',43.7499313,-79.639595
 1398,'','Hwy 50 @ Cottrelle Blvd',43.7850227,-79.6589432
@@ -715,7 +720,6 @@
 1426,'','Main St N @ Vodden St W',43.6926956,-79.7692566
 1435,'','Trafalgar Rd @ Burnhamthorpe Rd',43.5013275,-79.7375031
 1436,'','Streetsville Sta Pkng Lot',43.5774536,-79.7130508
-1437,'','Eglinton Ave W @ Gln Erin Dr',43.5543556,-79.7117081
 1438,'','Mississauga Rd @ Dupont Mdw Pl',43.6087685,-79.7508469
 1439,'','Mississauga Rd @ Argentia Rd',43.6013832,-79.7402344
 1440,'','Mississauga Rd @ Royal Bank Dr',43.6087875,-79.7501144
@@ -725,6 +729,7 @@
 1446,'','Erin Mills Pkwy. @ McFarren Blvd',43.5677757,-79.7184906
 1447,'','Erin Mills Pkwy. @ Banfield Rd',43.567482,-79.7188568
 1448,'','Mayfield Rd @ Hwy 50 Pk & Ride',43.8466263,-79.6971207
+1451,'','King St E @ Evans Rdg',43.8867188,-79.7282181
 1452,'','Hurontario St @ Sandalwood Pkwy. E',43.7181053,-79.8032684
 1454,'','Main St N @ Williams Pkwy.',43.6986389,-79.7768326
 1455,'','Erin Mills Pkwy. @ Vista Blvd',43.5736008,-79.7274475
@@ -903,6 +908,7 @@
 1896,'','King Rd W @ Nobleview Dr',43.8985329,-79.6698685
 1902,'','King Rd W @ Henry Gt',43.9003258,-79.6608887
 1903,'','King Rd W @ Chinook Dr',43.9010963,-79.6572723
+1904,'','King St W @ Nobleview Dr',43.8985062,-79.6691742
 1905,'','Langstaff Rd E @ Bayview Ave',43.8346367,-79.4062042
 1924,'','Main St @ Church St N',43.9717598,-79.2452011
 1925,'','Main St @ Mkt St',43.9712067,-79.2472229
@@ -1012,6 +1018,8 @@
 2150,'','Cambridge Smart Ctr',43.4117165,-80.3236008
 2151,'','Regional Rd 25 @ Hwy 401 Pk & Ride',43.5274849,-79.9038162
 2153,'','Wilfrid Laurier University',43.4752655,-80.5272827
+2155,'','King St E @ Montgomery Rd',43.4375038,-80.4602432
+2156,'','King St E @ Charles St E',43.4378624,-80.461853
 2157,'','Maple Bus',43.859853,-79.505926
 2158,'','Major Mackenzie Dr E @ Keele St',43.8550568,-79.5116119
 2159,'','Keele St @ Church St',43.852829,-79.5120239
@@ -1040,8 +1048,6 @@
 2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
-2204,'','Weber St E @ Montgomery Rd',43.4387245,-80.4601898
-2205,'','Weber St E @ Montgomery Rd',43.4387054,-80.4595566
 2207,'','West Harbour Bus',43.265225,-79.865379
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr @ Convair Dr',43.6723671,-79.5936432
@@ -1084,8 +1090,6 @@
 2527,'','Mountainview Rd N @ Maple Ave',43.6561584,-79.9112625
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
-2530,'','Kitchener Bus Terminal',43.4519386,-80.4876175
-2531,'','Kitchener Bus Terminal',43.451828,-80.4870758
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
 2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
 2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
@@ -1119,8 +1123,6 @@
 2586,'','Financial Dr @ Syntex Crt.',43.6110306,-79.7488174
 2587,'','Dupont Mdw Pl @ Mississauga Rd',43.6081848,-79.7510834
 2589,'','Yonge St @ William Roe Blvd',44.0404587,-79.4767838
-2590,'','Caledon / King Townline S @ King Rd',43.8879089,-79.7181778
-2591,'','Caledon / King Townline S @ King St E',43.8872299,-79.7180481
 2592,'','Yonge St @ Line 13',44.1873474,-79.5825195
 2593,'','Yonge St @ Line 13',44.1866646,-79.5825729
 2594,'','Yonge St @ Line 11',44.16325,-79.5767746
@@ -1128,10 +1130,35 @@
 2596,'','Yonge St @ Davis Dr (Upper Canada Mall)',44.0550804,-79.4807053
 2597,'','6715 Millcreek Dr @ Aquitaine Ave (Millcreek Business Ctr)',43.5951004,-79.7512894
 2598,'','6700 Millcreek Dr @ Aquitaine Ave',43.5951157,-79.7525024
-2599,'','Hwy 9 @ Hwy 400 Pk & Ride',44.0273666,-79.595787
+2600,'','Cambridge Bus Terminal',43.3576508,-80.3135376
+2601,'','Water St @ Dundas St',43.3730087,-80.3182831
+2602,'','Hespeler Rd @ Coronation Blvd',43.3736229,-80.3187637
+2603,'','Hespeler Rd @Can-Amera Pkwy',43.3865395,-80.3210831
+2604,'','Hespeler Rd @ Can-Amera Pkwy',43.3853798,-80.3209915
+2605,'','Hespeler Rd @ Pinebush Rd',43.4089508,-80.3281174
+2606,'','Hespeler Rd @ Eagle St N',43.4074974,-80.328125
+2607,'','Wayne Gretzky Pwky. @ Henry St',43.1545525,-80.2395554
+2608,'','Wayne Gretzky Pkwy. @ Henry St',43.1544113,-80.2391205
+2609,'','Wayne Gretzky Pkwy. @ Elgin St',43.1501236,-80.2375336
+2610,'','Wayne Gretzky Pkwy @Elgin St',43.1499977,-80.2378159
+2611,'','Wayne Gretzky Pkwy. @ Chatham St',43.1449928,-80.2356873
+2612,'','Wayne Gretzky Pkwy. @ Chatham St',43.144886,-80.2353592
+2613,'','Colborne St E @ Puleston St',43.1405792,-80.2406311
+2614,'','Colborne St E @ Kiwanis Way',43.1404762,-80.2400513
+2615,'','Dalhousie St @ Pk Ave',43.1400795,-80.2549591
+2616,'','Colborne St E @ Pk Ave',43.1390533,-80.2543106
+2617,'','Brantford Bus Terminal',43.1403084,-80.2649918
+2619,'','McMaster Innovation Pk',43.2570114,-79.9015045
+2620,'','McMaster Innovation Pk',43.2564278,-79.9013138
+2621,'','Ontario St @ QEW Pk & Ride',43.1881676,-79.4759598
+2622,'','Bond St.E @ Claymore Cr.',43.9045258,-78.8424835
+2623,'','Winchester Rd W @ Lk Rdg Rd',43.9403648,-79.0159454
+2624,'','Charles St @ Gaukel St (Kitchener Bus Terminal)',43.4499855,-80.4924774
+2625,'','Kitchener Bus Terminal',43.4494133,-80.4932022
+2626,'','Brock Rd S @ Gilmour Rd',43.4668732,-80.1422806
+2627,'','Brock Rd S @ Gilmour Rd',43.466629,-80.1415634
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
-8010,'','Kitchener Bus',43.455573,-80.492543
 8012,'','Malton Bus',43.705143,-79.637825
 8020,'','Hwy 2 @ Hwy 35/115 Pk & Ride',43.9128494,-78.6129303
 8021,'','Hwy 2 @ Hwy 35/115 Pk & Ride',43.9128494,-78.6129303
