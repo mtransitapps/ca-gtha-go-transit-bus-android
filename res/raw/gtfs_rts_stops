@@ -31,7 +31,6 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
-53,'','Canada''s Wonderland',43.8460121,-79.5406113
 54,'','Bramalea Bus',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
@@ -204,7 +203,6 @@
 358,'','Centennial College',43.7854233,-79.2290802
 359,'','Allandale Waterfront Bus',44.373817,-79.689441
 360,'','Hwy 27 @ Innovation Dr',43.7887421,-79.6257782
-364,'','Kingston Rd @ Brock Rd',43.8485184,-79.0733795
 365,'','Kingston Rd @ Brock Rd',43.8479996,-79.0733032
 366,'','Kingston Rd @ Westney Rd',43.8572845,-79.0426102
 367,'','Kingston Rd @ Westney Rd',43.8576012,-79.0421982
@@ -304,7 +302,6 @@
 567,'','Hwy 7 & 12 @ Scugog 10th Line',44.13937,-79.0095062
 568,'','Hwy 7A @ Brk St',44.0796623,-78.9803391
 569,'','Hwy 7A @ Rose St',44.079731,-78.9800873
-570,'','Hwy 7A @ 6th Line',44.0964813,-78.9601593
 571,'','Hwy 7A @ Queen St',44.0955772,-78.9609909
 573,'','King St E @ Athabaska St',43.9060783,-78.8187485
 574,'','Durham Hwy 2 @ Centerfield Dr',43.9074059,-78.8039093
@@ -386,7 +383,6 @@
 702,'','Winchester Rd @ Ashburn Rd',43.9506226,-78.9728317
 703,'','Winchester Rd @ Ashburn Rd',43.9511795,-78.9717331
 704,'','Winchester Rd W @ Baldwin St',43.9526215,-78.9648438
-705,'','Winchester Rd @ Chelmsford Dr',43.9538612,-78.9596176
 706,'','Winchester Rd @ Durham St',43.9539108,-78.9598923
 707,'','Hwy 7 E @ Lk Rdg Rd',43.9406357,-79.0158386
 708,'','Winchester Rd @ Simcoe St',43.954731,-78.9558868
@@ -852,7 +848,6 @@
 1818,'','Davis Dr @ Lorne Ave',44.0582314,-79.4656296
 1819,'','Davis Dr @ Lundy''s Ln.',44.0608406,-79.4540863
 1820,'','Davis Dr @ Main St',44.0590591,-79.4616241
-1821,'','Davis Dr @ Superior St (Newmarket GO).',44.0598602,-79.4587479
 1822,'','Davis Dr @ Patterson St',44.0620232,-79.4491348
 1825,'','Yonge St @ Old Yonge St',44.082943,-79.4870758
 1826,'','Hwy 27 @ Ashbridge Cir',43.7770576,-79.6222916
@@ -978,7 +973,6 @@
 2092,'','Yonge St @ Uplands Ave',43.8269348,-79.4267807
 2093,'','Yonge St @ Valhalla Crt.',44.0061722,-79.468895
 2094,'','Yonge St @ Valhalla Crt.',44.0064583,-79.4693451
-2095,'','Yonge St @ Weldrick Rd E',43.859993,-79.4343033
 2100,'','Yonge St @ Yongehurst Dr',43.8627815,-79.4354706
 2101,'','Yonge St @ Spruce Ave',43.8511429,-79.4323959
 2102,'','15800 Yonge St @ Saint John''s Sideroad',44.0138626,-79.4708405
@@ -1016,8 +1010,6 @@
 2150,'','Cambridge Smart Ctr',43.4117165,-80.3236008
 2151,'','Regional Rd 25 @ Hwy 401 Pk & Ride',43.5274849,-79.9038162
 2153,'','Wilfrid Laurier University',43.4752655,-80.5272827
-2155,'','King St E @ Montgomery Rd',43.4375038,-80.4602432
-2156,'','King St E @ Charles St E',43.4378624,-80.461853
 2157,'','Maple Bus',43.859853,-79.505926
 2158,'','Major Mackenzie Dr E @ Keele St',43.8550568,-79.5116119
 2159,'','Keele St @ Church St',43.852829,-79.5120239
@@ -1046,6 +1038,8 @@
 2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
+2204,'','Weber St E @ Montgomery Rd',43.4387245,-80.4601898
+2205,'','Weber St E @ Montgomery Rd',43.4387054,-80.4595566
 2207,'','West Harbour Bus',43.265225,-79.865379
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr @ Convair Dr',43.6723671,-79.5936432
@@ -1083,9 +1077,10 @@
 2521,'','Wellington St E @ Mary St',44.0031967,-79.451149
 2522,'','Woodbine Ave @ Hwy 404 Pk & Ride',44.1918488,-79.4372101
 2523,'','Queensville Sdrd. @ Hwy 404 Pk & Ride',44.1420212,-79.4405518
-2527,'','Mountainview Rd N @ Maple Ave',43.6561584,-79.9112625
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
+2530,'','Weber St W @ Queen St N',43.4519386,-80.4876175
+2531,'','Weber St W @ Queen St N',43.451828,-80.4870758
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
 2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
 2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
@@ -1149,10 +1144,15 @@
 2621,'','Ontario St @ QEW Pk & Ride',43.1881676,-79.4759598
 2622,'','Bond St.E @ Claymore Cr.',43.9045258,-78.8424835
 2623,'','Winchester Rd W @ Lk Rdg Rd',43.9403648,-79.0159454
-2624,'','Charles St @ Gaukel St (Kitchener Bus Terminal)',43.4499855,-80.4924774
-2625,'','Kitchener Bus Terminal',43.4494133,-80.4932022
 2626,'','Brock Rd S @ Gilmour Rd',43.4668732,-80.1422806
 2627,'','Brock Rd S @ Gilmour Rd',43.466629,-80.1415634
+2628,'','Kingston Rd @ Brock Rd',43.8478546,-79.0743408
+2629,'','Gormley',43.9409103,-79.3985214
+2630,'','Winchester Rd @ Chelmsford Dr',43.9536209,-78.9606323
+2631,'','Hwy 7A @ 6th Line',44.0956688,-78.9611511
+2632,'','Yonge St @ Weldrick Rd E',43.8606033,-79.4346237
+2633,'','Mountainview Rd N @ Maple Ave',43.6563339,-79.9114151
+2634,'','Davis Dr @ Superior St (Newmarket GO).',44.0596123,-79.4592438
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
