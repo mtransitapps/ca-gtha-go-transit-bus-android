@@ -455,6 +455,7 @@
 857,'','Main St E @ Ontario St',43.518795,-79.8772278
 860,'','Main St S @ Vly Rd',43.6163979,-80.1408844
 861,'','Main St S @ Bridge St',43.6170883,-80.1415176
+862,'','Main St E @ Wilson Dr',43.5229797,-79.872345
 863,'','Main St E @ Wilson Dr',43.5234795,-79.8721008
 864,'','Mill St E @ Fellows St (Acton GO)',43.6337471,-80.0368423
 865,'','Mill St E @ Elgin St N',43.6317863,-80.0392303
@@ -758,7 +759,7 @@
 1537,'','Yonge St @ Meadowland St',44.2575531,-79.6023865
 1538,'','Yonge St @ Glenn Ave',44.3280373,-79.6202011
 1543,'','Wellington St E @ 1st Commerce Dr',44.0122299,-79.4139557
-1544,'','Aurora- Wellington St @ 1st Commerce Dr',44.0118065,-79.4146194
+1544,'','Wellington St E @ 1st Commerce Dr',44.0118065,-79.4146194
 1546,'','Yonge St @ Big Bay Pt Rd',44.3565178,-79.6470184
 1601,'','Belfield Rd @ City Vw Dr',43.699543,-79.5854187
 1602,'','Belfield Rd @ City Vw Dr',43.6997261,-79.58564
@@ -839,6 +840,7 @@
 1804,'','Bradford St @ Olive St',44.1012955,-79.49263
 1805,'','Bradford St @ Yonge St',44.101223,-79.4919434
 1806,'','Bullock Dr @ Hwy 7',43.8661575,-79.2920685
+1807,'','Bullock Dr @ Hwy 7',43.8656082,-79.2921219
 1810,'','Davis Dr @ Lorne Ave',44.0578918,-79.466423
 1812,'','Davis Dr @ Ashton Rd',44.0642853,-79.4387512
 1814,'','Davis Dr @ George St',44.0552406,-79.478241
@@ -1080,7 +1082,7 @@
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
 2530,'','Weber St W @ Queen St N (Kitchener Bus Terminal)',43.4519386,-80.4876175
-2531,'','Weber St W @ Queen St N (Kitchener Bus Terminal)',43.451828,-80.4870758
+2531,'','Weber St E @ Queen St N (Kitchener Bus Terminal)',43.451828,-80.4870758
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
 2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
 2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
@@ -1153,6 +1155,11 @@
 2632,'','Yonge St @ Weldrick Rd E',43.8606033,-79.4346237
 2633,'','Mountainview Rd N @ Maple Ave',43.6563339,-79.9114151
 2634,'','Davis Dr @ Superior St (Newmarket GO).',44.0596123,-79.4592438
+2635,'','Winston Churchill Transitway',43.5419006,-79.7131805
+2636,'','Winston Churchill Transitway',43.5417557,-79.7129898
+2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
+2638,'','Grn Ln. W @ Yonge St',44.0732346,-79.4840164
+2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
