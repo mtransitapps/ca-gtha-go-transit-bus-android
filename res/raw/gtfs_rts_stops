@@ -77,7 +77,6 @@
 144,'','University Of Toronto Scarborough',43.7843628,-79.1851273
 147,'','Pickering Bus',43.830982,-79.084571
 148,'','Streetsville Bus',43.575378,-79.709271
-152,'','Hwy 7 E @ Westney Rd',43.934021,-79.0670166
 153,'','University Of Ontario Institute Of Technology',43.9433594,-78.8949661
 154,'','Oshawa Bus Terminal',43.8978462,-78.865593
 155,'','Waverly Rd @ Baseline Rd',43.8975792,-78.6905899
@@ -405,7 +404,6 @@
 730,'','Erin Mills Pkwy. @ Britannia Rd W',43.577713,-79.7318649
 731,'','Yonge St @ 16th Ave',43.8536987,-79.4329987
 732,'','Main St W @ Longwood Rd S',43.2590866,-79.901741
-733,'','Hwy 7 @ Bullock Dr',43.865406,-79.2925491
 734,'','King St E @ Simpson Ave',43.9116249,-78.6742783
 735,'','Simpson Ave @ King St E',43.9112968,-78.6749878
 736,'','Finch Bus Terminal',43.7819481,-79.4159088
@@ -550,7 +548,6 @@
 976,'','Guelph St @ Mountainview Rd S',43.6500969,-79.9024353
 977,'','Yonge St @ Shr Acres Dr',44.2156067,-79.5902023
 978,'','Yonge St @ County Rd 89',44.2153625,-79.5903854
-981,'','Hwy 7 W @ Paddock Rd',43.9257317,-79.0787201
 989,'','Hurontario St @ County Court Blvd',43.6621399,-79.7277679
 990,'','Hurontario St @ County Court Blvd',43.6589584,-79.7234879
 991,'','Hurontario St @ Ray Lawson Blvd',43.658577,-79.7236023
@@ -1109,7 +1106,6 @@
 2575,'','Markham Rd @ Castlemore Ave',43.9040985,-79.2667618
 2576,'','Kingston Rd @ Fairport Rd',43.8238487,-79.1063309
 2577,'','Yonge St @ 4th Line (Churchill Community Ctr)',44.2538338,-79.6016998
-2578,'','Main St E @ Wilson Dr',43.5233803,-79.8718872
 2579,'','Major Mackenzie Dr E @ Cedar Ave',43.8731232,-79.4284439
 2580,'','Major Mackenzie Dr E @ Cedar Ave',43.8734169,-79.4278793
 2581,'','Albert St S @ Jones St',44.2612915,-79.0663376
