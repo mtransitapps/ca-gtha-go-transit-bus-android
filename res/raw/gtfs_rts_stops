@@ -31,7 +31,7 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
-54,'','Bramalea Bus',43.70215,-79.689512
+54,'','Bramalea',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
 62,'','Richmond Hl Bus',43.875786,-79.426228
@@ -83,7 +83,7 @@
 156,'','Waverly Rd @ Baseline Rd',43.8978195,-78.6911011
 157,'','King St E @ Liberty St',43.9107056,-78.6806183
 158,'','King St E @ Liberty St',43.9103699,-78.6810532
-159,'','Oshawa Bus',43.870909,-78.88585
+159,'','Oshawa',43.870909,-78.88585
 161,'','Ajax Bus',43.847547,-79.041084
 163,'','Stevenson Rd S @ Cartier Ave',43.8897095,-78.8817673
 164,'','Stevenson Rd S @ Cartier Ave',43.8903389,-78.88237
@@ -200,7 +200,7 @@
 354,'','Hurontario St @ Hwy 407 Pk & Ride',43.6521416,-79.7108765
 355,'','Trafalgar Rd @ Upper Middle Rd E',43.4749031,-79.7014771
 358,'','Centennial College',43.7854233,-79.2290802
-359,'','Allandale Waterfront Bus',44.373817,-79.689441
+359,'','Allandale Waterfront',44.373817,-79.689441
 360,'','Hwy 27 @ Innovation Dr',43.7887421,-79.6257782
 365,'','Kingston Rd @ Brock Rd',43.8479996,-79.0733032
 366,'','Kingston Rd @ Westney Rd',43.8572845,-79.0426102
@@ -356,7 +356,7 @@
 671,'','Simcoe St @ Queen St',44.1037521,-78.9472961
 674,'','Simcoe St E @ Union St',44.4281197,-79.1486282
 675,'','Simcoe St E @ Union St',44.4279976,-79.1488342
-677,'','Stevenson Rd S @  Laval Dr',43.8797913,-78.8772049
+677,'','Stevenson Rd S @ Laval Dr',43.8797913,-78.8772049
 678,'','Stevenson Rd S @ Gibb St',43.8856468,-78.8798828
 679,'','Stevenson Rd S @ Gibb St',43.8861427,-78.8803253
 680,'','Stevenson Rd @ King St W',43.8934097,-78.8837051
@@ -1139,7 +1139,7 @@
 2617,'','Brantford Bus Terminal',43.1403084,-80.2649918
 2619,'','McMaster Innovation Pk',43.2570114,-79.9015045
 2620,'','McMaster Innovation Pk',43.2564278,-79.9013138
-2621,'','Ontario St @ QEW Pk & Ride',43.1881676,-79.4759598
+2621,'','Ontario St @ QEW (Beamsville) Pk & Ride',43.1881676,-79.4759598
 2622,'','Bond St.E @ Claymore Cr.',43.9045258,-78.8424835
 2623,'','Winchester Rd W @ Lk Rdg Rd',43.9403648,-79.0159454
 2626,'','Brock Rd S @ Gilmour Rd',43.4668732,-80.1422806
@@ -1156,6 +1156,8 @@
 2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
 2638,'','Grn Ln. W @ Yonge St',44.0732346,-79.4840164
 2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
+2642,'','Hespeler Rd N @ Dunbar Rd',43.3929367,-80.3230209
+2643,'','Hespeler Rd S @ Dunbar Rd',43.3928337,-80.3223343
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
