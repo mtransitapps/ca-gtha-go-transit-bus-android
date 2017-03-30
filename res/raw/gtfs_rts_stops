@@ -31,6 +31,7 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
+53,'','Canada''s Wonderland',43.8460121,-79.5406113
 54,'','Bramalea',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
@@ -627,7 +628,7 @@
 1245,'','Erin Mills Pkwy. @ Windwood Dr',43.5805435,-79.7364044
 1246,'','Mississauga Rd @ Argentia Rd',43.6003456,-79.7399902
 1247,'','Erin Mills Pkwy. @ Erin Ctr Blvd',43.5623436,-79.7118835
-1248,'','Finch Ave @ Kenview Blvd (Wild Water Kingdom)',43.7401047,-79.6440582
+1248,'','Finch Ave @ Kenview Blvd',43.7401047,-79.6440582
 1249,'','Finch Ave @ Kenview Blvd (Wild Water Kingdom)',43.7398796,-79.6431732
 1255,'','Hansen Blvd @ Michael Dr',43.9295616,-80.1105499
 1256,'','Hansen Blvd @ Scott Dr',43.9273224,-80.113327
@@ -1009,6 +1010,8 @@
 2150,'','Cambridge Smart Ctr',43.4117165,-80.3236008
 2151,'','Regional Rd 25 @ Hwy 401 Pk & Ride',43.5274849,-79.9038162
 2153,'','Wilfrid Laurier University',43.4752655,-80.5272827
+2155,'','King St E @ Montgomery Rd',43.4375038,-80.4602432
+2156,'','King St E @ Charles St E',43.4378624,-80.461853
 2157,'','Maple Bus',43.859853,-79.505926
 2158,'','Major Mackenzie Dr E @ Keele St',43.8550568,-79.5116119
 2159,'','Keele St @ Church St',43.852829,-79.5120239
@@ -1142,6 +1145,7 @@
 2621,'','Ontario St @ QEW (Beamsville) Pk & Ride',43.1881676,-79.4759598
 2622,'','Bond St.E @ Claymore Cr.',43.9045258,-78.8424835
 2623,'','Winchester Rd W @ Lk Rdg Rd',43.9403648,-79.0159454
+2625,'','Kitchener Bus Terminal',43.4494133,-80.4932022
 2626,'','Brock Rd S @ Gilmour Rd',43.4668732,-80.1422806
 2627,'','Brock Rd S @ Gilmour Rd',43.466629,-80.1415634
 2628,'','Kingston Rd @ Brock Rd',43.8478546,-79.0743408
@@ -1158,8 +1162,14 @@
 2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
 2640,'','Regional Rd 25. @ Britannia Rd',43.4867945085456,-79.8351362856758
 2641,'','Regional Rd 25. @ Britannia Rd',43.4867163829386,-79.8344502041188
-2642,'','Hespeler Rd N @ Dunbar Rd',43.3929367,-80.3230209
-2643,'','Hespeler Rd S @ Dunbar Rd',43.3928337,-80.3223343
+2642,'','Cambridge Ctr Terminal',43.3929367,-80.3230209
+2643,'','Cambridge Ctr Terminal',43.3928337,-80.3223343
+2644,'','Main St @ Ringwood Dr',43.9650310025184,-79.2749393391483
+2645,'','Main St @ Baker Hl Blvd',43.9653991754335,-79.2742792341716
+2646,'','Niagara College',43.1524845920884,-79.166533938966
+2647,'','Trafalgar Rd @ Dundas St E',43.4877993708847,-79.7192931589981
+2648,'','Victoria St @ King St',43.452607682658,-80.498158338438
+2649,'','Victoria St @ King St',43.4536442075418,-80.4975713205815
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
