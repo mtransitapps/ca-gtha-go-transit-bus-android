@@ -1040,8 +1040,6 @@
 2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
-2204,'','Weber St E @ Montgomery Rd',43.4387245,-80.4601898
-2205,'','Weber St E @ Montgomery Rd',43.4387054,-80.4595566
 2207,'','West Harbour Bus',43.265225,-79.865379
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr @ Convair Dr',43.6723671,-79.5936432
@@ -1081,13 +1079,10 @@
 2523,'','Queensville Sdrd. @ Hwy 404 Pk & Ride',44.1420212,-79.4405518
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
 2529,'','Sq One',43.5951881,-79.6492691
-2530,'','Weber St W @ Queen St N (Kitchener Bus Terminal)',43.4519386,-80.4876175
-2531,'','Weber St E @ Queen St N (Kitchener Bus Terminal)',43.451828,-80.4870758
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
 2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
 2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
 2535,'','Hwy 50 @ Ebenezer Rd',43.777973,-79.654884
-2536,'','Trafalgar Rd @ Dundas St E',43.487812,-79.71936
 2537,'','Barrie St @ Doctors Ln',44.115643,-79.565002
 2538,'','Davis Dr @ Hwy 404 Pk & Ride',44.0676956,-79.4215164
 2539,'','Brock Rd @ Hwy 407 Pk & Ride',43.912816,-79.095858
