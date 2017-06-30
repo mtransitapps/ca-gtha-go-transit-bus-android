@@ -146,7 +146,6 @@
 255,'','Hwy 10 @ Buena Vista Dr',43.921978,-80.0827255
 257,'','Hansen Blvd @ 1st St (Orangeville Mall)',43.930336,-80.1022568
 258,'','Broadway @ Blind Line',43.9155502,-80.1138382
-259,'','Hwy 10 @ Buena Vista Dr',43.9218445,-80.0830078
 260,'','Rutherford Rd @ Vaughan Mills Rd',43.8132133,-79.6167603
 261,'','Rutherford Rd @ Vaughan Mills Rd',43.8135452,-79.6160278
 263,'','Appleby Bus',43.379261,-79.760483
@@ -708,8 +707,6 @@
 1408,'','Regional Rd 50 @ Queensgate Blvd',43.8690186,-79.7237167
 1409,'','Regional Rd 50 @ Bolton Hts Dr',43.8874474,-79.7487717
 1410,'','Regional Rd 50 @ Cross Country Blvd',43.8875618,-79.7492142
-1411,'','Regional Rd 50 @ Mill St',43.8809319,-79.7398224
-1412,'','Regional Rd 50 @ Mill St',43.8806992,-79.7398987
 1426,'','Main St N @ Vodden St W',43.6926956,-79.7692566
 1435,'','Trafalgar Rd @ Burnhamthorpe Rd',43.5013275,-79.7375031
 1436,'','Streetsville Sta Pkng Lot',43.5774536,-79.7130508
@@ -771,8 +768,6 @@
 1612,'','62 Belfield Rd @ Shaft Rd',43.7034035,-79.5691986
 1613,'','Belfield Rd @ Shaft Rd',43.703907,-79.5662384
 1614,'','Belfield Rd @ Shaft Rd',43.7040443,-79.5665588
-1619,'','Ellesmere Rd @ Morningside Ave',43.7854576,-79.1925735
-1620,'','Ellesmere Rd @ Morningside Ave',43.7854385,-79.1931229
 1630,'','Hwy 27 @ Carrier Dr',43.7392311,-79.6056442
 1631,'','Hwy 27 @ Carrier Dr',43.7390442,-79.6051331
 1632,'','Hwy 27 @ Finch Ave W',43.7344933,-79.6034851
@@ -1040,7 +1035,6 @@
 2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
-2207,'','West Harbour Bus',43.265225,-79.865379
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr @ Convair Dr',43.6723671,-79.5936432
 2210,'','Erin Mills Transitway',43.5520363,-79.7003021
