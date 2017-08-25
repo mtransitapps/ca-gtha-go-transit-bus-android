@@ -62,7 +62,7 @@
 6301,0,'Union',63
 6500,0,'East Gwillimbury',65
 6501,0,'Union',65
-6600,0,'Newmarket',66
+6600,0,'East Gwillimbury',66
 6601,0,'Yorkdale',66
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
@@ -82,5 +82,7 @@
 9101,0,'Oshawa',91
 9200,0,'Oshawa',92
 9201,0,'Yorkdale',92
+9301,0,'Scarboro',93
+9300,0,'UOIT / D.C.',93
 9601,0,'Finch',96
 9600,0,'Oshawa',96
