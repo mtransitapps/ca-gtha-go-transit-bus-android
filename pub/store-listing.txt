@@ -5,7 +5,7 @@ GTHA GO Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from August 21, 2017 to December 1, 2017.
+Schedule from September 7, 2017 to December 1, 2017.
 Tweets from @GOtransit.
 ----------
 Full description:
