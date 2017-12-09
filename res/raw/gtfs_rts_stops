@@ -1029,10 +1029,10 @@
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
 2209,'','Renforth Dr @ Convair Dr',43.6723671,-79.5936432
-2210,'','Erin Mills Transitway',43.5520363,-79.7003021
-2213,'','Erin Mills Transitway',43.552124,-79.7004547
-2214,'','Erin Mills Transitway',43.5520363,-79.7003021
-2215,'','Erin Mills Transitway',43.552124,-79.7004547
+2210,'','Erin Mills Transitway Sta',43.5520363,-79.7003021
+2213,'','Erin Mills Transitway Sta',43.552124,-79.7004547
+2214,'','Erin Mills Transitway Sta',43.5520363,-79.7003021
+2215,'','Erin Mills Transitway Sta',43.552124,-79.7004547
 2216,'','Erin Mills Transitway',43.5522194,-79.7003632
 2402,'','St Catharines Fairview Mall',43.178627,-79.2452545
 2404,'','Stanley Ave @ Hwy 420 Pk & Ride',43.097271,-79.0852356
@@ -1135,8 +1135,8 @@
 2632,'','Yonge St @ Weldrick Rd E',43.8606033,-79.4346237
 2633,'','Mountainview Rd N @ Maple Ave',43.6563339,-79.9114151
 2634,'','Davis Dr @ Superior St (Newmarket GO).',44.0596123,-79.4592438
-2635,'','Winston Churchill Transitway',43.5419006,-79.7131805
-2636,'','Winston Churchill Transitway',43.5417557,-79.7129898
+2635,'','Winston Churchill Transitway Sta',43.5419006,-79.7131805
+2636,'','Winston Churchill Transitway Sta',43.5417557,-79.7129898
 2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
 2638,'','Grn Ln. W @ Yonge St',44.0732346,-79.4840164
 2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
@@ -1158,10 +1158,10 @@
 2655,'','Hurontario St @ Fairview Rd',43.5875907610701,-79.6265046670912
 2656,'','Queen St @ King St',43.8795776389315,-79.738106843457
 2657,'','Queen St @ King St',43.8795976964338,-79.7383740431728
-2658,'','Dixie Transitway',43.6300478663032,-79.6146878930147
-2659,'','Dixie Transitway',43.6300128947218,-79.6146254772841
-2660,'','Renforth Transitway',43.6630754344014,-79.591281189024
-2661,'','Renforth Transitway',43.662995090205,-79.5911181123626
+2658,'','Dixie Transitway Sta',43.6300478663032,-79.6146878930147
+2659,'','Dixie Transitway Sta',43.6300128947218,-79.6146254772841
+2660,'','Renforth Transitway Sta',43.6630754344014,-79.591281189024
+2661,'','Renforth Transitway Sta',43.662995090205,-79.5911181123626
 2662,'','City Ctr Dr @ Robert Speck Pkwy.',43.5947480853453,-79.6397587842478
 2663,'','City Ctr Dr @ Robert Speck Pkwy.',43.594225540709,-79.6392787304937
 2664,'','City Ctr Dr @ Duke Of York Blvd',43.5892029044241,-79.6427464480046
