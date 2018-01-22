@@ -587,7 +587,6 @@
 1153,'','Bovaird Dr W @ Worthington Ave',43.6813278,-79.8141403
 1160,'','Bramalea Rd @ Avondale Blvd',43.7094116,-79.6974106
 1161,'','Bramalea Rd @ Balmoral Dr',43.7152138,-79.7049255
-1162,'','Bramalea Rd @ Balmoral Dr',43.7151604,-79.7050934
 1165,'','Bramalea Rd @ Dearbourne Blvd',43.7092781,-79.6968994
 1170,'','Broadway @ 4th St',43.9208946,-80.0893478
 1171,'','Broadway @ Banting Dr',43.9158554,-80.1123886
@@ -828,15 +827,9 @@
 1805,'','Bradford St @ Yonge St',44.101223,-79.4919434
 1806,'','Bullock Dr @ Hwy 7',43.8661575,-79.2920685
 1807,'','Bullock Dr @ Hwy 7',43.8656082,-79.2921219
-1810,'','Davis Dr @ Lorne Ave',44.0578918,-79.466423
 1812,'','Davis Dr @ Ashton Rd',44.0642853,-79.4387512
-1814,'','Davis Dr @ George St',44.0552406,-79.478241
-1815,'','Davis Dr @ George St',44.0555191,-79.4776688
 1816,'','Davis Dr @ Huron Hts Dr',44.0628891,-79.4451447
-1817,'','Davis Dr @ Parkside Dr',44.0564995,-79.4724121
-1818,'','Davis Dr @ Lorne Ave',44.0582314,-79.4656296
 1819,'','Davis Dr @ Lundy''s Ln.',44.0608406,-79.4540863
-1820,'','Davis Dr @ Main St',44.0590591,-79.4616241
 1822,'','Davis Dr @ Patterson St',44.0620232,-79.4491348
 1825,'','Yonge St @ Old Yonge St',44.082943,-79.4870758
 1826,'','Hwy 27 @ Ashbridge Cir',43.7770576,-79.6222916
@@ -979,9 +972,6 @@
 2118,'','Yonge St @ Mortonvale Dr',44.1003456,-79.4911728
 2126,'','Main St @ Stouffer St',43.9733505,-79.2380981
 2127,'','Yonge St @ Clark Ave E',43.8069839,-79.4221497
-2128,'','Davis Dr @ Main St (Newmarket GO)',44.0589409,-79.4613876
-2129,'','Davis Dr @ Hl St',44.0576134,-79.4683914
-2130,'','Davis Dr @ Longford Dr',44.0568199,-79.4717331
 2131,'','Eagle St @ Millard Ave',44.0499763,-79.4844894
 2132,'','Eagle St @ Peevers Cr.',44.0464249,-79.4842606
 2133,'','Eagle St W @ Yonge St',44.0453224,-79.4791794
@@ -1051,8 +1041,6 @@
 2506,'','Islington Ave @ Turning Leaf Dr',43.8187294,-79.6032486
 2507,'','Islington Ave @ Turning Leaf Dr',43.8186493,-79.6024704
 2508,'','Derry Rd W @ 9th Line',43.574543,-79.78685
-2509,'','Rutherford Rd @ Sweetriver Blvd',43.8289948,-79.539772
-2510,'','Rutherford Rd @ Sweetriver Blvd',43.8295288,-79.5388107
 2511,'','Queen St E @ West Dr',43.7095222,-79.733696
 2512,'','Blind Line @ Hansen Blvd',43.9247589,-80.1168442
 2513,'','Blind Line @ College Ave',43.9221954,-80.1162033
@@ -1138,7 +1126,6 @@
 2635,'','Winston Churchill Transitway Sta',43.5419006,-79.7131805
 2636,'','Winston Churchill Transitway Sta',43.5417557,-79.7129898
 2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
-2638,'','Grn Ln. W @ Yonge St',44.0732346,-79.4840164
 2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
 2640,'','Regional Rd 25. @ Britannia Rd',43.4867945085456,-79.8351362856758
 2641,'','Regional Rd 25. @ Britannia Rd',43.4867163829386,-79.8344502041188
@@ -1156,8 +1143,6 @@
 2653,'','Hwy 10 @ Buena Vista Dr',43.9218485290721,-80.0830587693037
 2654,'','Hurontario St @ Elm Dr',43.5908331882659,-79.6310144279684
 2655,'','Hurontario St @ Fairview Rd',43.5875907610701,-79.6265046670912
-2656,'','Queen St @ King St',43.8795776389315,-79.738106843457
-2657,'','Queen St @ King St',43.8795976964338,-79.7383740431728
 2658,'','Dixie Transitway Sta',43.6300478663032,-79.6146878930147
 2659,'','Dixie Transitway Sta',43.6300128947218,-79.6146254772841
 2660,'','Renforth Transitway Sta',43.6630754344014,-79.591281189024
@@ -1173,6 +1158,10 @@
 2677,'','Gordon St @ Clair Rd',43.5002316951943,-80.1886650066085
 2678,'','Gordon St @ Clair Rd',43.5003866753456,-80.1893148019381
 2679,'','Wellington St E @ Hwy 404 Pk & Ride',44.0128734711053,-79.4082292526746
+2680,'','Bramalea Rd @ Balmoral Dr',43.7154679735916,-79.7054676815027
+2681,'','Queen St @ Hickman St',43.881289458911,-79.7407395455473
+2682,'','Queen St @ Mill St',43.8809995812407,-79.7400896488493
+2683,'','Grn Ln E @ Yonge St',44.0739048051955,-79.4811347004106
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
