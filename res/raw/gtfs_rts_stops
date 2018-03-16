@@ -31,6 +31,7 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
+53,'','Canada''s Wonderland',43.8460121,-79.5406113
 54,'','Bramalea',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
@@ -1051,6 +1052,7 @@
 2522,'','Woodbine Ave @ Hwy 404 Pk & Ride',44.1918488,-79.4372101
 2523,'','Queensville Sdrd. @ Hwy 404 Pk & Ride',44.1420212,-79.4405518
 2528,'','Mountainview Rd N @ Maple Ave',43.6555405,-79.9107971
+2529,'','Sq One',43.5951881,-79.6492691
 2532,'','King St W @ Scugog St',43.9128571,-78.6923294
 2533,'','Hwy 50 @ Queen St E',43.768192,-79.648849
 2534,'','Hwy 50 @ Ebenezer Rd',43.779167,-79.655106
@@ -1164,6 +1166,17 @@
 2684,'','Simcoe St @ Britannia Ave',43.9558385161942,-78.8994952290358
 2685,'','Simcoe St @ Britannia Ave',43.9562798332303,-78.8999931679409
 2686,'','York University',43.7742901633018,-79.5003907735091
+2687,'','Burton Ave @ Granville St',44.3716444485243,-79.6911595701255
+2688,'','Burton Ave @ Granville St',44.3716585556774,-79.6905053283274
+2689,'','Prospect St @ Pearson St',44.0496186238697,-79.453040727793
+2690,'','Prospect St @ Pearson St',44.0493428055642,-79.4528843805226
+2691,'','Bayview Ave @ Mulock Dr',44.0414415652058,-79.4521589476021
+2692,'','Bayview Ave @ Mulock Dr',44.041044495598,-79.4517586529434
+2693,'','Bayview Ave @ St John''s Sideroad',44.0237239494145,-79.4481818236578
+2694,'','Bayview Ave @ St John''s Sideroad',44.023461599752,-79.447692060068
+2696,'','Guelph St @ Hall Rd',43.6486902942996,-79.8765444720472
+2697,'','Victoria St E @ S Blair St',43.865347246294,-78.9209650743573
+2698,'','Victoria St E @ S Blair St',43.8654558761237,-78.9209973861173
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
