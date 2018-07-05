@@ -181,7 +181,7 @@
 329,'','Dundas St @ Hopkins St',43.8841171,-78.9228897
 331,'','Dundas St @ Thickson Rd',43.8865662,-78.9120483
 332,'','Bond St W @ Stevenson Rd N',43.8938599,-78.8843384
-333,'','King St W @ Stevenson Rd',43.8933334,-78.8819885
+333,'','King  St W @ Stevenson Rd',43.8933334,-78.8819885
 334,'','Major Mackenzie Dr @ Hwy 400 Pk & Ride',43.8460693,-79.5503922
 337,'','Brock Rd @ McLean Rd (Aberfoyle) Pk & Ride',43.4609909,-80.133667
 338,'','Hwy 50 @ Columbia Way',43.8914528,-79.7542267
@@ -489,7 +489,6 @@
 895,'','Thompson Rd S @ McCuaig Dr',43.5221252,-79.8587494
 896,'','Thompson Rd S @ McCuaig Dr',43.5222435,-79.8590088
 897,'','Trafalgar Rd @ Briarhall Gt',43.4771309,-79.7049179
-899,'','Trafalgar Rd @ Dundas St E',43.488224,-79.7202759
 900,'','Trafalgar Rd @ Glenashton Dr',43.4801941,-79.7090683
 901,'','Trafalgar Rd @ Glenashton Dr',43.480526,-79.7098923
 902,'','Trafalgar Rd @ Iroquois Shr Rd',43.4648666,-79.6877365
@@ -645,7 +644,6 @@
 1290,'','Hurontario St @ Terry St',43.8870316,-80.0319824
 1291,'','Hurontario St @ Terry St',43.8870239,-80.0324097
 1292,'','Hurontario St @ Travelled Rd',43.8571777,-79.9916916
-1293,'','Hurontario St @ Travelled Rd',43.8571892,-79.9919662
 1294,'','Hwy 10 @ Dufferin Rd',43.9159317,-80.0721436
 1295,'','King St E @ Caledon / King Townline S',43.8879166,-79.7194138
 1296,'','King St E @ Chapel Rd',43.8802299,-79.7376175
@@ -851,8 +849,6 @@
 1842,'','Hwy 27 @ Royalpark Way',43.8062439,-79.6287918
 1843,'','Hwy 27 @ Rutherford Rd',43.8102303,-79.6291199
 1844,'','Hwy 27 @ Rutherford Rd',43.8108902,-79.6288223
-1845,'','Hwy 27 @ Sanremo Crt.',43.7964249,-79.6276016
-1846,'','Hwy 27 @ Sanremo Crt.',43.7965775,-79.6273193
 1847,'','Hwy 27 @ Steeles Ave W',43.7557335,-79.6145325
 1848,'','Hwy 27 @ West Royal Gt Blvd',43.7696152,-79.6209183
 1849,'','Hwy 27 @ Zenway Blvd',43.7775612,-79.6227722
@@ -1119,7 +1115,6 @@
 2627,'','Brock Rd S @ Gilmour Rd',43.466629,-80.1415634
 2628,'','Kingston Rd @ Brock Rd',43.8478546,-79.0743408
 2629,'','Gormley',43.9409103,-79.3985214
-2630,'','Winchester Rd @ Chelmsford Dr',43.9536209,-78.9606323
 2631,'','Hwy 7A @ 6th Line',44.0956688,-78.9611511
 2632,'','Yonge St @ Weldrick Rd E',43.8606033,-79.4346237
 2633,'','Mountainview Rd N @ Maple Ave',43.6563339,-79.9114151
@@ -1127,7 +1122,7 @@
 2635,'','Winston Churchill Transitway Sta',43.5419006,-79.7131805
 2636,'','Winston Churchill Transitway Sta',43.5417557,-79.7129898
 2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
-2639,'','Grn Ln. E @ Yonge St',44.0729599,-79.4839096
+2639,'','Grn Ln. E @ Yonge St',44.073222,-79.484122
 2640,'','Regional Rd 25. @ Britannia Rd',43.4867945085456,-79.8351362856758
 2641,'','Regional Rd 25. @ Britannia Rd',43.4867163829386,-79.8344502041188
 2642,'','Cambridge Ctr Terminal',43.3929367,-80.3230209
