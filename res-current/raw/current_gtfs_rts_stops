@@ -31,10 +31,10 @@
 50,'','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'','Union Sta Bus Terminal',43.6456261,-79.3783951
-53,'','Canada''s Wonderland',43.8460121,-79.5406113
+53,'','Canada''s Wonderland',43.84605,-79.54039
 54,'','Bramalea',43.70215,-79.689512
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
-61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836579,-79.420376
+61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.83663,-79.42024
 62,'','Richmond Hl Bus',43.875786,-79.426228
 63,'','Yonge St @ Savage Rd',44.0264473,-79.4736099
 64,'','Yonge St @ Savage Rd',44.0326271,-79.4750137
@@ -55,12 +55,12 @@
 115,'','Hwy 47 @ Front St',44.0375214,-79.1956329
 116,'','Hwy 47 @ Front St',44.0369034,-79.1964798
 117,'','Main St @ Edward St (Stouffville GO)',43.9706841,-79.2501831
-118,'','Main St @ Edward St (Stouffville GO)',43.970468,-79.250599
+118,'','Main St @ Edward St (Stouffville GO)',43.97041,-79.25075
 121,'','Mt Joy Bus',43.900455,-79.263649
-122,'','Main St N @ Sta St (Markham GO)',43.882359,-79.261906
+122,'','Main St N @ Sta St (Markham GO)',43.88255,-79.26191
 123,'','Main St N @ Ramona Blvd (Markham GO)',43.8828239,-79.2618408
 124,'','Bullock Dr @ McCowan Rd (Centennial GO)',43.8720551,-79.2881393
-125,'','Bullock Dr @ McCowan Rd (Centennial GO)',43.871725,-79.288195
+125,'','Bullock Dr @ McCowan Rd (Centennial GO)',43.87161,-79.28832
 126,'','Bullock Dr @ Austin Dr',43.8676033,-79.2930374
 127,'','Bullock Dr @ Austin Dr',43.8673248,-79.292511
 128,'','Unionville Bus',43.851935,-79.313774
@@ -127,7 +127,7 @@
 222,'','Shopper''s World',43.6678429,-79.7354813
 223,'','Shopper''s World',43.6675682,-79.7358246
 225,'','Bramalea Bus Terminal',43.7186356,-79.7205734
-227,'','Steeles Ave E @ Rutherford Rd S',43.679863,-79.7183075
+227,'','Steeles Ave E @ Rutherford Rd S',43.68031,-79.71787
 228,'','Malton Bus',43.705143,-79.637825
 231,'','Trinity Common Mall',43.7313271,-79.7631531
 237,'','Queen St E @ Dixie Rd',43.7142944,-79.7290268
@@ -205,7 +205,7 @@
 360,'','Hwy 27 @ Innovation Dr',43.7887421,-79.6257782
 365,'','Kingston Rd @ Brock Rd',43.8479996,-79.0733032
 366,'','Kingston Rd @ Westney Rd',43.8572845,-79.0426102
-367,'','Kingston Rd @ Westney Rd',43.8576012,-79.0421982
+367,'','Kingston Rd @ Westney Rd',43.85742,-79.04304
 368,'','Dundas St @ Thickson Rd',43.886425,-78.9140778
 401,'','King Ave E @ Beaver St S',43.9180527,-78.5859451
 402,'','Durham Hwy 2 @ Darlington Blvd',43.9069023,-78.8081512
@@ -220,7 +220,7 @@
 415,'','Baldwin St @ Robmar St',43.9352493,-78.9610596
 416,'','Baldwin St @ Roybrook Ave',43.9507942,-78.9618759
 417,'','Baldwin Ave @ Sonley Dr',43.9259758,-78.9620514
-418,'','Baldwin St @ Taunton Rd',43.9157333,-78.9577713
+418,'','Baldwin St @ Taunton Rd',43.91611,-78.95793
 419,'','Baldwin St @ Winchester Rd W',43.9532204,-78.9621048
 428,'','Bond St E @ Mary St N',43.8992729,-78.8607101
 429,'','Bond St W @ Pk Rd N',43.8962479,-78.8746185
@@ -238,7 +238,7 @@
 441,'','Brock St @ Manning Rd',43.892067,-78.9473114
 442,'','Brock St N @ McCartney Ave',43.900795,-78.9514923
 443,'','Brock St @ Manning Rd',43.890522,-78.9465408
-444,'','814 Brock St N @ Starr Ave',43.8901367,-78.9466171
+444,'','814 Brock St N @ Starr Ave',43.89042,-78.94671
 445,'','Brock St @ Palmerston Ave',43.8950615,-78.9486923
 446,'','Brock St @ Rossland Rd',43.8969574,-78.9493713
 447,'','Brock St @ Rossland Rd',43.8978348,-78.9501266
@@ -330,7 +330,7 @@
 600,'','Durham Hwy 2 @ Trulls Rd',43.9107971,-78.7887421
 602,'','King St E @ Wilson Rd',43.9022102,-78.8435135
 622,'','Kingston Rd @ Rougemount Dr',43.8096542,-79.129097
-623,'','Kingston Rd @ Rougemount Dr',43.8093529,-79.1293793
+623,'','Kingston Rd @ Rougemount Dr',43.80911,-79.12996
 633,'','Kingston Rd @ Whites Rd',43.8189011,-79.1159744
 634,'','Kingston Rd @ Whites Rd',43.8194008,-79.1146774
 645,'','Prince St @ Liberty St S',43.9083099,-78.6788559
@@ -373,7 +373,7 @@
 690,'','Thickson Rd @ Winchester Rd',43.9582214,-78.9437408
 691,'','Thickson Rd @ Winchester Rd',43.9575005,-78.9436874
 692,'','Toronto St N @ Albert St',44.1093521,-79.1225128
-693,'','Toronto St S @ Campbell Dr',44.102169,-79.1255493
+693,'','Toronto St S @ Campbell Dr',44.10191,-79.12558
 694,'','Toronto St S @ Campbell Dr',44.1023788,-79.1256332
 695,'','Toronto St @ Elgin Pk Dr',44.0974541,-79.1284714
 696,'','Toronto St S @ Mill St',44.1044579,-79.124939
@@ -399,8 +399,8 @@
 721,'','Simcoe St @ Kellett St',44.1103477,-78.9502258
 722,'','McCowan Rd @ Progress Ave',43.7764702,-79.2527542
 723,'','McCowan Rd @ Triton Rd',43.7755547,-79.2528763
-726,'','Liverpool Rd @ Pickering Pkwy.',43.8333702,-79.0896378
-727,'','Liverpool Rd @ Pickering Pkwy.',43.8334274,-79.089325
+726,'','Liverpool Rd @ Pickering Pkwy.',43.83299,-79.0894
+727,'','Liverpool Rd @ Pickering Pkwy.',43.83309,-79.08914
 728,'','Kingston Rd @ Salem Rd',43.8634377,-79.0152206
 729,'','Kingston Rd @ Salem Rd',43.8634529,-79.0167465
 730,'','Erin Mills Pkwy. @ Britannia Rd W',43.577713,-79.7318649
@@ -478,13 +478,13 @@
 884,'','Plains Rd E @ Waterdown Rd',43.3070107,-79.8525772
 885,'','Plains Rd E @ Willowbrook Rd',43.3171082,-79.8393402
 886,'','Plains Rd E @ Willowbrook Rd (Maplehurst Public School)',43.3187675,-79.8369522
-887,'','Queen St @ Acton Blvd',43.6355133,-80.0303879
+887,'','Queen St @ Acton Blvd',43.63509,-80.03091
 888,'','Queen St @ Churchill Rd S',43.6370354,-80.0284729
 889,'','Queen St @ Churchill Rd N',43.6374321,-80.0283279
 890,'','Queen St @ Longfield Rd',43.6351967,-80.0305176
 891,'','Thompson Rd S @ Childs Dr',43.5241127,-79.8615265
 892,'','Thompson Rd S @ Childs Dr',43.5239563,-79.8612061
-893,'','Thompson Rd S @ Laurier Ave',43.51968,-79.8556442
+893,'','Thompson Rd S @ Laurier Ave',43.52007,-79.85619
 894,'','Thompson Rd S @ Laurier Ave',43.5199051,-79.8556519
 895,'','Thompson Rd S @ McCuaig Dr',43.5221252,-79.8587494
 896,'','Thompson Rd S @ McCuaig Dr',43.5222435,-79.8590088
@@ -523,8 +523,8 @@
 947,'','Durham Rd 57 @ Waverley Rd',43.9004822,-78.6928482
 948,'','Durham Rd 57 @ Waverley Rd',43.9002495,-78.6930161
 949,'','Brant St @ Churchill Ave',43.3397484,-79.8196716
-950,'','Hwy 7A @ 6th Line',44.0867958,-78.9717865
-951,'','Hwy 7A @ 6th Line',44.0872421,-78.9709702
+950,'','Hwy 7A @ 6th Line',44.08645,-78.9722
+951,'','Hwy 7A @ 6th Line',44.08641,-78.97204
 953,'','Trafalgar Rd @ Oak Pk Blvd',43.4832001,-79.7135086
 955,'','Yonge St @ Finch Ave (Finch Terminal)',43.780365,-79.4158859
 956,'','Regional Rd 25 @ Louis Saint Laurent Ave',43.4966698,-79.8483353
@@ -533,7 +533,7 @@
 959,'','10953 Hwy 48 @ Elgin Mills Rd E',43.9326401,-79.2737274
 960,'','Hwy 7 @ Dunbar St',43.6094551,-80.1306839
 961,'','Hwy 7 @ Dunbar St',43.6084785,-80.1295776
-962,'','Hwy 50 @ Langstaff Rd',43.7852631,-79.6586761
+962,'','Hwy 50 @ Langstaff Rd',43.78563,-79.65879
 963,'','Regional Rd 50 @ Rutherford Rd',43.8034859,-79.6692581
 964,'','Tenth Line @ Hemlock Dr',43.9804611,-79.2326508
 965,'','Tenth Line @ Norm Faulkner Dr',43.9801979,-79.2322922
@@ -627,7 +627,7 @@
 1249,'','Finch Ave @ Kenview Blvd (Wild Water Kingdom)',43.7398796,-79.6431732
 1255,'','Hansen Blvd @ Michael Dr',43.9295616,-80.1105499
 1256,'','Hansen Blvd @ Scott Dr',43.9273224,-80.113327
-1258,'','Hurontario St @ Bovaird Dr W',43.7074814,-79.7887878
+1258,'','Hurontario St @ Bovaird Dr W',43.70655,-79.78753
 1261,'','Hurontario St @ Conservation Dr',43.7256508,-79.8135529
 1271,'','Hurontario St @ Sandalwood Pkwy. W',43.7173424,-79.8027267
 1276,'','Hurontario St @ Wanless Dr',43.7261734,-79.8145447
@@ -688,7 +688,7 @@
 1385,'','Thomas St @ Erin Mills Pkwy.',43.5702477,-79.7223434
 1393,'','Albion Rd @ Steeles Ave W',43.7503242,-79.6393509
 1394,'','Albion Rd @ Steeles Ave W',43.7499313,-79.639595
-1398,'','Hwy 50 @ Cottrelle Blvd',43.7850227,-79.6589432
+1398,'','Hwy 50 @ Cottrelle Blvd',43.78421,-79.65847
 1400,'','Regional Rd 50 @ Castlemore Rd',43.8032684,-79.6695251
 1402,'','Regional Rd 50 @ Countryside Dr',43.8368378,-79.6890564
 1403,'','Regional Rd 50 @ George Bolton Pkwy.',43.8573532,-79.7071075
@@ -835,7 +835,7 @@
 1827,'','Regional Rd 27 @ Parkview Ave',43.8999748,-79.6522675
 1828,'','Hwy 27 @ Forest Hts Blvd',43.8513451,-79.6385956
 1829,'','Hwy 27 @ Forest Hts Blvd',43.8513947,-79.6389084
-1830,'','Hwy 27 @ Hwy 7',43.7749062,-79.622139
+1830,'','Hwy 27 @ Hwy 7',43.77357,-79.62184
 1831,'','Hwy 27 @ Hwy 7',43.7729149,-79.6213531
 1832,'','Hwy 27 @ Langstaff Rd',43.791729,-79.6263275
 1833,'','Hwy 27 @ Langstaff Rd',43.7925262,-79.6262512
@@ -858,7 +858,7 @@
 1863,'','Islington Ave @ Sevilla Blvd',43.8362427,-79.6218262
 1864,'','Islington Ave @ Major Mackenzie Dr W',43.8320732,-79.6173172
 1865,'','Islington Ave @ Major Mackenzie Dr W',43.8319588,-79.6166992
-1866,'','Islington Ave @ Napa Vly Ave',43.8257751,-79.6095428
+1866,'','Islington Ave @ Napa Vly Ave',43.82628,-79.60961
 1867,'','Islington Ave @ Napa Vly Ave',43.8259888,-79.6091156
 1868,'','Islington Ave @ Pennon Rd',43.8393974,-79.6242371
 1869,'','Islington Ave @ Rushworth Cr.',43.8390388,-79.6236649
@@ -1027,7 +1027,7 @@
 2406,'','Casablanca Blvd @ QEW Pk & Ride',43.2047997,-79.5964279
 2407,'','Scarborough Ctr Bus Terminal',43.7746925,-79.2563095
 2408,'','Niagara Falls Bus Terminal',43.1085358,-79.0636063
-2412,'','Main St S @ Rdg Rd',43.6111412,-80.13311
+2412,'','Main St S @ Rdg Rd',43.61085,-80.13266
 2413,'','Georgetown Bus',43.6560287,-79.9186783
 2414,'','City Ctr Dr @ Mercer St',43.5895958,-79.6420135
 2501,'','Trent University',44.3569412,-78.2870331
@@ -1122,7 +1122,7 @@
 2635,'','Winston Churchill Transitway Sta',43.5419006,-79.7131805
 2636,'','Winston Churchill Transitway Sta',43.5417557,-79.7129898
 2637,'','Davis Dr @ Superior St (Newmarket GO).',44.0594444,-79.4590073
-2639,'','Grn Ln. E @ Yonge St',44.073222,-79.484122
+2639,'','Grn Ln. E @ Yonge St',44.07297,-79.48391
 2640,'','Regional Rd 25. @ Britannia Rd',43.4867945085456,-79.8351362856758
 2641,'','Regional Rd 25. @ Britannia Rd',43.4867163829386,-79.8344502041188
 2642,'','Cambridge Ctr Terminal',43.3929367,-80.3230209
