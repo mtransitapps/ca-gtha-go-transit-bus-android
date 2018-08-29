@@ -181,7 +181,7 @@
 329,'','Dundas St @ Hopkins St',43.8841171,-78.9228897
 331,'','Dundas St @ Thickson Rd',43.8865662,-78.9120483
 332,'','Bond St W @ Stevenson Rd N',43.8938599,-78.8843384
-333,'','King  St W @ Stevenson Rd',43.8933334,-78.8819885
+333,'','King St W @ Stevenson Rd',43.8933334,-78.8819885
 334,'','Major Mackenzie Dr @ Hwy 400 Pk & Ride',43.8460693,-79.5503922
 337,'','Brock Rd @ McLean Rd (Aberfoyle) Pk & Ride',43.4609909,-80.133667
 338,'','Hwy 50 @ Columbia Way',43.8914528,-79.7542267
@@ -420,6 +420,7 @@
 808,'','Derry Rd @ James Snow Pkwy.',43.5304413,-79.8352661
 809,'','Derry Rd @ James Snow Pkwy.',43.5310211,-79.8351364
 810,'','Derry Rd @ Miller Way',43.520977,-79.8459167
+811,'','Derry Rd @ Thompson Rd S',43.5183742974875,-79.8485449007419
 812,'','Derry Rd @ Miller Way',43.5185127,-79.8486328
 813,'','Derry Rd @ Trafalgar Rd',43.5542793,-79.8089676
 814,'','Derry Rd @ Trafalgar Rd',43.556057,-79.8073883
@@ -1077,7 +1078,7 @@
 2579,'','Major Mackenzie Dr E @ Cedar Ave',43.8731232,-79.4284439
 2580,'','Major Mackenzie Dr E @ Cedar Ave',43.8734169,-79.4278793
 2581,'','Albert St S @ Jones St',44.2612915,-79.0663376
-2586,'','Financial Dr @ Syntex Crt.',43.6110306,-79.7488174
+2586,'','Financial Dr @ Syntex Crt.',43.611037345833,-79.7488204602084
 2587,'','Dupont Mdw Pl @ Mississauga Rd',43.6081848,-79.7510834
 2589,'','Yonge St @ William Roe Blvd',44.0404587,-79.4767838
 2592,'','Yonge St @ Line 13',44.1873474,-79.5825195
@@ -1174,6 +1175,16 @@
 2698,'','Victoria St E @ S Blair St',43.8654558761237,-78.9209973861173
 2699,'','Hwy 10 @ Travelled Rd',43.8573969935826,-79.9922485935605
 2700,'','Trafalgar Rd @ Dundas St',43.4879119435482,-79.7199831176779
+2702,'','Kingston Rd @ Westney Rd',43.857678667214,-79.0409885998896
+2703,'','Hwy 2 @ Hancock Rd',43.9136190358504,-78.7697274119929
+2704,'','King St @ Hancock Rd',43.913340875983,-78.7705597939023
+2705,'','Winchester Rd @ Lakeridge Rd',43.9404993537075,-79.016552197116
+2706,'','Yonge St @ Queen St',44.0955808817404,-79.4901815817581
+2707,'','Hwy 2 @ Solina Rd',43.9140040885823,-78.7569770446931
+2708,'','Hwy 50 @ Castlemore Rd',43.8022027763583,-79.6689430530202
+2709,'','Yonge St @ Finch Ave',43.7808519429722,-79.416002462366
+2710,'','Major Mackenzie Dr E @ Hwy 404',43.8827741694863,-79.3804406287544
+2711,'','Major Mackenzie Dr E @ Hwy 404',43.8827011632664,-79.3803716525566
 8002,'','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'','Bradford Bus',44.116654,-79.555752
 8012,'','Malton Bus',43.705143,-79.637825
