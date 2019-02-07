@@ -38,20 +38,20 @@
 3801,0,'York Mills',38
 4001,0,'Hamilton',40
 4000,0,'Richmond Hl Ctr',40
+4500,0,'Hwy 407',45
 4501,0,'Streetsville',45
-4500,0,'York U',45
+4600,0,'Hwy 407',46
 4601,0,'Oakville',46
-4600,0,'York U',46
 4701,0,'Hamilton',47
-4700,0,'York U',47
+4700,0,'Hwy 407',47
+4800,0,'Hwy 407',48
 4801,0,'U Of Guelph',48
-4800,0,'York U',48
+5101,0,'Hwy 407',51
 5100,0,'Pickering',51
-5101,0,'York U',51
+5201,0,'Hwy 407',52
 5200,0,'Oshawa',52
-5201,0,'York U',52
+5401,0,'Hwy 407',54
 5400,0,'Mt Joy',54
-5401,0,'York U',54
 6100,0,'Gormley',61
 6101,0,'Union',61
 6300,0,'King City',63
@@ -64,8 +64,6 @@
 6700,0,'Woodbine / 404',67
 6801,0,'Aurora',68
 6800,0,'Barrie',68
-6901,0,'Aurora',69
-6900,0,'Newmarket',69
 7001,0,'Unionville',70
 7000,0,'Uxbridge',70
 7101,0,'Union',71

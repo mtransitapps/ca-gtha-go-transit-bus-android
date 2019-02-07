@@ -13,7 +13,6 @@
 25,'','Barrie St @ Holland St W',44.1146889,-79.565094
 27,'','Keele St @ Sta Rd(King City GO)',43.9203224,-79.5260773
 28,'','Rutherford Bus',43.838582,-79.498945
-29,'','York University',43.7730637,-79.5009308
 30,'','Keele St @ Burton Grv (King City GO)',43.9208336,-79.5259781
 31,'','Whitby Bus',43.8653526,-78.9379272
 32,'','Brock St @ Dundas St',43.8796806,-78.9420319
@@ -35,11 +34,6 @@
 60,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.83663,-79.42024
 62,'','Richmond Hl Bus',43.875786,-79.426228
-63,'','Yonge St @ Savage Rd',44.0264473,-79.4736099
-64,'','Yonge St @ Savage Rd',44.0326271,-79.4750137
-65,'','Yonge St @ Orchard Hts Blvd',44.0083923,-79.4698944
-66,'','Yonge St @ Batson Dr',44.0088387,-79.4696503
-68,'','Yonge St @ Wellington St E',44.0001221,-79.4675293
 73,'','Yonge St @ Steeles Ave W',43.7982216,-79.4202805
 74,'','Yonge St @ Steeles Ave W',43.7986336,-79.4200897
 79,'','Yonge St @ North York Blvd (Mel Lastman Sq)',43.7681007,-79.4128571
@@ -327,7 +321,6 @@
 623,'','Kingston Rd @ Rougemount Dr',43.80911,-79.12996
 633,'','Kingston Rd @ Whites Rd',43.8189011,-79.1159744
 634,'','Kingston Rd @ Whites Rd',43.8194008,-79.1146774
-645,'','Prince St @ Liberty St S',43.9083099,-78.6788559
 646,'','Reach St @ Sherrington Dr',44.1100655,-78.9619446
 647,'','Reach St @ Sherrington Dr',44.1102142,-78.9618301
 648,'','Reach St @ Simcoe St',44.112381,-78.9516296
@@ -400,7 +393,6 @@
 731,'','Yonge St @ 16th Ave',43.8536987,-79.4329987
 732,'','Main St W @ Longwood Rd S',43.2590866,-79.901741
 734,'','King St E @ Simpson Ave',43.9116249,-78.6742783
-735,'','Simpson Ave @ King St E',43.9112968,-78.6749878
 736,'','Finch Bus Terminal',43.7819481,-79.4159088
 737,'','Hwy 48 @ 19th Ave',43.945057,-79.278046
 738,'','Hwy 48 @ 19th Ave',43.945339,-79.277901
@@ -749,8 +741,6 @@
 1638,'','Hwy 27 @ Royal Crest Rd',43.7495422,-79.610199
 1639,'','Hwy 27 @ Royal Crest Rd',43.7498093,-79.610733
 1640,'','Hwy 27 @ Steeles Ave W',43.7550926,-79.6137772
-1641,'','Keele St @ Steeles Ave W',43.7810974,-79.4941254
-1642,'','Keele St @ Steeles Ave W',43.7808113,-79.4944382
 1644,'','Yonge St @ Churchill Ave',43.7741737,-79.4143219
 1645,'','Yonge St @ Cummer Ave',43.7875671,-79.4172745
 1646,'','Yonge St @ Drewry Ave',43.7871094,-79.4175034
@@ -832,7 +822,6 @@
 1849,'','Hwy 27 @ Zenway Blvd',43.7775612,-79.6227722
 1860,'','Hwy 7 @ Swansea Rd',43.8637314,-79.2985458
 1861,'','Hwy 7 @ Swansea Rd',43.8641014,-79.2980042
-1862,'','Davis Dr W @ Yonge St',44.0546494,-79.4805374
 1863,'','Islington Ave @ Sevilla Blvd',43.8362427,-79.6218262
 1864,'','Islington Ave @ Major Mackenzie Dr W',43.8320732,-79.6173172
 1865,'','Islington Ave @ Major Mackenzie Dr W',43.8319588,-79.6166992
@@ -849,8 +838,6 @@
 1876,'','Islington Ave @ Tuscan Woods Trl',43.8290787,-79.6116409
 1877,'','Keele St @ Drummond Dr',43.8673172,-79.5149994
 1878,'','Keele St @ Drummond Dr',43.8680077,-79.5155106
-1882,'','Keele St @ Great Gulf Dr',43.7887955,-79.4963379
-1886,'','Keele St @ Snidercroft Rd',43.7891464,-79.4969025
 1887,'','Keele St @ Teston Rd',43.8736916,-79.5169067
 1888,'','Keele St @ Teston Rd',43.8732071,-79.5163879
 1891,'','King Rd W @ Chinook Dr',43.9012756,-79.6573181
@@ -874,7 +861,6 @@
 1974,'','Toll Rd @ Oriole Dr',44.1052742,-79.5132294
 1979,'','Yonge St @ Carrville Rd',43.8532715,-79.4332428
 1982,'','Yonge St @ Aspenwood Dr',44.0681725,-79.4838028
-1984,'','Yonge St @ Maple St',44.0034065,-79.4686279
 1986,'','Yonge St @ Bantry Ave',43.846859,-79.4313583
 1987,'','Yonge St @ Bay Thorn Dr',43.8248672,-79.4262924
 1988,'','Yonge St @ Beresford Dr',43.8440056,-79.430687
@@ -885,7 +871,6 @@
 1998,'','Yonge St @ Ctr St',43.8164711,-79.4247208
 2003,'','Yonge St @ Clarissa Dr',43.8620453,-79.4350204
 2004,'','Yonge St @ Clark Ave W',43.807312,-79.4226227
-2005,'','Yonge St @ Clearmeadow Blvd',44.0404968,-79.4771194
 2010,'','Yonge St @ Dawson Mnr Blvd',44.0614586,-79.4821243
 2012,'','Yonge St @ Doncaster Ave',43.8016968,-79.4208908
 2015,'','Yonge St @ Edgar Ave',43.8484573,-79.4321365
@@ -902,18 +887,13 @@
 2034,'','Yonge St @ Hwy 407',43.8368607,-79.4290314
 2035,'','Yonge St @ Hopkins St',43.8696709,-79.4370117
 2036,'','Yonge St @ Hwy 407',43.8365974,-79.4293518
-2041,'','Yonge St @ Joe Persechini Dr',44.0269051,-79.4741211
 2042,'','Yonge St @ Thornridge Dr',43.8135796,-79.4240112
 2043,'','Yonge St @ John St',43.8139114,-79.4238434
 2046,'','Yonge St @ Kingston Rd',44.0609932,-79.4816971
 2052,'','Yonge St @ Major Mackenzie Dr E',43.8708229,-79.4369049
-2055,'','Yonge St @ Mark St',44.0040436,-79.4685364
 2056,'','Yonge St @ May Ave',43.8639069,-79.435379
 2057,'','Yonge St @ May Ave',43.8640823,-79.4357605
 2058,'','Yonge St @ Meadowview Ave',43.8020096,-79.4213104
-2059,'','Yonge St @ Millard Ave W',44.0513725,-79.4797592
-2060,'','Yonge St @ Mulock Dr',44.0367699,-79.4759674
-2061,'','Yonge St @ Mulock Dr',44.0358086,-79.4761047
 2067,'','Yonge St @ North St',44.0978394,-79.4906998
 2068,'','Yonge St @ North St',44.0976105,-79.4905701
 2069,'','Yonge St @ Northern Hts Dr',43.849144,-79.4318695
@@ -921,18 +901,11 @@
 2072,'','Yonge St @ Observatory Ln.',43.8581696,-79.4340744
 2078,'','Yonge St @ Royal Orchard Blvd',43.8223343,-79.426033
 2079,'','Yonge St @ Royal Orchard Blvd',43.8227158,-79.4257965
-2080,'','Yonge St @ Sawmill Vly Dr',44.0332527,-79.4755478
 2081,'','Yonge St @ Scott Dr',43.8467216,-79.4316711
-2083,'','Yonge St @ St John''s Sideroad',44.0184898,-79.4722061
-2084,'','Yonge St @ St John''s Sideroad',44.019352,-79.472023
 2088,'','Yonge St @ Thornhill Ave',43.8253212,-79.4267273
 2092,'','Yonge St @ Uplands Ave',43.8269348,-79.4267807
-2093,'','Yonge St @ Valhalla Crt.',44.0061722,-79.468895
-2094,'','Yonge St @ Valhalla Crt.',44.0064583,-79.4693451
 2100,'','Yonge St @ Yongehurst Dr',43.8627815,-79.4354706
 2101,'','Yonge St @ Spruce Ave',43.8511429,-79.4323959
-2102,'','15800 Yonge St @ Saint John''s Sideroad',44.0138626,-79.4708405
-2103,'','15800 Yonge St @ Saint John''s Sideroad',44.0137749,-79.4710922
 2104,'','Yonge St @ Grn Ln. E (Silver City)',44.0705605,-79.4841385
 2105,'','Yonge St @ Grn Ln. W (Grn Ln Ctr)',44.0712051,-79.4845886
 2107,'','Upper Canada Mall',44.0579948,-79.4808884
@@ -947,11 +920,6 @@
 2118,'','Yonge St @ Mortonvale Dr',44.1003456,-79.4911728
 2126,'','Main St @ Stouffer St',43.9733505,-79.2380981
 2127,'','Yonge St @ Clark Ave E',43.8069839,-79.4221497
-2131,'','Eagle St @ Millard Ave',44.0499763,-79.4844894
-2132,'','Eagle St @ Peevers Cr.',44.0464249,-79.4842606
-2133,'','Eagle St W @ Yonge St',44.0453224,-79.4791794
-2134,'','York Region Administrative Ctr',44.0478592,-79.4789276
-2135,'','Yonge St @ Eagle St W',44.0456009,-79.4783859
 2138,'','Hwy 27 @ Milani Blvd',43.7846947,-79.6246338
 2139,'','Keele St @ Barrhill Rd',43.8502159,-79.5112076
 2140,'','Rutherford Rd @ Forest Fountain Dr',43.8144073,-79.6113205
@@ -989,7 +957,6 @@
 2192,'','Main St @ Sandale Rd',43.9662666,-79.2703018
 2193,'','Main St @ Weldon Rd',43.9682426,-79.2604752
 2194,'','Main St @ Westlawn Cres.',43.9685707,-79.2601318
-2198,'','Yonge St @ Wellington St W',44.0001755,-79.4677811
 2199,'','Islington Ave @ Kellam St',43.8441849,-79.6284332
 2202,'','Yonge St @ Victoria St',44.3249016,-79.6195755
 2208,'','Renforth Dr @ Convair Dr',43.6720657,-79.5930939
@@ -1057,7 +1024,6 @@
 2581,'','Albert St S @ Jones St',44.2612915,-79.0663376
 2586,'','Financial Dr @ Syntex Crt.',43.611037345833,-79.7488204602084
 2587,'','Dupont Mdw Pl @ Mississauga Rd',43.6081848,-79.7510834
-2589,'','Yonge St @ William Roe Blvd',44.0404587,-79.4767838
 2592,'','Yonge St @ Line 13',44.1873474,-79.5825195
 2593,'','Yonge St @ Line 13',44.1866646,-79.5825729
 2594,'','Yonge St @ Line 11',44.16325,-79.5767746
@@ -1136,7 +1102,6 @@
 2683,'','Grn Ln E @ Yonge St',44.073913,-79.481138
 2684,'','Simcoe St @ Britannia Ave',43.9558385161942,-78.8994952290358
 2685,'','Simcoe St @ Britannia Ave',43.9562798332303,-78.8999931679409
-2686,'','York University',43.7742901633018,-79.5003907735091
 2687,'','Burton Ave @ Granville St',44.3716444485243,-79.6911595701255
 2688,'','Burton Ave @ Granville St',44.3716585556774,-79.6905053283274
 2689,'','Prospect St @ Pearson St',44.0496186238697,-79.453040727793
