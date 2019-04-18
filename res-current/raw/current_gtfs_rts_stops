@@ -105,7 +105,6 @@
 203,'100203','Alma St @ Inkerman St',43.6168633,-80.1464539
 204,'100204','Alma St @ Inkerman St',43.6168976,-80.1462097
 205,'100205','Main St N @ Mill St E',43.6300278,-80.04216
-206,'100206','Main St N @ St Alban Dr',43.6305199,-80.0425568
 207,'100207','Main St S @ Cross St',43.6506157,-79.9274902
 210,'100210','Georgetown Mkt',43.6499481,-79.8984299
 211,'100211','Guelph St @ Alcott Dr',43.6500854,-79.8976746
@@ -761,22 +760,17 @@
 1702,'101702','Elizabeth St @ Beaumont Cr.',43.5560417,-80.2197418
 1703,'101703','Elizabeth St @ Stevenson St S',43.5534325,-80.2346191
 1704,'101704','Elizabeth St @ Stevenson St S',43.5527267,-80.23526
-1705,'101705','Elizabeth St @ Victoria Rd S',43.5554352,-80.22966
 1706,'101706','Elizabeth St @ Victoria Rd S',43.5553131,-80.2293396
 1707,'101707','785 York Rd @ Cityview Dr',43.5588226,-80.2142868
 1708,'101708','Gordon St @ Stone Rd',43.5271797,-80.2259216
-1709,'101709','Gordon St @ Stone Rd',43.5270767,-80.2252502
-1710,'101710','Gordon St @ Kortright Rd W',43.5221138,-80.21315
 1711,'101711','Gordon St @ Kortright Rd E',43.5224457,-80.2131119
 1712,'101712','Gordon St @ Edinburgh Rd S',43.5163383,-80.2033386
 1713,'101713','Gordon St @ Edinburgh Rd S',43.5166702,-80.2031174
 1714,'101714','Gordon St @ Arkell Rd',43.5137901,-80.1998749
 1715,'101715','Gordon St @ Arkell Rd',43.5140228,-80.199501
 1716,'101716','Gordon St @ Clairfields Dr W',43.5049019,-80.1943359
-1717,'101717','Gordon St @ Clairfields Dr E',43.504303,-80.1934967
 1718,'101718','Brock Rd S @ Maple Leaf Ln.',43.4715347,-80.1500168
 1719,'101719','Brock Rd S @ Old Brock Rd',43.4719391,-80.1498718
-1720,'101720','800 York St @ Cityview Dr',43.5589638,-80.2147369
 1721,'101721','Etobicoke North Bus',43.7066917,-79.565712
 1724,'101724','Kipling Ave @ Belfield Rd',43.7050209,-79.5638123
 1725,'101725','Main St S @ George St',43.6511803,-79.9285126
