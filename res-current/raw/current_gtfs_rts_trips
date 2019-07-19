@@ -8,12 +8,8 @@
 1800,0,'Union',18
 1900,0,'Finch',19
 1901,0,'Sq One',19
-2000,0,'Milton',20
-2001,0,'Oakville',20
 2101,0,'Milton',21
 2100,0,'Union',21
-2401,0,'Cambridge',24
-2400,0,'Milton',24
 2500,0,'Sq One',25
 2501,0,'U Of Waterloo',25
 2700,0,'Finch',27
@@ -35,7 +31,7 @@
 3701,0,'Brampton',37
 3700,0,'Orangeville',37
 3800,0,'Bolton',38
-3801,0,'York Mills',38
+3801,0,'Malton',38
 4001,0,'Hamilton',40
 4000,0,'Richmond Hl Ctr',40
 4500,0,'Hwy 407',45
@@ -78,7 +74,5 @@
 9101,0,'Oshawa',91
 9200,0,'Oshawa',92
 9201,0,'Yorkdale',92
-9301,0,'Scarboro',93
-9300,0,'UOIT / D.C.',93
 9601,0,'Finch',96
 9600,0,'Oshawa',96
