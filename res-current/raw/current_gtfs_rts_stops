@@ -929,7 +929,6 @@
 2621,'102621','Ontario St @ QEW (Beamsville) Pk & Ride',43.1881676,-79.4759598
 2622,'102622','Bond St.E @ Claymore Cr.',43.9045258,-78.8424835
 2623,'102623','Winchester Rd W @ Lk Rdg Rd',43.9403648,-79.0159454
-2625,'102625','Kitchener Bus Terminal',43.4494133,-80.4932022
 2626,'102626','Brock Rd S @ Gilmour Rd',43.4668732,-80.1422806
 2627,'102627','Brock Rd S @ Gilmour Rd',43.466629,-80.1415634
 2628,'102628','Kingston Rd @ Brock Rd',43.8478546,-79.0743408
@@ -1011,7 +1010,7 @@
 2724,'102724','King St @ Trulls Rd',43.910813,-78.787949
 2725,'102725','Bayview Ave @ River Rdg Blvd',44.009748,-79.445043
 2726,'102726','Bayview Ave @ River Rdg Blvd',44.009295,-79.444537
-2727,'102727','Kitchener - Ontario St @ Joseph St',43.4488502227184,-80.491766366237
+2727,'102727','Ontario St @ Joseph St',43.44885,-80.491766
 8002,'108002','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'108006','Bradford Bus',44.116654,-79.555752
 8012,'108012','Malton Bus',43.705143,-79.637825
