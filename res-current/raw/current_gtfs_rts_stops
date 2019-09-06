@@ -30,7 +30,6 @@
 50,'100050','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'100051','Brock St @ Dundas St',43.8799286,-78.9423141
 52,'1USBT','Union Sta Bus Terminal',43.6456261,-79.3783951
-54,'100054','Bramalea',43.70215,-79.689512
 60,'100060','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'100061','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.83663,-79.42024
 62,'100062','Richmond Hl Bus',43.875786,-79.426228
@@ -374,7 +373,6 @@
 728,'100728','Kingston Rd @ Salem Rd',43.8634377,-79.0152206
 729,'100729','Kingston Rd @ Salem Rd',43.8634529,-79.0167465
 730,'100730','Erin Mills Pkwy. @ Britannia Rd W',43.577713,-79.7318649
-731,'100731','Yonge St @ 16th Ave',43.8536987,-79.4329987
 732,'100732','Main St W @ Longwood Rd S',43.2590866,-79.901741
 734,'100734','King St E @ Simpson Ave',43.9116249,-78.6742783
 736,'100736','Finch Bus Terminal',43.7819481,-79.4159088
@@ -484,7 +482,6 @@
 963,'100963','Regional Rd 50 @ Rutherford Rd',43.8034859,-79.6692581
 964,'100964','Tenth Line @ Hemlock Dr',43.9804611,-79.2326508
 965,'100965','Tenth Line @ Norm Faulkner Dr',43.9801979,-79.2322922
-966,'100966','Tenth Line @ Forsyth Farm Dr',43.9849205,-79.2333984
 968,'100968','Hwy 50 @ Bellchase Trl',43.7921333,-79.6630402
 969,'100969','Hwy 50 @ Trade Vly Dr',43.7921371,-79.6624756
 970,'100970','Durham Hwy 2 @ Boswell Dr',43.9092484,-78.7148361
@@ -712,7 +709,6 @@
 1718,'101718','Brock Rd S @ Maple Leaf Ln.',43.4715347,-80.1500168
 1719,'101719','Brock Rd S @ Old Brock Rd',43.4719391,-80.1498718
 1725,'101725','Main St S @ George St',43.6511803,-79.9285126
-1726,'101726','Yonge St @ Weldrick Rd W',43.8596649,-79.4347382
 1727,'101727','Trafalgar Rd @ White Oaks Blvd',43.4666862,-79.6899948
 1728,'101728','Trafalgar Rd @ Rosegate Way',43.4822998,-79.7117538
 1729,'101729','Trafalgar Rd @ Leighland Ave',43.4647789,-79.6880264
@@ -897,7 +893,6 @@
 2567,'102567','Hurontario St @ Old School Rd',43.753563,-79.851234
 2568,'102568','Yonge St @ Sheppard Ave',43.7613983,-79.4107361
 2569,'102569','Brock Rd @ Hwy 407 Pk & Ride',43.912935,-79.097346
-2570,'102570','Yonge St @ Greenfield Ave',43.7635994,-79.4113083
 2571,'102571','Kingston Rd @ Glenanna Rd',43.8386154,-79.0863266
 2572,'102572','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
 2573,'102573','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.8673973,-78.8993225
@@ -939,7 +934,6 @@
 2628,'102628','Kingston Rd @ Brock Rd',43.8478546,-79.0743408
 2629,'102629','Gormley',43.9409103,-79.3985214
 2631,'102631','Hwy 7A @ 6th Line',44.0956688,-78.9611511
-2632,'102632','Yonge St @ Weldrick Rd E',43.8606033,-79.4346237
 2633,'102633','Mountainview Rd N @ Maple Ave',43.6563339,-79.9114151
 2634,'102634','Davis Dr @ Superior St (Newmarket GO).',44.0596123,-79.4592438
 2635,'102635','Winston Churchill Transitway Sta',43.5419006,-79.7131805
