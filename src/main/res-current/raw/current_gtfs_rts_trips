@@ -2,7 +2,6 @@
 1201,0,'Niagara Falls',12
 1500,0,'Aldershot',15
 1501,0,'Brantford',15
-1601,0,'Hamilton',16
 1600,0,'Union',16
 1801,0,'Hamilton',18
 1800,0,'Union',18
@@ -74,7 +73,5 @@
 9101,0,'Oshawa',91
 9200,0,'Oshawa',92
 9201,0,'Yorkdale',92
-9301,0,'Scarboro',93
-9300,0,'UOIT / D.C.',93
 9601,0,'Finch',96
 9600,0,'Oshawa',96
