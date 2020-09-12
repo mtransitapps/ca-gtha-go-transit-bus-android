@@ -69,7 +69,6 @@
 147,'100147','Pickering Bus',43.830982,-79.084571
 148,'100148','Streetsville Bus',43.575378,-79.709271
 153,'100153','Ontario Tech University/Durham College',43.9433594,-78.8949661
-154,'100154','Oshawa Bus Terminal',43.8978462,-78.865593
 155,'100155','Waverly Rd @ Baseline Rd',43.8975792,-78.6905899
 156,'100156','Waverly Rd @ Baseline Rd',43.8978195,-78.6911011
 157,'100157','King St E @ Liberty St',43.9107056,-78.6806183
@@ -91,7 +90,6 @@
 181,'100181','Clarkson Bus',43.512831,-79.633109
 182,'100182','Port Credit Bus',43.555814,-79.587088
 187,'100187','Dixie Bus',43.608022,-79.578347
-188,'100188','Cooksville Bus',43.58207,-79.623563
 189,'100189','Erindale Bus',43.567861,-79.667632
 190,'100190','Aquitaine Ave @ Formentera Ave (Meadowvale Town Ctr)',43.5842514,-79.7617722
 191,'100191','Aquitaine Ave @ Meadowvale Town Ctr Cir',43.5847511,-79.7606812
@@ -584,7 +582,6 @@
 1308,'101308','Main St S @ Elgin Dr',43.6736908,-79.743866
 1311,'101311','Wellington St W @ George St S',43.6841316,-79.7590332
 1313,'101313','Main St S @ Wellington St E',43.6844635,-79.7582321
-1314,'101314','Main St S @ Harold St',43.6797104,-79.7517166
 1316,'101316','Main St S @ Nanwood Dr',43.6765976,-79.7471695
 1317,'101317','Main St S @ Nanwood Dr',43.6763763,-79.7472763
 1321,'101321','Main St N @ Vodden St E',43.6925087,-79.7685547
