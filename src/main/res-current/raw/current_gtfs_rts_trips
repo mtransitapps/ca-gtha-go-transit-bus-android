@@ -33,8 +33,8 @@
 3801,0,'Malton',38
 4001,0,'Hamilton',40
 4000,0,'Richmond Hl Ctr',40
-4500,0,'Hwy 407',45
 4501,0,'Streetsville',45
+4500,0,'Unionville',45
 4600,0,'Hwy 407',46
 4601,0,'Oakville',46
 4701,0,'Hamilton',47
@@ -59,7 +59,7 @@
 6700,0,'Woodbine / 404',67
 6801,0,'Aurora',68
 6800,0,'Barrie',68
-7001,0,'Unionville',70
+7001,0,'Mt Joy',70
 7000,0,'Uxbridge',70
 7101,0,'Union',71
 7100,0,'Uxbridge',71
