@@ -49,7 +49,6 @@
 5400,0,'Mt Joy',54
 6100,0,'Gormley',61
 6101,0,'Union',61
-6300,0,'King City',63
 6301,0,'Union',63
 6500,0,'East Gwillimbury',65
 6501,0,'Union',65
@@ -67,11 +66,11 @@
 8101,0,'Whitby',81
 8801,0,'Oshawa',88
 8800,0,'Trent U',88
-9000,0,'Newcastle',90
+9000,0,'Oshawa',90
 9001,0,'Union',90
 9200,0,'Oshawa',92
 9201,0,'Yorkdale',92
 9400,0,'Pickering',94
 9401,0,'Sq One',94
-9601,0,'B Finch',96
-9600,0,'B Oshawa',96
+9601,0,'Finch',96
+9600,0,'Oshawa',96
