@@ -316,6 +316,7 @@
 728,'100728','Kingston Rd @ Salem Rd',43.8634377,-79.0152206
 729,'100729','Kingston Rd @ Salem Rd',43.8634529,-79.0167465
 730,'100730','Erin Mills Pkwy @ Britannia Rd W',43.577713,-79.7318649
+731,'100731','Yonge St @ 16th Ave',43.8536987,-79.4329987
 732,'100732','Main St W @ Longwood Rd S',43.2590866,-79.901741
 734,'100734','King St E @ Simpson Ave',43.9116249,-78.6742783
 736,'100736','Finch Bus Terminal',43.7819481,-79.4159088
@@ -675,6 +676,7 @@
 1978,'101978','Yonge St @ 16th Ave',43.8527222,-79.4327621
 1979,'101979','Yonge St @ Carrville Rd',43.8532715,-79.4332428
 1982,'101982','Yonge St @ Aspenwood Dr',44.0681725,-79.4838028
+1985,'101985','Yonge St @ Baif Blvd (Hillcrest Mall)',43.8587418,-79.4345093
 1986,'101986','Yonge St @ Bantry Ave',43.846859,-79.4313583
 1987,'101987','Yonge St @ Bay Thorn Dr',43.8248672,-79.4262924
 1988,'101988','Yonge St @ Beresford Dr',43.8440056,-79.430687
@@ -704,6 +706,7 @@
 2042,'102042','Yonge St @ Thornridge Dr',43.8135796,-79.4240112
 2043,'102043','Yonge St @ John St',43.8139114,-79.4238434
 2046,'102046','Yonge St @ Kingston Rd',44.0609932,-79.4816971
+2052,'102052','Yonge St @ Major Mackenzie Dr E',43.8708229,-79.4369049
 2056,'102056','Yonge St @ May Ave',43.8639069,-79.435379
 2057,'102057','Yonge St @ May Ave',43.8640823,-79.4357605
 2058,'102058','Yonge St @ Meadowview Ave',43.8020096,-79.4213104
@@ -966,6 +969,9 @@
 2764,'102764','Trafalgar Rd @ River Oaks Blvd E',43.47697,-79.70504
 2765,'102765','Trafalgar Rd @ Upper Middle Rd E',43.474533,-79.701471
 2766,'102766','Trafalgar Rd @ McCraney St E',43.466272,-79.690048
+2768,'102768','Yonge St @ Westwood Ln',43.8445789374929,-79.4312068959128
+2769,'102769','Joseph St @ Ontario St S (Kitchener Bus Terminal)',43.448351,-80.491794
+2770,'102770','Charles St E @ Queen St S (Kitchener Bus Terminal)',43.448938,-80.489824
 8002,'108002','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'108006','Bradford Bus',44.116654,-79.555752
 8012,'108012','Malton Bus',43.705143,-79.637825
