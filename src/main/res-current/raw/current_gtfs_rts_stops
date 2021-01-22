@@ -1,11 +1,11 @@
 5,'100005','Yonge St @ Baif Blvd (Hillcrest Mall)',43.8557549,-79.433876
 6,'100006','Yonge St @ Hwy 407',43.8319817,-79.4283829
 8,'100008','Yonge St @ Sheppard Ave',43.7615967,-79.4111938
-11,'100011','York Mills Bus Terminal',43.745079,-79.4064636
-13,'100013','Finch Bus Terminal',43.7821732,-79.4150925
+11,'100011','York Mills Bus Term',43.745079,-79.4064636
+13,'100013','Finch Bus Term',43.7821732,-79.4150925
 14,'100014','Yonge St @ Langstaff Rd E',43.8323288,-79.4280472
 15,'100015','Yonge St @ 16th Ave (South Hl Shopping Ctr)',43.8551788,-79.4333191
-19,'100019','Yorkdale Bus Terminal',43.7249374,-79.4488754
+19,'100019','Yorkdale Bus Term',43.7249374,-79.4488754
 20,'100020','Hwy 401 @ Keele St',43.7232399,-79.4819412
 21,'100021','Hwy 9 @ Hwy 400 Pk & Ride',44.0275345,-79.5959473
 22,'100022','Keele St @ Hwy 401',43.7216759,-79.4808273
@@ -40,7 +40,7 @@
 90,'100090','Yonge St @ Victoria St',44.3241806,-79.6191483
 92,'100092','Yonge St @ Mapleview Dr E',44.3481598,-79.6270218
 93,'100093','Yonge St @ Mapleview Dr E',44.3486099,-79.6277084
-96,'100096','Barrie Transit Terminal',44.3881798,-79.6908798
+96,'100096','Barrie Transit Term',44.3881798,-79.6908798
 115,'100115','Hwy 47 @ Front St',44.0375214,-79.1956329
 116,'100116','Hwy 47 @ Front St',44.0369034,-79.1964798
 117,'100117','Main St @ Edward St (Stouffville GO)',43.9706841,-79.2501831
@@ -62,7 +62,7 @@
 138,'100138','Bronte Rd @ Hwy 407 Pk & Ride',43.4457626,-79.7920151
 139,'100139','Dundas St @ Hwy 407 Pk & Ride',43.3892708,-79.8287811
 141,'100141','Hamilton Ctr Bus',43.252945,-79.869586
-142,'100142','Scarborough Ctr Bus Terminal',43.7748413,-79.2563171
+142,'100142','Scarborough Ctr Bus Term',43.7748413,-79.2563171
 144,'100144','University Of Toronto Scarborough',43.7843628,-79.1851273
 147,'100147','Pickering Bus',43.830982,-79.084571
 148,'100148','Streetsville Bus',43.575378,-79.709271
@@ -104,10 +104,10 @@
 215,'100215','Bovaird Dr W @ Mississauga Rd',43.6660957,-79.8306732
 216,'100216','Bovaird Dr W @ Chinguacousy Rd',43.6868248,-79.8075638
 217,'100217','Bovaird Dr W @ Chinguacousy Rd',43.6859589,-79.8089981
-221,'100221','Brampton Bus Terminal',43.6869087,-79.7628632
+221,'100221','Brampton Bus Term',43.6869087,-79.7628632
 222,'100222','Shopper''s World',43.6678429,-79.7354813
 223,'100223','Shopper''s World',43.6675682,-79.7358246
-225,'100225','Bramalea Bus Terminal',43.7186356,-79.7205734
+225,'100225','Bramalea Bus Term',43.7186356,-79.7205734
 227,'100227','Steeles Ave E @ Rutherford Rd S',43.68031,-79.71787
 228,'100228','Malton Bus',43.705143,-79.637825
 231,'100231','Trinity Common Mall',43.7313271,-79.7631531
@@ -137,7 +137,7 @@
 306,'100306','Clarington Blvd @ Durham Hwy 2 (Bowmanville) Pk & Ride',43.9078712,-78.7046204
 307,'100307','Wellington St E @ Hwy 404 Pk & Ride',44.0128479,-79.4081802
 310,'100310','McMaster University',43.2617264,-79.9225693
-311,'','Pearson Airport Terminal 1',43.6821671,-79.6132584
+311,'','Pearson Airport Term 1',43.6821671,-79.6132584
 312,'100312','Kingston Rd @ Fairport Rd',43.8234673,-79.1067047
 314,'100314','Kingston Rd @ Glenanna Rd',43.8381004,-79.087471
 322,'100322','Kingston Rd @ Harwood Ave',43.8612671,-79.0265427
@@ -319,7 +319,7 @@
 731,'100731','Yonge St @ 16th Ave',43.8536987,-79.4329987
 732,'100732','Main St W @ Longwood Rd S',43.2590866,-79.901741
 734,'100734','King St E @ Simpson Ave',43.9116249,-78.6742783
-736,'100736','Finch Bus Terminal',43.7819481,-79.4159088
+736,'100736','Finch Bus Term',43.7819481,-79.4159088
 737,'100737','Hwy 48 @ 19th Ave',43.945057,-79.278046
 738,'100738','Hwy 48 @ 19th Ave',43.945339,-79.277901
 801,'100801','Main St S @ Frederick St',43.6113472,-80.1336594
@@ -781,18 +781,18 @@
 2214,'102214','Erin Mills Transitway Sta',43.5520363,-79.7003021
 2215,'102215','Erin Mills Transitway Sta',43.552124,-79.7004547
 2216,'102216','Erin Mills Transitway',43.5522194,-79.7003632
-2300,'102300','Union Sta Bus Terminal',43.644042,-79.376939
+2300,'102300','Union Sta Bus Term',43.644042,-79.376939
 2402,'102402','St Catharines Fairview Mall',43.178627,-79.2452545
 2404,'102404','Stanley Ave @ Hwy 420 Pk & Ride',43.097075,-79.084885
 2405,'102405','Stanley Ave @ Hwy 420 Pk & Ride',43.097245,-79.08507
 2406,'102406','Casablanca Blvd @ QEW Pk & Ride',43.2047997,-79.5964279
-2407,'102407','Scarborough Ctr Bus Terminal',43.7746925,-79.2563095
-2408,'102408','Niagara Falls Bus Terminal',43.1085358,-79.0636063
+2407,'102407','Scarborough Ctr Bus Term',43.7746925,-79.2563095
+2408,'102408','Niagara Falls Bus Term',43.1085358,-79.0636063
 2412,'102412','Main St S @ Rdg Rd',43.61085,-80.13266
 2413,'102413','Georgetown Bus',43.6560287,-79.9186783
 2414,'102414','City Ctr Dr @ Mercer St',43.5895958,-79.6420135
 2501,'102501','Trent University',44.3569412,-78.2870331
-2502,'102502','Peterborough Bus Terminal',44.3045998,-78.3224182
+2502,'102502','Peterborough Bus Term',44.3045998,-78.3224182
 2503,'102503','Crawford Dr @ Harper Rd Pk & Ride',44.2678642,-78.3492737
 2504,'102504','Peterborough Rd 10 @ Hwy 115 Pk & Ride',44.1872025,-78.4643936
 2505,'102505','Hwy 35 @ Hwy 115 Pk & Ride',44.064003,-78.6258087
@@ -853,7 +853,7 @@
 2614,'102614','Colborne St E @ Kiwanis Way',43.1404762,-80.2400513
 2615,'102615','Dalhousie St @ Pk Ave',43.1400795,-80.2549591
 2616,'102616','Colborne St E @ Pk Ave',43.1390533,-80.2543106
-2617,'102617','Brantford Bus Terminal',43.1403084,-80.2649918
+2617,'102617','Brantford Bus Term',43.1403084,-80.2649918
 2619,'102619','McMaster Innovation Pk',43.2570114,-79.9015045
 2620,'102620','McMaster Innovation Pk',43.2564278,-79.9013138
 2621,'102621','Ontario St @ QEW (Beamsville) Pk & Ride',43.1881676,-79.4759598
@@ -887,8 +887,8 @@
 2663,'102663','City Ctr Dr @ Robert Speck Pkwy',43.594225540709,-79.6392787304937
 2664,'102664','City Ctr Dr @ Duke Of York Blvd',43.5892029044241,-79.6427464480046
 2672,'102672','Dundas St @ Hwy 412 Pk & Ride',43.8769486590634,-78.9812249498338
-2673,'102673','Hwy 407 Bus Terminal',43.7830465622674,-79.5232260682288
-2674,'102674','Hwy 407 Bus Terminal',43.7830713234851,-79.5244458372792
+2673,'102673','Hwy 407 Bus Term',43.7830465622674,-79.5232260682288
+2674,'102674','Hwy 407 Bus Term',43.7830713234851,-79.5244458372792
 2675,'102675','Dundas St @ Halls Rd',43.8713052332062,-78.981120567689
 2676,'102676','Dundas St @ Halls Rd',43.8710634547294,-78.9813988024596
 2677,'102677','Gordon St @ Clair Rd',43.5002316951943,-80.1886650066085
@@ -933,7 +933,7 @@
 2723,'102723','Victoria St @ King St W',43.453064,-80.498195
 2725,'102725','Bayview Ave @ River Rdg Blvd',44.009748,-79.445043
 2726,'102726','Bayview Ave @ River Rdg Blvd',44.009295,-79.444537
-2727,'102727','Ontario St @ Joseph St (Kitchener Bus Terminal)',43.44885,-80.491766
+2727,'102727','Ontario St @ Joseph St (Kitchener Bus Term)',43.44885,-80.491766
 2728,'102728','Bramalea Bus',43.7015110998905,-79.6932467645138
 2729,'102729','Bramalea Bus',43.7030887005384,-79.6916834595897
 2730,'102730','Centennial Pkwy N @ QEW Pk & Ride',43.2425830614163,-79.7599571072281
@@ -970,8 +970,8 @@
 2765,'102765','Trafalgar Rd @ Upper Middle Rd E',43.474533,-79.701471
 2766,'102766','Trafalgar Rd @ McCraney St E',43.466272,-79.690048
 2768,'102768','Yonge St @ Westwood Ln',43.8445789374929,-79.4312068959128
-2769,'102769','Joseph St @ Ontario St S (Kitchener Bus Terminal)',43.448351,-80.491794
-2770,'102770','Charles St E @ Queen St S (Kitchener Bus Terminal)',43.448938,-80.489824
+2769,'102769','Joseph St @ Ontario St S (Kitchener Bus Term)',43.448351,-80.491794
+2770,'102770','Charles St E @ Queen St S (Kitchener Bus Term)',43.448938,-80.489824
 8002,'108002','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'108006','Bradford Bus',44.116654,-79.555752
 8012,'108012','Malton Bus',43.705143,-79.637825
@@ -980,5 +980,5 @@
 8025,'108025','Trafalgar Rd @ Hwy 407 Pk & Ride',43.505837,-79.74487
 8029,'108029','University Of Toronto Scarborough',43.7843628,-79.1851273
 8030,'108030','Williams Pkwy @ Hwy 410 Pk & Ride',43.71671,-79.751277
-8032,'108032','Bramalea Bus Terminal',43.7186356,-79.7205734
+8032,'108032','Bramalea Bus Term',43.7186356,-79.7205734
 8039,'108039','Regional Rd 25 @ Hwy 401 Pk & Ride',43.527742,-79.903491
