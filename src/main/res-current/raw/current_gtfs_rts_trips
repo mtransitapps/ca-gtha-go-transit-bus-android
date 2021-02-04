@@ -33,6 +33,8 @@
 3801,0,'Malton',38
 4001,0,'Hamilton',40
 4000,0,'Richmond Hl Ctr',40
+4101,0,'Hamilton',41
+4100,0,'Pickering',41
 4501,0,'Streetsville',45
 4500,0,'Unionville',45
 4600,0,'Hwy 407',46
@@ -47,6 +49,8 @@
 5200,0,'Oshawa',52
 5401,0,'Hwy 407',54
 5400,0,'Mt Joy',54
+5601,0,'Oakville',56
+5600,0,'Oshawa',56
 6100,0,'Gormley',61
 6101,0,'Union',61
 6301,0,'Union',63

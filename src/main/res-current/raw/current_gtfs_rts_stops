@@ -259,8 +259,8 @@
 647,'100647','Reach St @ Sherrington Dr',44.1102142,-78.9618301
 648,'100648','Reach St @ Simcoe St',44.112381,-78.9516296
 649,'100649','Reach St @ Simcoe St',44.1121788,-78.951828
-650,'100650','Concession 12 @ Sideroad 18A (Brock High School)',44.3437309,-79.0672836
-651,'100651','Concession 12 @ Sideroad 18A (Brock High School)',44.3438568,-79.0672302
+650,'100650','Concession 12 @ Sideroad 18A (Brock HS)',44.3437309,-79.0672836
+651,'100651','Concession 12 @ Sideroad 18A (Brock HS)',44.3438568,-79.0672302
 652,'100652','Scugog St @ Simcoe St',44.099968,-78.9450989
 653,'100653','Scugog St @ Arrow St',44.0992775,-78.9478226
 654,'100654','Scugog St @ Arrow St',44.0994339,-78.9475174
@@ -673,7 +673,6 @@
 1972,'101972','Toll Rd @ Centennial Ave',44.103157,-79.5050201
 1973,'101973','Toll Rd @ Oriole Dr',44.1051941,-79.5132675
 1974,'101974','Toll Rd @ Oriole Dr',44.1052742,-79.5132294
-1978,'101978','Yonge St @ 16th Ave',43.8527222,-79.4327621
 1979,'101979','Yonge St @ Carrville Rd',43.8532715,-79.4332428
 1982,'101982','Yonge St @ Aspenwood Dr',44.0681725,-79.4838028
 1985,'101985','Yonge St @ Baif Blvd (Hillcrest Mall)',43.8587418,-79.4345093
@@ -820,8 +819,8 @@
 2543,'102543','Simcoe St N @ Parkwood Crt',43.905807,-78.867111
 2544,'102544','Markham Rd @ Edward Jeffreys Ave',43.896362,-79.265251
 2545,'102545','Markham Rd @ Edward Jeffreys Ave',43.895947,-79.264854
-2546,'102546','Hurontario St @ Old School Rd',43.753716,-79.851891
-2567,'102567','Hurontario St @ Old School Rd',43.753563,-79.851234
+2546,'102546','Hurontario St @ Old S Rd',43.753716,-79.851891
+2567,'102567','Hurontario St @ Old S Rd',43.753563,-79.851234
 2568,'102568','Yonge St @ Sheppard Ave',43.7613983,-79.4107361
 2571,'102571','Kingston Rd @ Glenanna Rd',43.8386154,-79.0863266
 2572,'102572','Victoria St @ Thickson Rd (Thickson Rdg Power Ctr)',43.86726,-78.9002914
@@ -829,7 +828,7 @@
 2574,'102574','Markham Rd @ Castlemore Ave',43.9044647,-79.2672577
 2575,'102575','Markham Rd @ Castlemore Ave',43.9040985,-79.2667618
 2576,'102576','Kingston Rd @ Fairport Rd',43.8238487,-79.1063309
-2577,'102577','Yonge St @ 4th Line (Churchill Community Ctr)',44.2538338,-79.6016998
+2577,'102577','Yonge St @ 4th Line (Churchill CC)',44.2538338,-79.6016998
 2579,'102579','Major Mackenzie Dr E @ Cedar Ave',43.8731232,-79.4284439
 2580,'102580','Major Mackenzie Dr E @ Cedar Ave',43.8734169,-79.4278793
 2581,'102581','Albert St S @ Jones St',44.2612915,-79.0663376
@@ -933,7 +932,6 @@
 2723,'102723','Victoria St @ King St W',43.453064,-80.498195
 2725,'102725','Bayview Ave @ River Rdg Blvd',44.009748,-79.445043
 2726,'102726','Bayview Ave @ River Rdg Blvd',44.009295,-79.444537
-2727,'102727','Ontario St @ Joseph St (Kitchener Bus Term)',43.44885,-80.491766
 2728,'102728','Bramalea Bus',43.7015110998905,-79.6932467645138
 2729,'102729','Bramalea Bus',43.7030887005384,-79.6916834595897
 2730,'102730','Centennial Pkwy N @ QEW P&R',43.2425830614163,-79.7599571072281
@@ -946,7 +944,6 @@
 2737,'102737','Derry Rd @ Sauve St',43.524441,-79.842406
 2738,'102738','Rathburn Rd W @ Perivale Rd',43.575855,-79.664277
 2739,'102739','Rathburn Rd W @ Perivale Rd',43.575505,-79.664227
-2740,'102740','Major Mackenzie Dr E @ Church St S',43.87142,-79.436084
 2741,'102741','Davis Dr @ Prospect St',44.060566,-79.454395
 2742,'102742','Prospect St @ Davis Dr',44.05972,-79.453897
 2743,'102743','Grn Ln E @ Yonge St',44.073514,-79.481434
@@ -972,6 +969,8 @@
 2768,'102768','Yonge St @ Westwood Ln',43.8445789374929,-79.4312068959128
 2769,'102769','Joseph St @ Ontario St S (Kitchener Bus Term)',43.448351,-80.491794
 2770,'102770','Charles St E @ Queen St S (Kitchener Bus Term)',43.448938,-80.489824
+2771,'102771','Yonge St @ Hwy 407',43.8384664250903,-79.4293096916894
+2772,'102772','Yonge St @ Sheppard Ave',43.762187996328,-79.4109345055581
 8002,'108002','Allandale Waterfront Bus',44.373817,-79.689441
 8006,'108006','Bradford Bus',44.116654,-79.555752
 8012,'108012','Malton Bus',43.705143,-79.637825
