@@ -1,2 +1,1 @@
-GTHA GO Transit buses for MonTransit.
-Schedule. News.
+GTHA GO Transit buses for MonTransit. Schedule. News.
