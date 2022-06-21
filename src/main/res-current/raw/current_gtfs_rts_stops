@@ -28,6 +28,7 @@
 49,'100049','Hwy 7 & 12 @ Myrtle Rd W',44.0092125,-78.9661865
 50,'100050','Winchester Rd @ Anderson St',43.9564133,-78.947403
 51,'100051','Brock St @ Dundas St',43.8799286,-78.9423141
+53,'Canada's Wonderland','Canada''s Wonderland',43.84605,-79.54039
 60,'100060','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.836455,-79.420243
 61,'100061','Langstaff Rd E @ Cedar Ave (Langstaff GO)',43.83663,-79.42024
 62,'100062','Richmond Hl GO Bus',43.875786,-79.426228
@@ -979,6 +980,11 @@
 2807,'102807','Guelph St W @ Lakeview Ave',43.632898,-80.05002
 2808,'102808','Main St S @ MacLellan St',43.608965,-80.130286
 2809,'102809','Guelph St @ Mountainview Rd S',43.632898,-79.902022
+2810,'102810','St Jacobs Farmers Mkt',43.510073,-80.55567
+2811,'102811','Steeles Ave @ Trafalgar Rd (Toronto Premium Outlets)',43.573769,-79.837067
+2812,'102812','Steeles Ave @ Trafalgar Rd (Toronto Premium Outlets)',43.573129,-79.834998
+2813,'102813','St Paul St W @ Great Western St (St Catharines GO)',43.147576,-79.253327
+2814,'102814','St Paul St W @ Great Western St (St Catharines GO)',43.146856,-79.254428
 8002,'108002','Allandale Waterfront GO Bus',44.373817,-79.689441
 8006,'108006','Bradford GO Bus',44.116654,-79.555752
 8012,'108012','Malton GO Bus',43.705143,-79.637825
