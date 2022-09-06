@@ -10,8 +10,8 @@
 1901,0,'Sq One',19
 2101,0,'Milton GO',21
 2100,0,'Union Sta',21
-2501,0,'25 J- St Jacobs Mkt',25
 2500,0,'Sq One',25
+2501,0,'U Of Waterloo',25
 2700,0,'Finch',27
 2701,0,'Milton GO',27
 2901,0,'Guelph Central GO',29
@@ -39,10 +39,10 @@
 4501,0,'Streetsville GO',45
 4500,0,'Unionville GO',45
 4701,0,'Hamilton GO',47
-4700,0,'Major Mac / 400 Carpool',47
+4700,0,'Hwy 407',47
 4800,0,'Hwy 407',48
 4801,0,'U Of Guelph',48
-5201,0,'Major Mac / 400 Carpool',52
+5201,0,'Hwy 407',52
 5200,0,'Oshawa GO',52
 5401,0,'Hwy 407',54
 5400,0,'Mt Joy GO',54
