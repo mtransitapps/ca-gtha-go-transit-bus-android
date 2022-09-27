@@ -977,6 +977,8 @@
 2809,'102809','Guelph St @ Mountainview Rd S',43.632898,-79.902022
 2813,'102813','St Paul St W @ Great Western St (St Catharines GO)',43.147576,-79.253327
 2814,'102814','St Paul St W @ Leeper St (St Catharines GO)',43.146856,-79.254428
+2815,'102815','Cornell Bus Term',43.879742,-79.232527
+2816,'102816','Scarborough Ctr Bus Term',43.77486,-79.26088
 8002,'108002','Allandale Waterfront GO Bus',44.373817,-79.689441
 8006,'108006','Bradford GO Bus',44.116654,-79.555752
 8012,'108012','Malton GO Bus',43.705143,-79.637825
@@ -989,3 +991,4 @@
 8039,'108039','Regional Rd 25 @ Hwy 401 P&R',43.527742,-79.903491
 8041,'108041','Bramalea GO Bus',43.702137,-79.690021
 8042,'108042','Bramalea GO Bus',43.702137,-79.690014
+8043,'108043','Cornell Bus Term',43.879761,-79.232535
