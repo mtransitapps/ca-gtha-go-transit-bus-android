@@ -65,7 +65,7 @@
 144,'100144','U Of Toronto Scarborough',43.7843628,-79.1851273
 147,'100147','Pickering GO Bus',43.830982,-79.084571
 148,'100148','Streetsville GO Bus',43.575378,-79.709271
-153,'100153','Ontario Tech U/Durham College',43.9433594,-78.8949661
+153,'100153','Durham College Campus/Ontario Tech U',43.9433594,-78.8949661
 155,'100155','Bowmanville Ave @ Baseline Rd',43.8975792,-78.6905899
 156,'100156','Bowmanville Ave @ Baseline Rd',43.8978195,-78.6911011
 157,'100157','King St E @ Liberty St',43.9107056,-78.6806183
@@ -506,7 +506,6 @@
 1313,'101313','Main St S @ Wellington St E',43.6844635,-79.7582321
 1317,'101317','Main St S @ Nanwood Dr',43.6763763,-79.7472763
 1321,'101321','Main St N @ Vodden St E',43.6925087,-79.7685547
-1322,'101322','Main St N @ Williams Pkwy',43.6990433,-79.7777634
 1325,'101325','Millcreek Dr @ Erin Mills Pkwy',43.5904884,-79.7418976
 1326,'101326','Millcreek Dr @ Millrace Crt',43.5927086,-79.7469559
 1327,'101327','Millcreek Dr @ Millrace Crt',43.5925064,-79.7460556
