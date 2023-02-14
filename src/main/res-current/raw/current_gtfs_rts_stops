@@ -478,7 +478,7 @@
 1246,'101246','Mississauga Rd @ Argentia Rd',43.6003456,-79.7399902,2
 1247,'101247','Erin Mills Pkwy @ Erin Ctr Blvd',43.5623436,-79.7118835,2
 1248,'101248','Finch Ave @ Kenview Blvd',43.7401047,-79.6440582,2
-1249,'101249','FInch Ave @ Kenview Blvd (Wild Water Kingdom)',43.7398796,-79.6431732,2
+1249,'101249','Finch Ave @ Kenview Blvd (Wild Water Kingdom)',43.7398796,-79.6431732,2
 1255,'101255','Hansen Blvd @ Michael Dr',43.9295616,-80.1105499,2
 1256,'101256','Hansen Blvd @ Scott Dr',43.9273224,-80.113327,2
 1258,'101258','Hurontario St @ Bovaird Dr W',43.70655,-79.78753,1
@@ -974,8 +974,8 @@
 2809,'102809','Guelph St @ Mountainview Rd S',43.632898,-79.902022,1
 2813,'102813','St Paul St W @ Great Western St (St Catharines GO)',43.147576,-79.253327,1
 2814,'102814','St Paul St W @ Leeper St (St Catharines GO)',43.146856,-79.254428,1
-2815,'102815','Cornell Bus Term',43.879742,-79.232527,2
-2816,'102816','Scarborough Ctr Bus Term',43.77486,-79.26088,2
+2815,'102815','Cornell Bus Term',43.879742,-79.232527,1
+2816,'102816','Scarborough Ctr Bus Term',43.77486,-79.26088,1
 8002,'108002','Allandale Waterfront GO Bus',44.373817,-79.689441,1
 8006,'108006','Bradford GO Bus',44.116654,-79.555752,1
 8012,'108012','Malton GO Bus',43.705143,-79.637825,1
@@ -986,7 +986,7 @@
 8030,'108030','Williams Pkwy @ Hwy 410 P&R',43.71671,-79.751277,1
 8032,'108032','Bramalea Bus Term',43.7186356,-79.7205734,1
 8039,'108039','Regional Rd 25 @ Hwy 401 P&R',43.527742,-79.903491,1
-8041,'108041','Bramalea GO Bus',43.702137,-79.690021,2
-8042,'108042','Bramalea GO Bus',43.702137,-79.690014,2
-8043,'108043','Cornell Bus Term',43.879761,-79.232535,2
+8041,'108041','Bramalea GO Bus',43.702137,-79.690021,1
+8042,'108042','Bramalea GO Bus',43.702137,-79.690014,1
+8043,'108043','Cornell Bus Term',43.879761,-79.232535,1
 8044,'108044','Bramalea GO Bus',43.702138,-79.690011,1
