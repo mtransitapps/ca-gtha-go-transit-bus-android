@@ -1,10 +1,3 @@
-'20230227',2100,52000,0,'E Union Sta',1
-'20230228',2100,52000,0,'E Union Sta',1
-'20230301',2100,52000,0,'E Union Sta',1
-'20230302',2100,52000,0,'E Union Sta',1
-'20230303',2100,52000,0,'E Union Sta',1
-'20230306',2100,52000,0,'E Union Sta',1
-'20230307',2100,52000,0,'E Union Sta',1
 '20230308',2100,52000,0,'E Union Sta',1
 '20230309',2100,52000,0,'E Union Sta',1
 '20230310',2100,52000,0,'E Union Sta',1
@@ -27,13 +20,6 @@
 '20230404',2100,52000,0,'E Union Sta',1
 '20230405',2100,52000,0,'E Union Sta',1
 '20230406',2100,52000,0,'E Union Sta',1
-'20230227',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230228',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230301',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230302',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230303',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230306',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
-'20230307',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
 '20230308',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
 '20230309',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
 '20230310',4500,54100,0,'B Unionville GO',1,7000,0,'B Unionville GO',1,9000,0,'B Unionville GO',1,5700,0,'B Unionville GO',1,14300,0,'B Unionville GO',1,11000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,9500,0,'B Unionville GO',1,10000,0,'B Unionville GO',1,10500,0,'B Unionville GO',1
