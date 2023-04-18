@@ -1,5 +1,5 @@
+1200,0,'Burlington Carpool',12
 1201,0,'Niagara Falls',12
-1200,0,'Union Sta',12
 1500,0,'Aldershot GO',15
 1501,0,'Brantford',15
 1601,0,'Hamilton GO',16
@@ -26,9 +26,7 @@
 3200,0,'York Mills',32
 3301,0,'U Of Guelph',33
 3300,0,'York Mills',33
-3400,0,'Finch',34
-3401,0,'Pearson Airport',34
-3601,0,'Brampton',36
+3601,0,'Bramalea',36
 3600,0,'York Mills',36
 3701,0,'Brampton',37
 3700,0,'Orangeville',37
@@ -38,8 +36,6 @@
 4000,0,'Richmond Hl Ctr',40
 4101,0,'Hamilton GO',41
 4100,0,'Pickering GO',41
-4501,0,'Streetsville GO',45
-4500,0,'Unionville GO',45
 4701,0,'Hamilton GO',47
 4700,0,'Major Mackenzie W',47
 4800,0,'Hwy 407',48
@@ -59,14 +55,12 @@
 6601,0,'Hwy 407',66
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
+6800,0,'Allandale Waterfront GO',68
 6801,0,'Aurora GO',68
-6800,0,'Barrie',68
 7001,0,'Mt Joy GO',70
 7000,0,'Uxbridge',70
 7101,0,'Union Sta',71
 7100,0,'Uxbridge',71
-8100,0,'Beaverton',81
-8101,0,'Whitby GO',81
 8801,0,'Dc Oshawa GO',88
 8800,0,'Trent U',88
 9000,0,'Dc Oshawa GO',90
