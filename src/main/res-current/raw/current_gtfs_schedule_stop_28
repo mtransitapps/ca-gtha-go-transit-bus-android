@@ -1,8 +1,3 @@
-'20230607',6301,51500,,'',1
-'20230608',6301,51500,,'',1
-'20230609',6301,51500,,'',1
-'20230612',6301,51500,,'',1
-'20230613',6301,51500,,'',1
 '20230614',6301,51500,,'',1
 '20230615',6301,51500,,'',1
 '20230616',6301,51500,,'',1
@@ -11,20 +6,6 @@
 '20230621',6301,51500,,'',1
 '20230622',6301,51500,,'',1
 '20230623',6301,51500,,'',1
-'20230607',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230607',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
-'20230608',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230608',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
-'20230609',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230609',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
-'20230610',6500,103300,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,20500,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,19500,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,19000,0,'F Aurora GO',1,9500,0,'F Aurora GO',1,20000,0,'E E Gwillimbury GO',1,16900,0,'E E Gwillimbury GO',1,4000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230610',6501,61000,0,'E Union Sta',1,10000,0,'E Union Sta',1,32700,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,19500,0,'F Union Sta',1
-'20230611',6500,103300,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,20500,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,19500,0,'F Aurora GO',1,10500,0,'F Aurora GO',1,19000,0,'F Aurora GO',1,9500,0,'F Aurora GO',1,20000,0,'E E Gwillimbury GO',1,16900,0,'E E Gwillimbury GO',1,4000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230611',6501,61000,0,'E Union Sta',1,10000,0,'E Union Sta',1,32700,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,20000,0,'F Union Sta',1,10000,0,'F Union Sta',1,19500,0,'F Union Sta',1
-'20230612',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230612',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
-'20230613',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
-'20230613',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
 '20230614',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
 '20230614',6501,113700,0,'F Union Sta',1,10000,0,'F Union Sta',1,10000,0,'F Union Sta',1,10900,0,'E Union Sta',1,9100,0,'F Union Sta',1,50000,0,'F Union Sta',1,10000,0,'F Union Sta',1,11900,0,'E Union Sta',1,20300,0,'E Union Sta',1
 '20230615',6500,85200,0,'E E Gwillimbury GO',1,17600,0,'E E Gwillimbury GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,71000,0,'F Aurora GO',1,10000,0,'F Aurora GO',1,10000,0,'E E Gwillimbury GO',1,9000,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1
