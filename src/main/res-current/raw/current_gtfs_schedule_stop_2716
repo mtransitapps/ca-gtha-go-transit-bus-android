@@ -1,16 +1,96 @@
-'20230614',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230614',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230615',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230615',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230616',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230616',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230619',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230619',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230620',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230620',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230621',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230621',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230622',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230622',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
-'20230623',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
-'20230623',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230626',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230626',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230627',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230627',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230628',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230628',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230629',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230629',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230630',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230630',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230704',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230704',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230705',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230705',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230706',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230706',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230707',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230707',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230710',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230710',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230711',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230711',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230712',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230712',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230713',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230713',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230714',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230714',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230717',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230717',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230718',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230718',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230719',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230719',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230720',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230720',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230721',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230721',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230724',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230724',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230725',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230725',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230726',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230726',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230727',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230727',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230728',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230728',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230731',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230731',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230801',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230801',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230802',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230802',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230803',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230803',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230804',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230804',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230808',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230808',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230809',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230809',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230810',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230810',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230811',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230811',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230814',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230814',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230815',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230815',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230816',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230816',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230817',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230817',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230818',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230818',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230821',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230821',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230822',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230822',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230823',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230823',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230824',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230824',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230825',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230825',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230828',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230828',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230829',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230829',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230830',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230830',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230831',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230831',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
+'20230901',8800,163100,0,'B Trent U',1,10000,0,'B Trent U',1,10000,0,'B Trent U',1
+'20230901',8801,60500,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,19500,0,'B Dc Oshawa GO',1
