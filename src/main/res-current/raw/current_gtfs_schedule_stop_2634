@@ -1,48 +1,192 @@
-'20230809',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230810',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230811',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230812',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20230813',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20230814',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230815',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230816',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230817',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230818',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230819',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20230820',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20230821',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230822',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230823',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230824',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230825',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230826',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20230827',6500,225000,,'',1,7500,0,'E E Gwillimbury GO',1,12900,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
 '20230828',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
 '20230829',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
 '20230830',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
 '20230831',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
 '20230901',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,10100,,'',1,7500,0,'E E Gwillimbury GO',1,112600,,'',1,8000,0,'E E Gwillimbury GO',1,1000,,'',1,500,,'',1,7500,0,'E E Gwillimbury GO',1,1400,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
-'20230809',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230810',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230811',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230812',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
-'20230813',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
-'20230814',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230815',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230816',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230817',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230818',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230819',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
-'20230820',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
-'20230821',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230822',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230823',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230824',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230825',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
-'20230826',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
-'20230827',6800,80400,,'',1,33100,,'',1,31000,,'',1,30000,,'',1,29500,,'',1
+'20230902',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230903',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230904',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230905',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230906',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230907',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230908',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230909',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230910',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230911',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230912',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230913',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230914',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230915',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230916',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230917',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230918',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230919',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230920',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230921',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230922',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230923',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230924',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20230925',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230926',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230927',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230928',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230929',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20230930',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231001',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231002',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231003',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231004',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231005',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231006',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231007',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231008',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231009',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231010',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231011',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231012',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231013',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231014',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231015',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231016',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231017',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231018',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231019',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231020',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231021',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231022',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231023',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231024',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231025',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231026',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231027',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231028',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231029',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231030',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231031',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231101',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231102',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231103',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231104',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231105',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231106',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231107',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231108',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231109',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231110',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231111',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231112',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231113',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231114',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231115',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231116',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231117',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231118',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231119',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231120',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231121',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231122',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231123',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231124',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231125',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231126',6500,245400,0,'E E Gwillimbury GO',1,8500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20231127',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231128',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231129',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231130',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
+'20231201',6500,70900,,'',1,10400,,'',1,13500,0,'E E Gwillimbury GO',1,148600,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9700,0,'E E Gwillimbury GO',1
 '20230828',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
 '20230829',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
 '20230830',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
 '20230831',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
 '20230901',6800,62200,,'',1,60300,,'',1,10000,,'',1,10000,,'',1,71000,,'',1,10000,,'',1
+'20230902',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230903',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230904',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230905',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230906',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230907',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230908',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230909',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230910',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230911',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230912',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230913',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230914',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230915',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230916',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230917',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230918',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230919',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230920',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230921',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230922',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230923',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230924',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20230925',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230926',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230927',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230928',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230929',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20230930',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231001',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231002',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231003',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231004',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231005',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231006',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231007',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231008',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231009',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231010',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231011',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231012',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231013',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231014',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231015',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231016',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231017',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231018',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231019',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231020',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231021',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231022',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231023',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231024',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231025',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231026',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231027',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231028',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231029',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231030',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231031',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231101',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231102',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231103',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231104',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231105',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231106',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231107',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231108',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231109',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231110',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231111',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231112',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231113',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231114',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231115',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231116',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231117',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231118',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231119',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231120',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231121',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231122',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231123',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231124',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231125',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231126',6800,80400,,'',1,30000,,'',1,30000,,'',1,40000,,'',1,20000,,'',1
+'20231127',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231128',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231129',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231130',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
+'20231201',6800,62200,,'',1,58200,,'',1,10000,,'',1,70000,0,'E E Gwillimbury GO',1,500,0,'A Allandale Waterfront GO',1,9500,,'',1,10000,,'',1
