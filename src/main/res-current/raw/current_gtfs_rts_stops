@@ -89,7 +89,7 @@
 221,'100221','Brampton Bus Term',43.6869087,-79.7628632,1
 222,'100222','Shopper''s World',43.6678429,-79.7354813,1
 223,'100223','Shopper''s World',43.6675682,-79.7358246,1
-227,'100227','Steeles Ave E @ Rutherford Rd S',43.68031,-79.71787,1
+227,'100227','Steeles Ave E @ Rutherford St S',43.68031,-79.71787,1
 228,'100228','Malton GO Bus',43.705143,-79.637825,1
 231,'100231','Trinity Common Mall',43.7313271,-79.7631531,1
 241,'100241','Finch Ave W @ Longo Cir',43.7334518,-79.6333313,2
@@ -174,7 +174,7 @@
 623,'100623','Kingston Rd @ Rougemount Dr',43.80911,-79.12996,1
 633,'100633','Kingston Rd @ Whites Rd',43.8189011,-79.1159744,1
 634,'100634','Kingston Rd @ Whites Rd',43.8194008,-79.1146774,2
-681,'100681','Durham Hwy 47 @ Goodwood Rd',44.0337105,-79.2021866,1
+681,'100681','Tenth Line @ Sleepy Hollow Ln',44.0337105,-79.2021866,1
 692,'100692','Toronto St N @ Albert St',44.1093521,-79.1225128,2
 693,'100693','Toronto St S @ Campbell Dr',44.10191,-79.12558,1
 694,'100694','Toronto St S @ Campbell Dr',44.1023788,-79.1256332,1
@@ -600,7 +600,7 @@
 2151,'102151','Regional Rd 25 @ Hwy 401 P&R',43.5274849,-79.9038162,1
 2153,'102153','Wilfrid Laurier U',43.4752655,-80.5272827,2
 2157,'102157','Maple GO Bus',43.859853,-79.505926,1
-2158,'102158','Major Mackenzie Dr E @ Keele St',43.8550568,-79.5116119,1
+2158,'102158','Major Mackenzie Dr W @ Keele St',43.8550568,-79.5116119,1
 2159,'102159','Keele St @ Church St',43.852829,-79.5120239,2
 2162,'102162','Hwy 2 @ Hwy 35/115 P&R',43.91301,-78.612533,1
 2163,'102163','Trafalgar Rd @ Hwy 407 P&R',43.506545,-79.745813,1
@@ -822,8 +822,6 @@
 2809,'102809','Guelph St @ Mountainview Rd S',43.650131,-79.902022,1
 2811,'102811','Steeles Ave @ Trafalgar Rd (Toronto Premium Outlets)',43.5738830213569,-79.8356593239271,2
 2812,'102812','Steeles Ave @ Trafalgar Rd (Toronto Premium Outlets)',43.5743597133588,-79.8346358454101,1
-2813,'102813','St Paul St W @ Great Western St (St Catharines GO)',43.147576,-79.253327,1
-2814,'102814','St Paul St W @ Leeper St (St Catharines GO)',43.146856,-79.254428,1
 2815,'102815','Cornell Bus Term',43.879742,-79.232527,1
 2816,'102816','Scarborough Ctr Bus Term',43.77486,-79.26088,1
 2818,'102818','Victoria St N @ Frederick St',43.4663507673236,-80.4579750554575,1
@@ -834,8 +832,8 @@
 2829,'102829','Yonge St @ John St',43.814391,-79.424193,1
 2830,'102830','OId Elm GO',43.9899019629206,-79.2374555459893,1
 2831,'102831','Bradford GO',44.115842,-79.556401,2
-2832,'102832','Louth St @ St Paul St W (St Catharines GO)',43.144978,-79.259897,2
-2833,'102833','Louth St @ St Paul St W (St Catharines GO)',43.145281,-79.260042,2
+2832,'102832','Louth St @ St Paul St W',43.144978,-79.259897,2
+2833,'102833','Louth St @ St Paul St W',43.145281,-79.260042,2
 8002,'108002','Allandale Waterfront GO Bus',44.373817,-79.689441,1
 8041,'108041','Bramalea GO Bus',43.702137,-79.690021,1
 8042,'108042','Bramalea GO Bus',43.702137,-79.690014,1
