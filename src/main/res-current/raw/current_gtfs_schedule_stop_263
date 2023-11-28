@@ -1,16 +1,3 @@
-'20231120',1800,234000,0,'J Union Sta',1
-'20231120',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
-'20231121',1800,234000,0,'J Union Sta',1
-'20231121',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
-'20231122',1800,234000,0,'J Union Sta',1
-'20231122',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
-'20231123',1800,234000,0,'J Union Sta',1
-'20231123',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
-'20231124',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
-'20231125',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
-'20231125',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
-'20231126',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
-'20231126',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,170200,0,'J W Harbour GO',1,3000,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
 '20231127',1800,234000,0,'J Union Sta',1
 '20231127',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
 '20231128',1800,234000,0,'J Union Sta',1
@@ -21,3 +8,68 @@
 '20231130',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
 '20231201',1800,222500,0,'N Oakville GO',1,7500,0,'M Oakville GO',1,2500,0,'N Oakville GO',1,8000,0,'A Union Sta',1
 '20231201',1801,63200,0,'C Hamilton GO',1,160400,0,'N W Harbour GO',1,7000,0,'N W Harbour GO',1,3000,0,'N W Harbour GO',1,7000,0,'N W Harbour GO',1,3000,0,'N W Harbour GO',1,7000,0,'N W Harbour GO',1,3000,0,'N W Harbour GO',1,7000,0,'N W Harbour GO',1,2900,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231202',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231202',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231203',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231203',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,170200,0,'J W Harbour GO',1,3000,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231204',1800,234000,0,'J Union Sta',1
+'20231204',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231205',1800,234000,0,'J Union Sta',1
+'20231205',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231206',1800,234000,0,'J Union Sta',1
+'20231206',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231207',1800,234000,0,'J Union Sta',1
+'20231207',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231208',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231209',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231209',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231210',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231210',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,170200,0,'J W Harbour GO',1,3000,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231211',1800,234000,0,'J Union Sta',1
+'20231211',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231212',1800,234000,0,'J Union Sta',1
+'20231212',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231213',1800,234000,0,'J Union Sta',1
+'20231213',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231214',1800,234000,0,'J Union Sta',1
+'20231214',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231215',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231216',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231216',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231217',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231217',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,170200,0,'J W Harbour GO',1,3000,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231218',1800,234000,0,'J Union Sta',1
+'20231218',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231219',1800,234000,0,'J Union Sta',1
+'20231219',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231220',1800,234000,0,'J Union Sta',1
+'20231220',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231221',1800,234000,0,'J Union Sta',1
+'20231221',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231222',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231223',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231223',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231224',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231224',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,173200,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231225',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231225',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,173200,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231226',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231226',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231227',1800,234000,0,'J Union Sta',1
+'20231227',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231228',1800,234000,0,'J Union Sta',1
+'20231228',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231229',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20231230',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231230',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,172200,0,'F Hamilton GO',1,10000,0,'F Hamilton GO',1
+'20231231',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231231',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,173200,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20240101',1800,55000,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20240101',1801,73300,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,3000,0,'A W Harbour GO',1,7000,0,'A W Harbour GO',1,173200,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20240102',1800,234000,0,'J Union Sta',1
+'20240102',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20240103',1800,234000,0,'J Union Sta',1
+'20240103',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20240104',1800,234000,0,'J Union Sta',1
+'20240104',1801,63200,0,'C Hamilton GO',1,191600,0,'A W Harbour GO',1,8700,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1
+'20240105',1801,63200,0,'C Hamilton GO',1,200300,0,'C Hamilton GO',1,10000,0,'C Hamilton GO',1

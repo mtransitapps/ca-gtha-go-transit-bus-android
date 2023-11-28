@@ -1,12 +1,40 @@
-'20231120',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
-'20231121',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
-'20231122',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
-'20231123',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
-'20231124',1800,43100,0,'G Union Sta',1
-'20231125',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
-'20231126',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
 '20231127',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
 '20231128',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
 '20231129',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
 '20231130',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
 '20231201',1800,43100,0,'G Union Sta',1,191500,0,'A Union Sta',1
+'20231202',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231203',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231204',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231205',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231206',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231207',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231208',1800,43100,0,'G Union Sta',1
+'20231209',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231210',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231211',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231212',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231213',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231214',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231215',1800,43100,0,'G Union Sta',1
+'20231216',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231217',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1,162000,0,'J Union Sta',1
+'20231218',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231219',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231220',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231221',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231222',1800,43100,0,'G Union Sta',1
+'20231223',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231224',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231225',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231226',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231227',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231228',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20231229',1800,43100,0,'G Union Sta',1
+'20231230',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20231231',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20240101',1800,44600,0,'B Union Sta',1,8500,0,'A Union Sta',1,7000,0,'A Union Sta',1,3000,0,'A Union Sta',1,7000,0,'A Union Sta',1
+'20240102',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20240103',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20240104',1800,43100,0,'G Union Sta',1,189000,0,'J Union Sta',1
+'20240105',1800,43100,0,'G Union Sta',1
