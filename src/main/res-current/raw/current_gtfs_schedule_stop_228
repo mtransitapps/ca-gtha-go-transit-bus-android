@@ -1,17 +1,3 @@
-'20231214',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20231214',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20231215',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20231215',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20231216',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,9500,0,'E Union Sta',1
-'20231216',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
-'20231217',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,9500,0,'E Union Sta',1
-'20231217',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
-'20231218',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20231218',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20231219',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20231219',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20231220',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20231220',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20231221',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
 '20231221',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20231222',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
@@ -44,16 +30,230 @@
 '20240104',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20240105',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
 '20240105',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20231214',3800,161200,,'',1,23000,,'',1
-'20231214',3801,54500,4,'',1,10000,4,'',1
-'20231215',3800,161200,,'',1,23000,,'',1
-'20231215',3801,54500,4,'',1,10000,4,'',1
-'20231218',3800,161200,,'',1,23000,,'',1
-'20231218',3801,54500,4,'',1,10000,4,'',1
-'20231219',3800,161200,,'',1,23000,,'',1
-'20231219',3801,54500,4,'',1,10000,4,'',1
-'20231220',3800,161200,,'',1,23000,,'',1
-'20231220',3801,54500,4,'',1,10000,4,'',1
+'20240106',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240106',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240107',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240107',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240108',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240108',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240109',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240109',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240110',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240110',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240111',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240111',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240112',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240112',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240113',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240113',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240114',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240114',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240115',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240115',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240116',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240116',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240117',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240117',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240118',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240118',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240119',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240119',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240120',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240120',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240121',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240121',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240122',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240122',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240123',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240123',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240124',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240124',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240125',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240125',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240126',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240126',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240127',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240127',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240128',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240128',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240129',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240129',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240130',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240130',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240131',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240131',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240201',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240201',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240202',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240202',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240203',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240203',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240204',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240204',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240205',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240205',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240206',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240206',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240207',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240207',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240208',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240208',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240209',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240209',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240210',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240210',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240211',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240211',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240212',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240212',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240213',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240213',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240214',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240214',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240215',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240215',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240216',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240216',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240217',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240217',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240218',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240218',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240219',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240219',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240220',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240220',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240221',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240221',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240222',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240222',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240223',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240223',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240224',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240224',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240225',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240225',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240226',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240226',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240227',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240227',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240228',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240228',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240229',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240229',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240301',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240301',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240302',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240302',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240303',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240303',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240304',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240304',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240305',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240305',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240306',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240306',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240307',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240307',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240308',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240308',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240309',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240309',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240310',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240310',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240311',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240311',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240312',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240312',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240313',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240313',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240314',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240314',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240315',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240315',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240316',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240316',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240317',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240317',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240318',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240318',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240319',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240319',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240320',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240320',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240321',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240321',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240322',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240322',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240323',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240323',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240324',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240324',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240325',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240325',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240326',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240326',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240327',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240327',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240328',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240328',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240329',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240329',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240330',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240330',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240331',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240331',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240401',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240401',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240402',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240402',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240403',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240403',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240404',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240404',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240405',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240405',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240406',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240406',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240407',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240407',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240408',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240408',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240409',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240409',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240410',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240410',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240411',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240411',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240412',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240412',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240413',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240413',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240414',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240414',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240415',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240415',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240416',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240416',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240417',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240417',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240418',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240418',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240419',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240419',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240420',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240420',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240421',3100,60000,0,'E Union Sta',1,3500,0,'X Union Sta',1,7000,0,'L Union Sta',1,170000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240421',3101,81600,0,'L Bramalea GO',1,169500,0,'L Bramalea GO',1,1500,0,'E Georgetown GO',1,3000,0,'X Mt Pleasant GO',1,7000,0,'E Georgetown GO',1,3000,0,'E Georgetown GO',1
+'20240422',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240422',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240423',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240423',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240424',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240424',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240425',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240425',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
+'20240426',3100,50000,0,'E Union Sta',1,2500,0,'L Union Sta',1,140000,,'',1,40500,0,'E Union Sta',1,10000,0,'E Union Sta',1,10000,0,'E Union Sta',1
+'20240426',3101,61600,,'',1,182000,0,'L Bramalea GO',1,2000,0,'L Bramalea GO',1,10000,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20231221',3800,161200,,'',1,23000,,'',1
 '20231221',3801,54500,4,'',1,10000,4,'',1
 '20231222',3800,161200,,'',1,23000,,'',1
@@ -72,3 +272,159 @@
 '20240104',3801,54500,4,'',1,10000,4,'',1
 '20240105',3800,161200,,'',1,23000,,'',1
 '20240105',3801,54500,4,'',1,10000,4,'',1
+'20240108',3800,161200,,'',1,23000,,'',1
+'20240108',3801,54500,4,'',1,10000,4,'',1
+'20240109',3800,161200,,'',1,23000,,'',1
+'20240109',3801,54500,4,'',1,10000,4,'',1
+'20240110',3800,161200,,'',1,23000,,'',1
+'20240110',3801,54500,4,'',1,10000,4,'',1
+'20240111',3800,161200,,'',1,23000,,'',1
+'20240111',3801,54500,4,'',1,10000,4,'',1
+'20240112',3800,161200,,'',1,23000,,'',1
+'20240112',3801,54500,4,'',1,10000,4,'',1
+'20240115',3800,161200,,'',1,23000,,'',1
+'20240115',3801,54500,4,'',1,10000,4,'',1
+'20240116',3800,161200,,'',1,23000,,'',1
+'20240116',3801,54500,4,'',1,10000,4,'',1
+'20240117',3800,161200,,'',1,23000,,'',1
+'20240117',3801,54500,4,'',1,10000,4,'',1
+'20240118',3800,161200,,'',1,23000,,'',1
+'20240118',3801,54500,4,'',1,10000,4,'',1
+'20240119',3800,161200,,'',1,23000,,'',1
+'20240119',3801,54500,4,'',1,10000,4,'',1
+'20240122',3800,161200,,'',1,23000,,'',1
+'20240122',3801,54500,4,'',1,10000,4,'',1
+'20240123',3800,161200,,'',1,23000,,'',1
+'20240123',3801,54500,4,'',1,10000,4,'',1
+'20240124',3800,161200,,'',1,23000,,'',1
+'20240124',3801,54500,4,'',1,10000,4,'',1
+'20240125',3800,161200,,'',1,23000,,'',1
+'20240125',3801,54500,4,'',1,10000,4,'',1
+'20240126',3800,161200,,'',1,23000,,'',1
+'20240126',3801,54500,4,'',1,10000,4,'',1
+'20240129',3800,161200,,'',1,23000,,'',1
+'20240129',3801,54500,4,'',1,10000,4,'',1
+'20240130',3800,161200,,'',1,23000,,'',1
+'20240130',3801,54500,4,'',1,10000,4,'',1
+'20240131',3800,161200,,'',1,23000,,'',1
+'20240131',3801,54500,4,'',1,10000,4,'',1
+'20240201',3800,161200,,'',1,23000,,'',1
+'20240201',3801,54500,4,'',1,10000,4,'',1
+'20240202',3800,161200,,'',1,23000,,'',1
+'20240202',3801,54500,4,'',1,10000,4,'',1
+'20240205',3800,161200,,'',1,23000,,'',1
+'20240205',3801,54500,4,'',1,10000,4,'',1
+'20240206',3800,161200,,'',1,23000,,'',1
+'20240206',3801,54500,4,'',1,10000,4,'',1
+'20240207',3800,161200,,'',1,23000,,'',1
+'20240207',3801,54500,4,'',1,10000,4,'',1
+'20240208',3800,161200,,'',1,23000,,'',1
+'20240208',3801,54500,4,'',1,10000,4,'',1
+'20240209',3800,161200,,'',1,23000,,'',1
+'20240209',3801,54500,4,'',1,10000,4,'',1
+'20240212',3800,161200,,'',1,23000,,'',1
+'20240212',3801,54500,4,'',1,10000,4,'',1
+'20240213',3800,161200,,'',1,23000,,'',1
+'20240213',3801,54500,4,'',1,10000,4,'',1
+'20240214',3800,161200,,'',1,23000,,'',1
+'20240214',3801,54500,4,'',1,10000,4,'',1
+'20240215',3800,161200,,'',1,23000,,'',1
+'20240215',3801,54500,4,'',1,10000,4,'',1
+'20240216',3800,161200,,'',1,23000,,'',1
+'20240216',3801,54500,4,'',1,10000,4,'',1
+'20240220',3800,161200,,'',1,23000,,'',1
+'20240220',3801,54500,4,'',1,10000,4,'',1
+'20240221',3800,161200,,'',1,23000,,'',1
+'20240221',3801,54500,4,'',1,10000,4,'',1
+'20240222',3800,161200,,'',1,23000,,'',1
+'20240222',3801,54500,4,'',1,10000,4,'',1
+'20240223',3800,161200,,'',1,23000,,'',1
+'20240223',3801,54500,4,'',1,10000,4,'',1
+'20240226',3800,161200,,'',1,23000,,'',1
+'20240226',3801,54500,4,'',1,10000,4,'',1
+'20240227',3800,161200,,'',1,23000,,'',1
+'20240227',3801,54500,4,'',1,10000,4,'',1
+'20240228',3800,161200,,'',1,23000,,'',1
+'20240228',3801,54500,4,'',1,10000,4,'',1
+'20240229',3800,161200,,'',1,23000,,'',1
+'20240229',3801,54500,4,'',1,10000,4,'',1
+'20240301',3800,161200,,'',1,23000,,'',1
+'20240301',3801,54500,4,'',1,10000,4,'',1
+'20240304',3800,161200,,'',1,23000,,'',1
+'20240304',3801,54500,4,'',1,10000,4,'',1
+'20240305',3800,161200,,'',1,23000,,'',1
+'20240305',3801,54500,4,'',1,10000,4,'',1
+'20240306',3800,161200,,'',1,23000,,'',1
+'20240306',3801,54500,4,'',1,10000,4,'',1
+'20240307',3800,161200,,'',1,23000,,'',1
+'20240307',3801,54500,4,'',1,10000,4,'',1
+'20240308',3800,161200,,'',1,23000,,'',1
+'20240308',3801,54500,4,'',1,10000,4,'',1
+'20240311',3800,161200,,'',1,23000,,'',1
+'20240311',3801,54500,4,'',1,10000,4,'',1
+'20240312',3800,161200,,'',1,23000,,'',1
+'20240312',3801,54500,4,'',1,10000,4,'',1
+'20240313',3800,161200,,'',1,23000,,'',1
+'20240313',3801,54500,4,'',1,10000,4,'',1
+'20240314',3800,161200,,'',1,23000,,'',1
+'20240314',3801,54500,4,'',1,10000,4,'',1
+'20240315',3800,161200,,'',1,23000,,'',1
+'20240315',3801,54500,4,'',1,10000,4,'',1
+'20240318',3800,161200,,'',1,23000,,'',1
+'20240318',3801,54500,4,'',1,10000,4,'',1
+'20240319',3800,161200,,'',1,23000,,'',1
+'20240319',3801,54500,4,'',1,10000,4,'',1
+'20240320',3800,161200,,'',1,23000,,'',1
+'20240320',3801,54500,4,'',1,10000,4,'',1
+'20240321',3800,161200,,'',1,23000,,'',1
+'20240321',3801,54500,4,'',1,10000,4,'',1
+'20240322',3800,161200,,'',1,23000,,'',1
+'20240322',3801,54500,4,'',1,10000,4,'',1
+'20240325',3800,161200,,'',1,23000,,'',1
+'20240325',3801,54500,4,'',1,10000,4,'',1
+'20240326',3800,161200,,'',1,23000,,'',1
+'20240326',3801,54500,4,'',1,10000,4,'',1
+'20240327',3800,161200,,'',1,23000,,'',1
+'20240327',3801,54500,4,'',1,10000,4,'',1
+'20240328',3800,161200,,'',1,23000,,'',1
+'20240328',3801,54500,4,'',1,10000,4,'',1
+'20240401',3800,161200,,'',1,23000,,'',1
+'20240401',3801,54500,4,'',1,10000,4,'',1
+'20240402',3800,161200,,'',1,23000,,'',1
+'20240402',3801,54500,4,'',1,10000,4,'',1
+'20240403',3800,161200,,'',1,23000,,'',1
+'20240403',3801,54500,4,'',1,10000,4,'',1
+'20240404',3800,161200,,'',1,23000,,'',1
+'20240404',3801,54500,4,'',1,10000,4,'',1
+'20240405',3800,161200,,'',1,23000,,'',1
+'20240405',3801,54500,4,'',1,10000,4,'',1
+'20240408',3800,161200,,'',1,23000,,'',1
+'20240408',3801,54500,4,'',1,10000,4,'',1
+'20240409',3800,161200,,'',1,23000,,'',1
+'20240409',3801,54500,4,'',1,10000,4,'',1
+'20240410',3800,161200,,'',1,23000,,'',1
+'20240410',3801,54500,4,'',1,10000,4,'',1
+'20240411',3800,161200,,'',1,23000,,'',1
+'20240411',3801,54500,4,'',1,10000,4,'',1
+'20240412',3800,161200,,'',1,23000,,'',1
+'20240412',3801,54500,4,'',1,10000,4,'',1
+'20240415',3800,161200,,'',1,23000,,'',1
+'20240415',3801,54500,4,'',1,10000,4,'',1
+'20240416',3800,161200,,'',1,23000,,'',1
+'20240416',3801,54500,4,'',1,10000,4,'',1
+'20240417',3800,161200,,'',1,23000,,'',1
+'20240417',3801,54500,4,'',1,10000,4,'',1
+'20240418',3800,161200,,'',1,23000,,'',1
+'20240418',3801,54500,4,'',1,10000,4,'',1
+'20240419',3800,161200,,'',1,23000,,'',1
+'20240419',3801,54500,4,'',1,10000,4,'',1
+'20240422',3800,161200,,'',1,23000,,'',1
+'20240422',3801,54500,4,'',1,10000,4,'',1
+'20240423',3800,161200,,'',1,23000,,'',1
+'20240423',3801,54500,4,'',1,10000,4,'',1
+'20240424',3800,161200,,'',1,23000,,'',1
+'20240424',3801,54500,4,'',1,10000,4,'',1
+'20240425',3800,161200,,'',1,23000,,'',1
+'20240425',3801,54500,4,'',1,10000,4,'',1
+'20240426',3800,161200,,'',1,23000,,'',1
+'20240426',3801,54500,4,'',1,10000,4,'',1

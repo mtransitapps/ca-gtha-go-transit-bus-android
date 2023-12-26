@@ -1,10 +1,3 @@
-'20231214',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20231215',9001,40500,0,'B Union Sta',1
-'20231216',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
-'20231217',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
-'20231218',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20231219',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20231220',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20231221',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20231222',9001,40500,0,'B Union Sta',1
 '20231223',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
@@ -21,3 +14,115 @@
 '20240103',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20240104',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20240105',9001,40500,0,'B Union Sta',1
+'20240106',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240107',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240108',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240109',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240110',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240111',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240112',9001,40500,0,'B Union Sta',1
+'20240113',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240114',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240115',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240116',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240117',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240118',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240119',9001,40500,0,'B Union Sta',1
+'20240120',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240121',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240122',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240123',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240124',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240125',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240126',9001,40500,0,'B Union Sta',1
+'20240127',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240128',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240129',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240130',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240131',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240201',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240202',9001,40500,0,'B Union Sta',1
+'20240203',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240204',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240205',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240206',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240207',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240208',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240209',9001,40500,0,'B Union Sta',1
+'20240210',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240211',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240212',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240213',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240214',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240215',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240216',9001,40500,0,'B Union Sta',1
+'20240217',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240218',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240219',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240220',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240221',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240222',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240223',9001,40500,0,'B Union Sta',1
+'20240224',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240225',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240226',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240227',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240228',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240229',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240301',9001,40500,0,'B Union Sta',1
+'20240302',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240303',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240304',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240305',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240306',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240307',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240308',9001,40500,0,'B Union Sta',1
+'20240309',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240310',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240311',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240312',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240313',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240314',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240315',9001,40500,0,'B Union Sta',1
+'20240316',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240317',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240318',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240319',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240320',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240321',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240322',9001,40500,0,'B Union Sta',1
+'20240323',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240324',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240325',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240326',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240327',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240328',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240329',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240330',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240331',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240401',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240402',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240403',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240404',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240405',9001,40500,0,'B Union Sta',1
+'20240406',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240407',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240408',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240409',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240410',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240411',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240412',9001,40500,0,'B Union Sta',1
+'20240413',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240414',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240415',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240416',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240417',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240418',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240419',9001,40500,0,'B Union Sta',1
+'20240420',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20240421',9001,45000,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163000,0,'B Union Sta',1
+'20240422',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240423',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240424',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240425',9001,40500,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20240426',9001,40500,0,'B Union Sta',1
