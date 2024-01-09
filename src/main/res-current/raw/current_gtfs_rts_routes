@@ -1,37 +1,37 @@
-12,'12','Niagara Falls / Toronto','98002e',46857381,3
-15,'15','Brantford / Aldershot','98002e',46857384,3
-16,'16','Hamilton / Toronto Express','98002e',46857385,3
-17,'17','Waterloo / Hamilton','f78025',46857386,3
-18,'18','Lakeshore West','98002e',46857387,3
-19,'19','Mississauga / North York','f57f25',46857388,3
-21,'21','Milton','f57f25',46857411,3
-25,'25','Waterloo / Mississauga','f57f25',46857415,3
-27,'27','Milton / North York','f57f25',46857417,3
-29,'29','Guelph / Mississauga','00853e',46857419,3
-30,'30','Kitchener / Bramalea','00853e',46857441,3
-31,'31','Guelph / Toronto','00853e',46857442,3
-32,'32','Brampton Trinity Common / North York','00853e',46857443,3
-33,'33','Guelph / North York','00853e',46857444,3
-36,'36','Brampton / North York Express','00853e',46857447,3
-37,'37','Orangeville / Brampton','00853e',46857448,3
-38,'38','Bolton / Malton','00853e',46857449,3
-40,'40','Hamilton / Richmond Hill','a11984',46857472,3
-41,'41','Hamilton / Pickering','a21984',46857473,3
-47,'47','Hamilton / Hwy 407 Terminal','a21984',46857479,3
-48,'48','Guelph / Hwy 407 Terminal','a21984',46857480,3
-52,'52','Oshawa / Hwy 407 Terminal','6f298d',46857505,3
-54,'54','Markham / Hwy 407 Terminal','6f298d',46857507,3
-56,'56','Oshawa / Oakville','6f298d',46857509,3
-61,'61','Richmond Hill','0099c7',46857535,3
-63,'63','King City / Toronto','003767',46857537,3
-65,'65','Newmarket / Toronto','003767',46857539,3
-66,'66','East Gwillimbury / Hwy 407 Terminal','003767',46857540,3
-67,'67','Keswick / North York','003767',46857541,3
-68,'68','Barrie / Newmarket','003767',46857542,3
-70,'70','Uxbridge / Mount Joy','794500',46857565,3
-71,'71','Stouffville','794500',46857566,3
-88,'88','Peterborough / Oshawa','ff0d00',46857604,3
-90,'90','Lakeshore East','ff0d00',46857627,3
-92,'92','Oshawa / Yorkdale','ff0d00',46857629,3
-94,'94','Pickering / Square One','a21884',46857631,3
-96,'96','Oshawa / Finch Express','ff0d00',46857633,3
+12,'12','Niagara Falls / Toronto','98002e',1569,3
+15,'15','Brantford / Aldershot','98002e',1572,3
+16,'16','Hamilton / Toronto Express','98002e',1573,3
+17,'17','Waterloo / Hamilton','f78025',1574,3
+18,'18','Lakeshore West','98002e',1575,3
+19,'19','Mississauga / North York','f57f25',1576,3
+21,'21','Milton','f57f25',1599,3
+25,'25','Waterloo / Mississauga','f57f25',1603,3
+27,'27','Milton / North York','f57f25',1605,3
+29,'29','Guelph / Mississauga','00853e',1607,3
+30,'30','Kitchener / Bramalea','00853e',1629,3
+31,'31','Guelph / Toronto','00853e',1630,3
+32,'32','Brampton Trinity Common / North York','00853e',1631,3
+33,'33','Guelph / North York','00853e',1632,3
+36,'36','Brampton / North York Express','00853e',1635,3
+37,'37','Orangeville / Brampton','00853e',1636,3
+38,'38','Bolton / Malton','00853e',1637,3
+40,'40','Hamilton / Richmond Hill','a11984',1660,3
+41,'41','Hamilton / Pickering','a21984',1661,3
+47,'47','Hamilton / Hwy 407 Terminal','a21984',1667,3
+48,'48','Guelph / Hwy 407 Terminal','a21984',1668,3
+52,'52','Oshawa / Hwy 407 Terminal','6f298d',1693,3
+54,'54','Markham / Hwy 407 Terminal','6f298d',1695,3
+56,'56','Oshawa / Oakville','6f298d',1697,3
+61,'61','Richmond Hill','0099c7',1723,3
+63,'63','King City / Toronto','003767',1725,3
+65,'65','Newmarket / Toronto','003767',1727,3
+66,'66','East Gwillimbury / Hwy 407 Terminal','003767',1728,3
+67,'67','Keswick / North York','003767',1729,3
+68,'68','Barrie / Newmarket','003767',1730,3
+70,'70','Uxbridge / Mount Joy','794500',1753,3
+71,'71','Stouffville','794500',1754,3
+88,'88','Peterborough / Oshawa','ff0d00',1792,3
+90,'90','Lakeshore East','ff0d00',1815,3
+92,'92','Oshawa / Yorkdale','ff0d00',1817,3
+94,'94','Pickering / Square One','a21884',1819,3
+96,'96','Oshawa / Finch Express','ff0d00',1821,3
