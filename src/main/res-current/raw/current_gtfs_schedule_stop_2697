@@ -1,31 +1,3 @@
-'20240104',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240105',9000,62300,0,'B Dc Oshawa GO',1,200000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240106',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240107',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240108',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240109',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240110',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240111',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240112',9000,62300,0,'B Dc Oshawa GO',1,200000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240113',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240114',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240115',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240116',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240117',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240118',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240119',9000,62300,0,'B Dc Oshawa GO',1,200000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240120',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240121',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240122',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240123',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240124',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240125',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240126',9000,62300,0,'B Dc Oshawa GO',1,200000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240127',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240128',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240129',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240130',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
-'20240131',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
 '20240201',9000,62300,0,'B Dc Oshawa GO',1,192000,0,'B Dc Oshawa GO',1,8000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
 '20240202',9000,62300,0,'B Dc Oshawa GO',1,200000,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1
 '20240203',9000,63800,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1

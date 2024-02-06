@@ -1,31 +1,3 @@
-'20240104',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240105',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240106',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240107',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240108',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240109',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240110',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240111',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240112',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240113',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240114',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240115',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240116',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240117',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240118',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240119',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240120',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240121',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240122',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240123',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240124',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240125',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240126',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240127',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240128',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
-'20240129',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240130',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
-'20240131',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
 '20240201',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
 '20240202',2100,42900,0,'Union Sta',1,7500,0,'Union Sta',1,2500,0,'Union Sta',1,178000,0,'Union Sta',1,10000,0,'Union Sta',1,10000,0,'Union Sta',1
 '20240203',2100,53900,0,'Union Sta',1,10000,0,'Union Sta',1,168300,0,'Union Sta',1,9000,0,'Union Sta',1,10200,0,'Union Sta',1
