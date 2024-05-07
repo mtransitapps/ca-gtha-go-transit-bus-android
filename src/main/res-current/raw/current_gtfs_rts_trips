@@ -8,8 +8,8 @@
 1600,0,'Union Sta',16
 1701,0,'Hamilton GO',17
 1700,0,'U Of Waterloo',17
-1801,0,'Brock U',18
 1800,0,'Union Sta',18
+1801,0,'W Harbour GO',18
 1900,0,'Finch',19
 1901,0,'Sq One',19
 2101,0,'Milton GO',21
@@ -52,15 +52,14 @@
 5601,0,'Oakville GO',56
 6100,0,'Bloomington GO',61
 6101,0,'Union Sta',61
-6301,0,'Union Sta',63
 6500,0,'E Gwillimbury GO',65
 6501,0,'Union Sta',65
 6600,0,'E Gwillimbury GO',66
 6601,0,'Hwy 407',66
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
-6801,0,'Aurora GO',68
 6800,0,'Barrie',68
+6801,0,'Hwy 407',68
 7001,0,'Mt Joy GO',70
 7000,0,'Uxbridge',70
 7101,0,'Union Sta',71
