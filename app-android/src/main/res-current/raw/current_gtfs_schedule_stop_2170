@@ -1,14 +1,3 @@
-'20240613',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240614',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240615',7000,103800,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
-'20240616',7000,103800,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
-'20240617',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240618',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240619',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240620',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240621',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240622',7000,103800,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
-'20240623',7000,103800,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
 '20240624',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
 '20240625',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
 '20240626',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
@@ -77,17 +66,6 @@
 '20240828',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
 '20240829',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
 '20240830',7000,103900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20240613',7100,90400,,'',1
-'20240614',7100,90400,,'',1
-'20240615',7100,84900,,'',1
-'20240616',7100,84900,,'',1
-'20240617',7100,90400,,'',1
-'20240618',7100,90400,,'',1
-'20240619',7100,90400,,'',1
-'20240620',7100,90400,,'',1
-'20240621',7100,90400,,'',1
-'20240622',7100,84900,,'',1
-'20240623',7100,84900,,'',1
 '20240624',7100,90400,,'',1
 '20240625',7100,90400,,'',1
 '20240626',7100,90400,,'',1
