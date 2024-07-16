@@ -1,116 +1,104 @@
-'20240704',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240704',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
-'20240705',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240705',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
-'20240706',6800,85700,,'',1,15300,0,'F Barrie',1,10700,0,'G Barrie',1,4200,,'',1,15800,0,'F Barrie',1,10500,0,'G Barrie',1,3700,,'',1,15800,0,'F Barrie',1,10500,0,'G Barrie',1,13700,,'',1,5300,0,'F Barrie',1,11000,0,'G Barrie',1,3700,,'',1,15300,0,'F Barrie',1,10300,0,'G Barrie',1,9500,0,'F Barrie',1,10500,0,'G Barrie',1,3300,0,'B Barrie',1
-'20240706',6801,71200,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,8500,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,31500,0,'B E Gwillimbury GO',1
-'20240707',6800,85700,,'',1,15300,0,'F Barrie',1,10700,0,'G Barrie',1,4200,,'',1,15800,0,'F Barrie',1,10500,0,'G Barrie',1,3700,,'',1,15800,0,'F Barrie',1,10500,0,'G Barrie',1,13700,,'',1,5300,0,'F Barrie',1,11000,0,'G Barrie',1,3700,,'',1,15300,0,'F Barrie',1,10300,0,'G Barrie',1,9500,0,'F Barrie',1,10500,0,'G Barrie',1,3300,0,'B Barrie',1
-'20240707',6801,71200,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,8500,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,11000,0,'Aurora GO',1,18000,0,'F Hwy 407',1,1000,0,'G Hwy 407',1,31500,0,'B E Gwillimbury GO',1
-'20240708',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240708',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
-'20240709',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240709',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
 '20240710',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240710',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240710',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240711',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240711',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240711',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240712',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240712',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240712',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240713',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240713',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240713',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240714',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240714',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240714',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240715',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240715',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240715',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240716',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240716',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240716',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240717',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240717',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240717',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240718',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240718',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240718',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240719',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240719',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240719',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240720',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240720',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240720',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240721',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240721',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240721',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240722',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240722',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240722',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240723',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240723',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240723',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240724',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240724',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240724',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240725',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240725',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240725',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240726',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240726',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240726',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240727',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240727',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240727',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240728',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240728',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240728',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240729',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240729',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240729',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240730',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240730',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240730',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240731',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240731',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240731',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240801',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240801',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240801',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240802',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240802',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240802',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240803',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240803',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240803',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240804',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240804',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240804',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240805',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240805',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240805',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240806',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240806',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240806',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240807',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240807',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240807',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240808',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240808',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240808',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240809',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240809',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240809',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240810',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240810',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240810',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240811',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240811',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240811',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240812',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240812',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240812',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240813',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240813',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240813',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240814',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240814',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240814',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240815',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240815',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240815',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240816',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240816',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240816',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240817',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240817',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240817',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240818',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240818',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240818',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240819',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240819',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240819',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240820',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240820',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240820',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240821',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240821',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240821',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240822',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240822',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240822',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240823',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240823',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240823',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240824',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240824',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240824',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240825',6800,85700,,'',1,30200,,'',1,30000,,'',1,40000,,'',1,20000,,'',1,48900,0,'B Barrie',1
-'20240825',6801,92700,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,30000,0,'Aurora GO',1,50500,0,'B E Gwillimbury GO',1
+'20240825',6801,92700,,'',1,30000,,'',1,30000,,'',1,30000,,'',1,50500,0,'B E Gwillimbury GO',1
 '20240826',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240826',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240826',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240827',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240827',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240827',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240828',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240828',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240828',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240829',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240829',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240829',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
 '20240830',6800,71500,,'',1,10000,0,'B Barrie',1,10200,0,'B Barrie',1,38300,,'',1,5900,,'',1,34400,0,'B Barrie',1,39900,,'',1,5500,,'',1,9600,,'',1
-'20240830',6801,42600,0,'B E Gwillimbury GO',1,59400,0,'Aurora GO',1,10000,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,0,'Aurora GO',1,10700,0,'Aurora GO',1,38500,0,'B E Gwillimbury GO',1
+'20240830',6801,42600,0,'B E Gwillimbury GO',1,59400,,'',1,10000,,'',1,38500,0,'B E Gwillimbury GO',1,19500,0,'B E Gwillimbury GO',1,12000,,'',1,10700,,'',1,38500,0,'B E Gwillimbury GO',1
