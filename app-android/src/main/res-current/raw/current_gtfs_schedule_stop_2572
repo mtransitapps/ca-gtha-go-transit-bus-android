@@ -1,11 +1,3 @@
-'20240814',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20240815',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20240816',9001,40200,0,'B Union Sta',1
-'20240817',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20240818',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20240819',9001,40200,0,'B Union Sta',1
-'20240820',9001,40200,0,'B Union Sta',1
-'20240821',9001,40200,0,'B Union Sta',1
 '20240822',9001,40200,0,'B Union Sta',1
 '20240823',9001,40200,0,'B Union Sta',1
 '20240824',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
@@ -113,14 +105,6 @@
 '20241204',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241205',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241206',9001,40200,0,'B Union Sta',1
-'20240814',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20240815',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20240816',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20240817',9601,63200,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,10000,0,'Z Finch',1,9500,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20500,0,'Z Finch',1,20000,0,'Z Finch',1,20000,0,'B Finch',1
-'20240818',9601,63200,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,10000,0,'Z Finch',1,9500,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20500,0,'Z Finch',1,20000,0,'Z Finch',1,20000,0,'B Finch',1
-'20240819',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20240820',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20240821',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
 '20240822',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
 '20240823',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
 '20240824',9601,63200,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,10000,0,'Z Finch',1,9500,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20500,0,'Z Finch',1,20000,0,'Z Finch',1,20000,0,'B Finch',1
