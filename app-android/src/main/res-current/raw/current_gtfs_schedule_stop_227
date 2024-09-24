@@ -1,21 +1,3 @@
-'20240905',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240906',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240907',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
-'20240908',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
-'20240909',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240910',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240911',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240912',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240913',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240914',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
-'20240915',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
-'20240916',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240917',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240918',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240919',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240920',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
-'20240921',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
-'20240922',3101,81600,0,'A U Of Guelph',1,170500,0,'K Mt Pleasant GO',1,2000,0,'E Georgetown GO',1,7000,0,'X Mt Pleasant GO',1,3000,0,'E Georgetown GO',1,7000,0,'E Georgetown GO',1
 '20240923',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20240924',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
 '20240925',3101,63800,,'',1,8700,0,'B U Of Guelph',1,10000,0,'B U Of Guelph',1,3000,0,'R Brampton',1,159700,0,'K Mt Pleasant GO',1,6000,0,'A U Of Guelph',1,9900,0,'E Georgetown GO',1,10000,0,'E Georgetown GO',1
