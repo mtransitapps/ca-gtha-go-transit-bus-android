@@ -1,16 +1,3 @@
-'20241008',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241009',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241010',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241011',9001,40200,0,'B Union Sta',1
-'20241012',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20241013',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20241014',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20241015',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241016',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241017',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20241018',9001,40200,0,'B Union Sta',1
-'20241019',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1
-'20241020',9001,44200,0,'B Union Sta',1,10000,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,6500,0,'B Union Sta',1,163500,0,'B Union Sta',1
 '20241021',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241022',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241023',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
@@ -58,19 +45,6 @@
 '20241204',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241205',9001,40200,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20241206',9001,40200,0,'B Union Sta',1
-'20241008',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241009',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241010',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241011',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241012',9601,63200,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1
-'20241013',9601,63200,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1
-'20241014',9601,63200,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1
-'20241015',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241016',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241017',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241018',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
-'20241019',9601,63200,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1
-'20241020',9601,63200,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1
 '20241021',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
 '20241022',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
 '20241023',9601,50200,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,9500,0,'B Finch',1,10000,0,'B Finch',1,21000,0,'B Finch',1,30000,0,'B Finch',1
