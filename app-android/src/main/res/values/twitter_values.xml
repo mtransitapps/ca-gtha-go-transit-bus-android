@@ -8,6 +8,10 @@
         <item>GOtransit</item>
         <item>GOtransitFR</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>52188923</item>
+        <item>1857893034</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>en</item>
         <item>fr</item>
