@@ -5,6 +5,7 @@
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
+    <!-- TODO https://api.openmetrolinx.com/OpenDataAPI/Help -->
         <item>GOtransit</item>
         <item>GOtransitFR</item>
     </string-array>
