@@ -40,7 +40,22 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
+        <!-- GTFS REAL TIME PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.GTFSRealTimeProvider"
+            android:authorities="@string/gtfs_real_time_authority"
+            android:exported="true"
+            android:readPermission="${permission_provider_read}"
+            tools:ignore="MissingRegistered">
+            <meta-data
+                android:name="@string/service_update_provider"
+                android:value="@string/service_update_provider" />
+            <meta-data
+                android:name="@string/service_update_provider_target"
+                android:value="@string/gtfs_real_time_for_poi_authority" />
+        </provider>
         <!-- TWITTER NEWS PROVIDER -->
+        <!-- DISABLED because duplicate of GTFS-RT & Contact center, no news -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
@@ -54,6 +69,7 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/twitter_target_for_poi_authority" />
         </provider>
+        -->
         <!-- YOUTUBE NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.YouTubeNewsProvider"
