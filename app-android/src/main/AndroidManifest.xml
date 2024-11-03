@@ -55,7 +55,7 @@
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
-        <!-- DISABLED because duplicate of GTFS-RT & Contact center, no news -->
+        <!-- DISABLED because duplicate of GTFS-RT & Contact center, no news
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
