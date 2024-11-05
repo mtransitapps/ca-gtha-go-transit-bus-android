@@ -1,27 +1,3 @@
-'20241023',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241023',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241024',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241024',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241025',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241025',6501,50500,0,'A Union Sta',1,162000,0,'F Union Sta',1,33200,0,'E Union Sta',1
-'20241026',6500,90000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,4500,0,'J E Gwillimbury GO',1,15500,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,13000,0,'G Aurora GO',1,7000,0,'J E Gwillimbury GO',1,11200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20241026',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1,13000,0,'J Hwy 407',1,10000,0,'J Hwy 407',1,11000,0,'G Hwy 407',1,9500,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,11500,0,'G Hwy 407',1,9000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10500,0,'G Hwy 407',1,10000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10500,0,'G Hwy 407',1,10000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10000,0,'G Hwy 407',1
-'20241027',6500,90000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,11000,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,4500,0,'J E Gwillimbury GO',1,15500,0,'G Aurora GO',1,10000,0,'G Aurora GO',1,9000,0,'J E Gwillimbury GO',1,13000,0,'G Aurora GO',1,7000,0,'J E Gwillimbury GO',1,11200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20241027',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1,13000,0,'J Hwy 407',1,10000,0,'J Hwy 407',1,11000,0,'G Hwy 407',1,9500,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,11500,0,'G Hwy 407',1,9000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10500,0,'G Hwy 407',1,10000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10500,0,'G Hwy 407',1,10000,0,'G Hwy 407',1,9500,0,'J Hwy 407',1,10000,0,'G Hwy 407',1
-'20241028',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241028',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241029',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241029',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241030',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241030',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241031',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241031',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241101',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
-'20241101',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241102',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20241102',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20241103',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
-'20241103',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
 '20241104',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
 '20241104',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
 '20241105',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
@@ -42,11 +18,11 @@
 '20241112',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
 '20241113',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
 '20241113',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241114',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
+'20241114',6500,265200,0,'E E Gwillimbury GO',1
 '20241114',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241115',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
+'20241115',6500,265200,0,'E E Gwillimbury GO',1
 '20241115',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241116',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20241116',6500,255700,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
 '20241116',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
 '20241117',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
 '20241117',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
@@ -56,11 +32,11 @@
 '20241119',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
 '20241120',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
 '20241120',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241121',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
+'20241121',6500,265200,0,'E E Gwillimbury GO',1
 '20241121',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241122',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
+'20241122',6500,265200,0,'E E Gwillimbury GO',1
 '20241122',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241123',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
+'20241123',6500,255700,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
 '20241123',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
 '20241124',6500,241200,0,'E E Gwillimbury GO',1,4500,0,'E E Gwillimbury GO',1,10000,0,'E E Gwillimbury GO',1,9500,0,'E E Gwillimbury GO',1
 '20241124',6501,60000,0,'E Union Sta',1,10000,0,'E Union Sta',1
@@ -88,9 +64,7 @@
 '20241205',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
 '20241206',6500,245200,0,'E E Gwillimbury GO',1,20000,0,'E E Gwillimbury GO',1
 '20241206',6501,50500,0,'A Union Sta',1,195200,0,'E Union Sta',1
-'20241025',6800,224500,0,'M Barrie',1,9000,0,'M Barrie',1
-'20241025',6801,220500,0,'M Union Sta',1
-'20241026',6800,94000,0,'G Barrie',1,30500,0,'G Barrie',1,30000,0,'G Barrie',1,30000,0,'G Barrie',1,29500,0,'G Barrie',1,20000,0,'G Barrie',1
-'20241026',6801,90500,0,'G Hwy 407',1,9500,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1
-'20241027',6800,94000,0,'G Barrie',1,30500,0,'G Barrie',1,30000,0,'G Barrie',1,30000,0,'G Barrie',1,29500,0,'G Barrie',1,20000,0,'G Barrie',1
-'20241027',6801,90500,0,'G Hwy 407',1,9500,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1,30000,0,'G Hwy 407',1
+'20241114',6800,222000,0,'G Barrie',1
+'20241115',6800,222000,0,'G Barrie',1
+'20241121',6800,222000,0,'G Barrie',1
+'20241122',6800,222000,0,'G Barrie',1

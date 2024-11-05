@@ -1,15 +1,3 @@
-'20241023',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241024',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241025',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241026',7000,103400,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241027',7000,103400,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241028',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241029',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241030',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241031',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241101',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241102',7000,103400,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241103',7000,103400,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20241104',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20241105',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20241106',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
@@ -43,18 +31,6 @@
 '20241204',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20241205',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20241206',7000,103500,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20241023',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241024',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241025',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241026',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20241027',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20241028',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241029',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241030',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241031',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241101',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241102',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20241103',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20241104',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241105',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241106',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
@@ -67,14 +43,14 @@
 '20241113',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241114',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241115',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241116',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
+'20241116',7100,84600,,'',1,177600,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20241117',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20241118',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241119',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241120',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241121',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241122',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20241123',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
+'20241123',7100,84600,,'',1,177600,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20241124',7100,84600,,'',1,167600,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20241125',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20241126',7100,75100,0,'C Old Elm GO',1,14900,,'',1,170700,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
