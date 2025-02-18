@@ -1,17 +1,3 @@
-'20250127',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250128',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250129',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250130',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250131',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250203',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250204',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250205',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250206',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250207',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250210',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250211',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250212',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250213',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
 '20250214',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
 '20250218',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
 '20250219',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
@@ -47,24 +33,6 @@
 '20250402',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
 '20250403',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
 '20250404',3100,152300,0,'B Bramalea GO',1,9900,0,'B Bramalea GO',1,10800,,'',1
-'20250127',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250128',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250129',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250130',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250131',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250201',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
-'20250202',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
-'20250203',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250204',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250205',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250206',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250207',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250208',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
-'20250209',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
-'20250210',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250211',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250212',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
-'20250213',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
 '20250214',3300,45400,0,'C Georgetown GO',1,17000,,'',1,13500,,'',1,18500,0,'F Mt Pleasant GO',1,19700,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1,9500,0,'F Mt Pleasant GO',1,22200,,'',1,18400,0,'F Mt Pleasant GO',1,20000,0,'F Mt Pleasant GO',1
 '20250215',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
 '20250216',3300,65200,,'',1,19700,,'',1,19000,,'',1,19500,,'',1,20000,,'',1,20500,,'',1,20500,,'',1,20500,,'',1
