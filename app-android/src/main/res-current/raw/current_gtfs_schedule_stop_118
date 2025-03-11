@@ -1,12 +1,3 @@
-'20250224',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250225',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250226',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250227',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250228',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250301',7000,102700,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250302',7000,102700,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250303',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250304',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250305',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250306',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250307',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
@@ -38,15 +29,6 @@
 '20250402',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250403',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250404',7000,102800,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,39800,0,'D Uxbridge',1,9900,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250224',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250225',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250226',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250227',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250228',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250301',7100,84000,,'',1,167700,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20250302',7100,84000,,'',1,167700,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20250303',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250304',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250305',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250306',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250307',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
@@ -63,9 +45,9 @@
 '20250318',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250319',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250320',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250321',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
-'20250322',7100,84000,,'',1,167700,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
-'20250323',7100,84000,,'',1,167700,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
+'20250321',7100,74500,0,'C Old Elm GO',1,11200,,'',1,165300,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,8500,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
+'20250322',7100,84000,,'',1,137000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,9000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,10200,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
+'20250323',7100,84000,,'',1,137000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,9000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,10000,0,'C Old Elm GO',1,500,0,'C Old Elm GO',1,10200,0,'C Old Elm GO',1,9800,0,'C Old Elm GO',1,11800,0,'C Old Elm GO',1
 '20250324',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250325',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
 '20250326',7100,74500,0,'C Old Elm GO',1,11200,,'',1,174300,0,'C Old Elm GO',1,13300,0,'C Old Elm GO',1
