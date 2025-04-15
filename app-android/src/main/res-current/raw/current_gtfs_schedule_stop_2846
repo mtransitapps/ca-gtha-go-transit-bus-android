@@ -1,16 +1,3 @@
-'20250326',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250327',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250328',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250329',7000,105200,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
-'20250330',7000,105200,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19400,0,'B Uxbridge',1,20000,0,'B Uxbridge',1
-'20250331',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250401',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250402',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250403',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250404',7000,105300,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19200,0,'B Uxbridge',1,20600,0,'D Uxbridge',1,9700,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19700,0,'B Uxbridge',1
-'20250405',7000,104200,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19300,0,'B Uxbridge',1,20400,0,'B Uxbridge',1
-'20250406',7000,104200,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,19300,0,'B Uxbridge',1,20400,0,'B Uxbridge',1
-'20250407',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250408',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250409',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250410',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
@@ -92,19 +79,6 @@
 '20250625',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250626',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
 '20250627',7000,104200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1,20200,0,'D Uxbridge',1,19100,0,'B Uxbridge',1,22200,0,'D Uxbridge',1,8200,0,'D Uxbridge',1,10000,0,'D Uxbridge',1,20000,0,'D Uxbridge',1
-'20250326',7100,92300,,'',1
-'20250327',7100,92300,,'',1
-'20250328',7100,92300,,'',1
-'20250329',7100,90300,,'',1
-'20250330',7100,90300,,'',1
-'20250331',7100,92300,,'',1
-'20250401',7100,92300,,'',1
-'20250402',7100,92300,,'',1
-'20250403',7100,92300,,'',1
-'20250404',7100,92300,,'',1
-'20250405',7100,90300,,'',1
-'20250406',7100,90300,,'',1
-'20250407',7100,92300,,'',1
 '20250408',7100,92300,,'',1
 '20250409',7100,92300,,'',1
 '20250410',7100,92300,,'',1
