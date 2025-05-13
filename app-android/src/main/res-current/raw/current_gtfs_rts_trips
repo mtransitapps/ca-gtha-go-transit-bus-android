@@ -2,8 +2,8 @@
 1101,0,'Brock U',11
 1200,0,'Burlington Carpool',12
 1201,0,'Niagara Falls',12
-1501,0,'1st Nations',15
 1500,0,'Aldershot GO',15
+1501,0,'Sngr / Mcfn',15
 1601,0,'Hamilton GO',16
 1600,0,'Union Sta',16
 1701,0,'Hamilton GO',17
@@ -58,8 +58,8 @@
 6601,0,'Hwy 407',66
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
+6801,0,'Aurora GO',68
 6800,0,'Barrie',68
-6801,0,'Hwy 407',68
 7001,0,'Mt Joy GO',70
 7000,0,'Uxbridge',70
 7101,0,'Union Sta',71
