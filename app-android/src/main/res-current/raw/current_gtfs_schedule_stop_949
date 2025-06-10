@@ -1,25 +1,27 @@
-'20250531',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
-'20250601',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
-'20250607',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
-'20250608',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
 '20250614',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
 '20250615',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
 '20250621',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
 '20250622',1701,94200,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
-'20250526',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250527',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250528',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250529',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250530',1801,64100,0,'C Hamilton GO',1,199600,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
-'20250531',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
-'20250601',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
-'20250602',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250603',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250604',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250605',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
-'20250606',1801,64100,0,'C Hamilton GO',1,199600,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
-'20250607',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
-'20250608',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250628',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250629',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250701',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250705',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250706',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250712',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250713',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250719',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250720',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250726',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250727',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250802',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250803',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250804',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250809',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250810',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250816',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250817',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250823',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
+'20250824',1701,94800,0,'B Burlington GO',1,10000,0,'B Burlington GO',1,9900,0,'B Burlington GO',1,10000,0,'B Burlington GO',1
 '20250609',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
 '20250610',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
 '20250611',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
@@ -39,3 +41,66 @@
 '20250625',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
 '20250626',1801,64100,0,'C Hamilton GO',1,189600,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
 '20250627',1801,64100,0,'C Hamilton GO',1,199600,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250628',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250629',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250630',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250701',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250702',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250703',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250704',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250705',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250706',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250707',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250708',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250709',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250710',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250711',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250712',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250713',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250714',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250715',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250716',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250717',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250718',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250719',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250720',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250721',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250722',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250723',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250724',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250725',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250726',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250727',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250728',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250729',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250730',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250731',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250801',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250802',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250803',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250804',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250805',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250806',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250807',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250808',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250809',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250810',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250811',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250812',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250813',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250814',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250815',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250816',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250817',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250818',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250819',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250820',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250821',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250822',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
+'20250823',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,171300,0,'F Hamilton GO',1,9500,0,'F Hamilton GO',1
+'20250824',1801,75700,0,'J W Harbour GO',1,7500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,1700,0,'A W Harbour GO',1,169600,0,'J W Harbour GO',1,12500,0,'C Hamilton GO',1
+'20250825',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250826',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250827',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250828',1801,64200,0,'C Hamilton GO',1,189500,0,'F Hamilton GO',1,8000,0,'J W Harbour GO',1,12300,0,'C Hamilton GO',1
+'20250829',1801,64200,0,'C Hamilton GO',1,199500,0,'F Hamilton GO',1,10300,0,'C Hamilton GO',1
