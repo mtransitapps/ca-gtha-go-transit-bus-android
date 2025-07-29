@@ -1,27 +1,3 @@
-'20250716',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250716',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250717',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250717',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250718',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
-'20250718',9001,40800,0,'B Union Sta',1
-'20250719',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171000,0,'B Dc Oshawa GO',1,9000,0,'B Dc Oshawa GO',1
-'20250719',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
-'20250720',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250720',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163600,0,'B Union Sta',1
-'20250721',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250721',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250722',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250722',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250723',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250723',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250724',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250724',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250725',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
-'20250725',9001,40800,0,'B Union Sta',1
-'20250726',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171000,0,'B Dc Oshawa GO',1,9000,0,'B Dc Oshawa GO',1
-'20250726',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
-'20250727',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250727',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163600,0,'B Union Sta',1
 '20250728',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
 '20250728',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
 '20250729',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
@@ -62,56 +38,32 @@
 '20250815',9001,40800,0,'B Union Sta',1
 '20250816',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171000,0,'B Dc Oshawa GO',1,9000,0,'B Dc Oshawa GO',1
 '20250816',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
-'20250817',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250817',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163600,0,'B Union Sta',1
-'20250818',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250818',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250819',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250819',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250820',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250820',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250821',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250821',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20250817',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,180000,0,'B Dc Oshawa GO',1
+'20250817',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20250818',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250818',9001,40800,0,'B Union Sta',1
+'20250819',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250819',9001,40800,0,'B Union Sta',1
+'20250820',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250820',9001,40800,0,'B Union Sta',1
+'20250821',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250821',9001,40800,0,'B Union Sta',1
 '20250822',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
 '20250822',9001,40800,0,'B Union Sta',1
 '20250823',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,171000,0,'B Dc Oshawa GO',1,9000,0,'B Dc Oshawa GO',1
 '20250823',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
-'20250824',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,163500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250824',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1,163600,0,'B Union Sta',1
-'20250825',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250825',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250826',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250826',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250827',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250827',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
-'20250828',9000,62000,0,'B Dc Oshawa GO',1,192500,0,'B Dc Oshawa GO',1,16500,0,'B Dc Oshawa GO',1
-'20250828',9001,40800,0,'B Union Sta',1,194000,0,'B Union Sta',1
+'20250824',9000,63500,0,'B Dc Oshawa GO',1,10500,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,7000,0,'B Dc Oshawa GO',1,180000,0,'B Dc Oshawa GO',1
+'20250824',9001,44700,0,'B Union Sta',1,9500,0,'B Union Sta',1,7000,0,'B Union Sta',1,3000,0,'B Union Sta',1,7000,0,'B Union Sta',1
+'20250825',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250825',9001,40800,0,'B Union Sta',1
+'20250826',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250826',9001,40800,0,'B Union Sta',1
+'20250827',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250827',9001,40800,0,'B Union Sta',1
+'20250828',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
+'20250828',9001,40800,0,'B Union Sta',1
 '20250829',9000,62000,0,'B Dc Oshawa GO',1,209000,0,'B Dc Oshawa GO',1
 '20250829',9001,40800,0,'B Union Sta',1
-'20250716',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250716',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250717',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250717',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250718',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250718',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250719',9600,91000,0,'Z Dc Oshawa GO',1,21000,0,'Z Dc Oshawa GO',1,20500,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,9000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,20000,0,'Z Dc Oshawa GO',1,18500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1
-'20250719',9601,63800,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,9000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20000,0,'Z Finch',1,21000,0,'Z Finch',1,20000,0,'B Finch',1
-'20250720',9600,91000,0,'Z Dc Oshawa GO',1,21000,0,'Z Dc Oshawa GO',1,20500,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,9000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,20000,0,'Z Dc Oshawa GO',1,18500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1
-'20250720',9601,63800,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,9000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20000,0,'Z Finch',1,21000,0,'Z Finch',1,20000,0,'B Finch',1
-'20250721',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250721',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250722',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250722',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250723',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250723',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250724',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250724',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250725',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
-'20250725',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,7000,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
-'20250726',9600,91000,0,'Z Dc Oshawa GO',1,21000,0,'Z Dc Oshawa GO',1,20500,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,9000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,20000,0,'Z Dc Oshawa GO',1,18500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1
-'20250726',9601,63800,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,9000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20000,0,'Z Finch',1,21000,0,'Z Finch',1,20000,0,'B Finch',1
-'20250727',9600,91000,0,'Z Dc Oshawa GO',1,21000,0,'Z Dc Oshawa GO',1,20500,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,9000,0,'Z Dc Oshawa GO',1,10000,0,'Z Dc Oshawa GO',1,20000,0,'Z Dc Oshawa GO',1,18500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1
-'20250727',9601,63800,0,'B Finch',1,20000,0,'Z Finch',1,20000,0,'Z Finch',1,9000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,10000,0,'Z Finch',1,20000,0,'Z Finch',1,21000,0,'Z Finch',1,20000,0,'B Finch',1
 '20250728',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
 '20250728',9601,50800,0,'B Finch',1,3500,0,'B Finch',1,7000,0,'B Finch',1,2500,0,'B Finch',1,1500,0,'B Finch',1,5500,0,'B Finch',1,3000,0,'B Finch',1,10000,0,'B Finch',1,20000,0,'B Finch',1,20000,0,'B Finch',1,19500,0,'B Finch',1,9000,0,'B Finch',1,10500,0,'B Finch',1,10200,0,'B Finch',1,20900,0,'B Finch',1,29900,0,'B Finch',1
 '20250729',9600,70300,0,'B Dc Oshawa GO',1,5500,0,'B Dc Oshawa GO',1,14200,0,'B Dc Oshawa GO',1,3000,0,'B Dc Oshawa GO',1,2500,0,'B Dc Oshawa GO',1,14500,0,'B Dc Oshawa GO',1,20000,0,'B Dc Oshawa GO',1,20800,0,'B Dc Oshawa GO',1,11700,0,'B Dc Oshawa GO',1,10000,0,'B Dc Oshawa GO',1,2200,0,'B Dc Oshawa GO',1,7500,0,'B Dc Oshawa GO',1,2800,0,'B Dc Oshawa GO',1,6500,0,'B Dc Oshawa GO',1,8500,0,'B Dc Oshawa GO',1,15500,0,'B Dc Oshawa GO',1,30000,0,'B Dc Oshawa GO',1
