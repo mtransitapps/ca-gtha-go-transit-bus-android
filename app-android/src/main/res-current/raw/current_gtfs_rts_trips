@@ -30,6 +30,8 @@
 3201,0,'Trinity Common',32
 3301,0,'U Of Guelph',33
 3300,0,'York Mills',33
+3501,0,'Pearson Airport UP Express',35
+3500,0,'Union Sta UP Express',35
 3601,0,'Bramalea',36
 3600,0,'York Mills',36
 3701,0,'Brampton',37
@@ -58,8 +60,8 @@
 6601,0,'Hwy 407',66
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
+6801,0,'Aurora GO',68
 6800,0,'Barrie',68
-6801,0,'Hwy 407',68
 7001,0,'Unionville GO',70
 7000,0,'Uxbridge',70
 7101,0,'Union Sta',71
