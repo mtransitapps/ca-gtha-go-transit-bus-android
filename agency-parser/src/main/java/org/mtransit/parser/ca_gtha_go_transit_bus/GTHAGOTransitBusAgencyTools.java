@@ -4,13 +4,11 @@ import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 
 import java.util.List;
@@ -29,11 +27,6 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_EN_FR;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -152,7 +145,7 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -168,7 +161,7 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	private static final String SID_UN = "UN";
@@ -309,155 +302,155 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final int SCTH_SID = 100005;
 	private static final String SID_DW = "DW";
 	private static final int DW_SID = 100006;
+	private static final String SID_CF = "CF";
+	private static final int CF_SID = 100011;
 
 	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
-		final String stopId = gStop.getStopId();
-		if (!CharUtils.isDigitsOnly(stopId)) {
-			//noinspection IfCanBeSwitch
-			if (SID_UN.equals(stopId)) {
-				return UN_SID;
-			} else if (SID_EX.equals(stopId)) {
-				return EX_SID;
-			} else if (SID_MI.equals(stopId)) {
-				return MI_SID;
-			} else if (SID_LO.equals(stopId)) {
-				return LO_SID;
-			} else if (SID_DA.equals(stopId)) {
-				return DA_SID;
-			} else if (SID_SC.equals(stopId)) {
-				return SC_SID;
-			} else if (SID_EG.equals(stopId)) {
-				return EG_SID;
-			} else if (SID_GU.equals(stopId)) {
-				return GU_SID;
-			} else if (SID_RO.equals(stopId)) {
-				return RO_SID;
-			} else if (SID_PO.equals(stopId)) {
-				return PO_SID;
-			} else if (SID_CL.equals(stopId)) {
-				return CL_SID;
-			} else if (SID_OA.equals(stopId)) {
-				return OA_SID;
-			} else if (SID_BO.equals(stopId)) {
-				return BO_SID;
-			} else if (SID_AP.equals(stopId)) {
-				return AP_SID;
-			} else if (SID_BU.equals(stopId)) {
-				return BU_SID;
-			} else if (SID_AL.equals(stopId)) {
-				return AL_SID;
-			} else if (SID_PIN.equals(stopId)) {
-				return PIN_SID;
-			} else if (SID_AJ.equals(stopId)) {
-				return AJ_SID;
-			} else if (SID_WH.equals(stopId)) {
-				return WH_SID;
-			} else if (SID_OS.equals(stopId)) {
-				return OS_SID;
-			} else if (SID_BL.equals(stopId)) {
-				return BL_SID;
-			} else if (SID_KP.equals(stopId)) {
-				return KP_SID;
-			} else if (SID_WE.equals(stopId)) {
-				return WE_SID;
-			} else if (SID_ET.equals(stopId)) {
-				return ET_SID;
-			} else if (SID_OR.equals(stopId)) {
-				return OR_SID;
-			} else if (SID_OL.equals(stopId)) {
-				return OL_SID;
-			} else if (SID_AG.equals(stopId)) {
-				return AG_SID;
-			} else if (SID_DI.equals(stopId)) {
-				return DI_SID;
-			} else if (SID_CO.equals(stopId)) {
-				return CO_SID;
-			} else if (SID_ER.equals(stopId)) {
-				return ER_SID;
-			} else if (SID_HA.equals(stopId)) {
-				return HA_SID;
-			} else if (SID_YO.equals(stopId)) {
-				return YO_SID;
-			} else if (SID_SR.equals(stopId)) {
-				return SR_SID;
-			} else if (SID_ME.equals(stopId)) {
-				return ME_SID;
-			} else if (SID_LS.equals(stopId)) {
-				return LS_SID;
-			} else if (SID_ML.equals(stopId)) {
-				return ML_SID;
-			} else if (SID_KI.equals(stopId)) {
-				return KI_SID;
-			} else if (SID_MA.equals(stopId)) {
-				return MA_SID;
-			} else if (SID_BE.equals(stopId)) {
-				return BE_SID;
-			} else if (SID_BR.equals(stopId)) {
-				return BR_SID;
-			} else if (SID_MO.equals(stopId)) {
-				return MO_SID;
-			} else if (SID_GE.equals(stopId)) {
-				return GE_SID;
-			} else if (SID_AC.equals(stopId)) {
-				return AC_SID;
-			} else if (SID_GL.equals(stopId)) {
-				return GL_SID;
-			} else if (SID_EA.equals(stopId)) {
-				return EA_SID;
-			} else if (SID_LA.equals(stopId)) {
-				return LA_SID;
-			} else if (SID_RI.equals(stopId)) {
-				return RI_SID;
-			} else if (SID_MP.equals(stopId)) {
-				return MP_SID;
-			} else if (SID_RU.equals(stopId)) {
-				return RU_SID;
-			} else if (SID_KC.equals(stopId)) {
-				return KC_SID;
-			} else if (SID_AU.equals(stopId)) {
-				return AU_SID;
-			} else if (SID_NE.equals(stopId)) {
-				return NE_SID;
-			} else if (SID_BD.equals(stopId)) {
-				return BD_SID;
-			} else if (SID_BA.equals(stopId)) {
-				return BA_SID;
-			} else if (SID_AD.equals(stopId)) {
-				return AD_SID;
-			} else if (SID_MK.equals(stopId)) {
-				return MK_SID;
-			} else if (SID_UI.equals(stopId)) {
-				return UI_SID;
-			} else if (SID_MR.equals(stopId)) {
-				return MR_SID;
-			} else if (SID_CE.equals(stopId)) {
-				return CE_SID;
-			} else if (SID_MJ.equals(stopId)) {
-				return MJ_SID;
-			} else if (SID_ST.equals(stopId)) {
-				return ST_SID;
-			} else if (SID_LI.equals(stopId)) {
-				return LI_SID;
-			} else if (SID_KE.equals(stopId)) {
-				return KE_SID;
-			} else if (SID_JAMES_STR.equals(stopId)) {
-				return JAMES_STR_SID;
-			} else if (SID_USBT.equals(stopId)) {
-				return USBT_SID;
-			} else if (SID_NI.equals(stopId)) {
-				return NI_SID;
-			} else if (SID_PA.equals(stopId)) {
-				return PA_SID;
-			} else if (SID_SCTH.equals(stopId)) {
-				return SCTH_SID;
-			} else if (SID_DW.equals(stopId)) {
-				return DW_SID;
-			} else {
-				throw new MTLog.Fatal("Unexpected stop ID for " + gStop + "! (" + stopId + ")");
-			}
+	public @Nullable Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
+		final String stopId = stopCode.trim();
+		switch (stopId) {
+		case SID_UN:
+			return UN_SID;
+		case SID_EX:
+			return EX_SID;
+		case SID_MI:
+			return MI_SID;
+		case SID_LO:
+			return LO_SID;
+		case SID_DA:
+			return DA_SID;
+		case SID_SC:
+			return SC_SID;
+		case SID_EG:
+			return EG_SID;
+		case SID_GU:
+			return GU_SID;
+		case SID_RO:
+			return RO_SID;
+		case SID_PO:
+			return PO_SID;
+		case SID_CL:
+			return CL_SID;
+		case SID_OA:
+			return OA_SID;
+		case SID_BO:
+			return BO_SID;
+		case SID_AP:
+			return AP_SID;
+		case SID_BU:
+			return BU_SID;
+		case SID_AL:
+			return AL_SID;
+		case SID_PIN:
+			return PIN_SID;
+		case SID_AJ:
+			return AJ_SID;
+		case SID_WH:
+			return WH_SID;
+		case SID_OS:
+			return OS_SID;
+		case SID_BL:
+			return BL_SID;
+		case SID_KP:
+			return KP_SID;
+		case SID_WE:
+			return WE_SID;
+		case SID_ET:
+			return ET_SID;
+		case SID_OR:
+			return OR_SID;
+		case SID_OL:
+			return OL_SID;
+		case SID_AG:
+			return AG_SID;
+		case SID_DI:
+			return DI_SID;
+		case SID_CO:
+			return CO_SID;
+		case SID_ER:
+			return ER_SID;
+		case SID_HA:
+			return HA_SID;
+		case SID_YO:
+			return YO_SID;
+		case SID_SR:
+			return SR_SID;
+		case SID_ME:
+			return ME_SID;
+		case SID_LS:
+			return LS_SID;
+		case SID_ML:
+			return ML_SID;
+		case SID_KI:
+			return KI_SID;
+		case SID_MA:
+			return MA_SID;
+		case SID_BE:
+			return BE_SID;
+		case SID_BR:
+			return BR_SID;
+		case SID_MO:
+			return MO_SID;
+		case SID_GE:
+			return GE_SID;
+		case SID_AC:
+			return AC_SID;
+		case SID_GL:
+			return GL_SID;
+		case SID_EA:
+			return EA_SID;
+		case SID_LA:
+			return LA_SID;
+		case SID_RI:
+			return RI_SID;
+		case SID_MP:
+			return MP_SID;
+		case SID_RU:
+			return RU_SID;
+		case SID_KC:
+			return KC_SID;
+		case SID_AU:
+			return AU_SID;
+		case SID_NE:
+			return NE_SID;
+		case SID_BD:
+			return BD_SID;
+		case SID_BA:
+			return BA_SID;
+		case SID_AD:
+			return AD_SID;
+		case SID_MK:
+			return MK_SID;
+		case SID_UI:
+			return UI_SID;
+		case SID_MR:
+			return MR_SID;
+		case SID_CE:
+			return CE_SID;
+		case SID_MJ:
+			return MJ_SID;
+		case SID_ST:
+			return ST_SID;
+		case SID_LI:
+			return LI_SID;
+		case SID_KE:
+			return KE_SID;
+		case SID_JAMES_STR:
+			return JAMES_STR_SID;
+		case SID_USBT:
+			return USBT_SID;
+		case SID_NI:
+			return NI_SID;
+		case SID_PA:
+			return PA_SID;
+		case SID_SCTH:
+			return SCTH_SID;
+		case SID_DW:
+			return DW_SID;
+		case SID_CF:
+			return CF_SID;
+		default:
+			return super.convertStopIdFromCodeNotSupported(stopCode);
 		}
-		return super.getStopId(gStop);
 	}
 }
