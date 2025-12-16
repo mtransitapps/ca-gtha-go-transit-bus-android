@@ -30,8 +30,6 @@
 3201,0,'Trinity Common',32
 3301,0,'U Of Guelph',33
 3300,0,'York Mills',33
-3501,0,'Pearson Airport UP Express',35
-3500,0,'Union Sta UP Express',35
 3601,0,'Bramalea',36
 3600,0,'York Mills',36
 3701,0,'Brampton',37
@@ -39,7 +37,7 @@
 3800,0,'Bolton',38
 3801,0,'Malton GO',38
 4001,0,'Hamilton GO',40
-4000,0,'Richmond Hl Ctr',40
+4000,0,'Unionville GO',40
 4101,0,'Hamilton GO',41
 4100,0,'Pickering GO',41
 4701,0,'Hamilton GO',47
