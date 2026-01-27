@@ -1,218 +1,218 @@
-'20260106',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260106',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260107',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260107',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260108',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260108',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260109',1800,51000,0,'H Union Sta',1
-'20260109',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260110',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260110',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260111',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260111',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260112',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260112',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260113',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260113',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260114',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260114',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260115',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260115',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260116',1800,51000,0,'H Union Sta',1,191000,0,'H Union Sta',1
-'20260116',1801,55700,0,'C Hamilton GO',1,186300,4,'',1,3000,4,'',1,7000,4,'',1,3500,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260117',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,11200,0,'L Union Sta',1,3000,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5800,0,'L Union Sta',1,200,0,'L Union Sta',1,800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5700,0,'L Union Sta',1,1100,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,6800,0,'L Union Sta',1,3000,0,'L Union Sta',1,7200,0,'L Union Sta',1,400,0,'L Union Sta',1,2400,0,'L Union Sta',1,7000,0,'L Union Sta',1,3000,0,'L Union Sta',1,6000,0,'L Union Sta',1,1000,0,'L Union Sta',1
-'20260117',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8000,0,'L Oakville GO',1,400,0,'H Oakville GO',1,600,0,'L Oakville GO',1,1800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2600,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5100,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1500,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5000,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1700,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2400,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7000,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7300,0,'L Oakville GO',1,7100,0,'L Oakville GO',1,3300,0,'L Oakville GO',1,6700,0,'L Oakville GO',1,10800,4,'',1,10000,4,'',1
-'20260118',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,11200,0,'L Union Sta',1,3000,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5800,0,'L Union Sta',1,200,0,'L Union Sta',1,800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5700,0,'L Union Sta',1,1100,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,6800,0,'L Union Sta',1,3000,0,'L Union Sta',1,7200,0,'L Union Sta',1,400,0,'L Union Sta',1,2400,0,'L Union Sta',1,7000,0,'L Union Sta',1,3000,0,'L Union Sta',1,5600,0,'E Union Sta',1,400,0,'L Union Sta',1
-'20260118',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8000,0,'L Oakville GO',1,400,0,'H Oakville GO',1,600,0,'L Oakville GO',1,1800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2600,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5100,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1500,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5000,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1700,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2400,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7000,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7300,0,'L Oakville GO',1,7100,0,'L Oakville GO',1,3300,0,'L Oakville GO',1,10300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260119',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260119',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260120',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260120',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260121',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260121',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260122',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260122',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260123',1800,51000,0,'H Union Sta',1,191000,0,'H Union Sta',1
-'20260123',1801,55700,0,'C Hamilton GO',1,186300,4,'',1,3000,4,'',1,7000,4,'',1,3500,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260124',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,11200,0,'L Union Sta',1,3000,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5800,0,'L Union Sta',1,200,0,'L Union Sta',1,800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5700,0,'L Union Sta',1,1100,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,6800,0,'L Union Sta',1,3000,0,'L Union Sta',1,7200,0,'L Union Sta',1,400,0,'L Union Sta',1,2400,0,'L Union Sta',1,7000,0,'L Union Sta',1,3000,0,'L Union Sta',1,6000,0,'L Union Sta',1,1000,0,'L Union Sta',1
-'20260124',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8000,0,'L Oakville GO',1,400,0,'H Oakville GO',1,600,0,'L Oakville GO',1,1800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2600,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5100,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1500,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5000,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1700,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2400,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7000,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7300,0,'L Oakville GO',1,7100,0,'L Oakville GO',1,3300,0,'L Oakville GO',1,6700,0,'L Oakville GO',1,10800,4,'',1,10000,4,'',1
-'20260125',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,11200,0,'L Union Sta',1,3000,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,7000,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5800,0,'L Union Sta',1,200,0,'L Union Sta',1,800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,5700,0,'L Union Sta',1,1100,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,200,0,'L Union Sta',1,6800,0,'L Union Sta',1,200,0,'L Union Sta',1,2800,0,'L Union Sta',1,6800,0,'L Union Sta',1,3000,0,'L Union Sta',1,7200,0,'L Union Sta',1,400,0,'L Union Sta',1,2400,0,'L Union Sta',1,7000,0,'L Union Sta',1,3000,0,'L Union Sta',1,5600,0,'E Union Sta',1,400,0,'L Union Sta',1
-'20260125',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8000,0,'L Oakville GO',1,400,0,'H Oakville GO',1,600,0,'L Oakville GO',1,1800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2600,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5100,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1500,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,6800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,5000,0,'L Oakville GO',1,200,0,'L Oakville GO',1,1700,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2400,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,4200,0,'L Oakville GO',1,2800,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7000,0,'L Oakville GO',1,3000,0,'L Oakville GO',1,7300,0,'L Oakville GO',1,7100,0,'L Oakville GO',1,3300,0,'L Oakville GO',1,10300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260126',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260126',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260127',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260127',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260128',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260128',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260129',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260129',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260130',1800,51000,0,'H Union Sta',1
-'20260130',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260131',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260131',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260201',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260201',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260202',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260202',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260203',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260203',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260204',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260204',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260205',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260205',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260206',1800,51000,0,'H Union Sta',1
-'20260206',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260207',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260207',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260208',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260208',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260209',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260209',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260210',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260210',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260211',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260211',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260212',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260212',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260213',1800,51000,0,'H Union Sta',1
-'20260213',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260214',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260214',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260215',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260215',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260216',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260216',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260217',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260217',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260218',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260218',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260219',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260219',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260220',1800,51000,0,'H Union Sta',1
-'20260220',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260221',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260221',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260222',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260222',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260223',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260223',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260224',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260224',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260225',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260225',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260226',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260226',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260227',1800,51000,0,'H Union Sta',1
-'20260227',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260228',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260228',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260301',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260301',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260302',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260302',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260303',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260303',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260304',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260304',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260305',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260305',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260306',1800,51000,0,'H Union Sta',1
-'20260306',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260307',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260307',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260308',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260308',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260309',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260309',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260310',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260310',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260311',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260311',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260312',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260312',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260313',1800,51000,0,'H Union Sta',1
-'20260313',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260314',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260314',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260315',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260315',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260316',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260316',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260317',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260317',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260318',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260318',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260319',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260319',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260320',1800,51000,0,'H Union Sta',1
-'20260320',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260321',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260321',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260322',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260322',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260323',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260323',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260324',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260324',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260325',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260325',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260326',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260326',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260327',1800,51000,0,'H Union Sta',1
-'20260327',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260328',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260328',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260329',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260329',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260330',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260330',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260331',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260331',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260401',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260401',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260402',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260402',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260403',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260403',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260404',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260404',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260405',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260405',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260406',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260406',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260407',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260407',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260408',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260408',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260409',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260409',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260410',1800,51000,0,'H Union Sta',1
-'20260410',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260411',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260411',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260412',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260412',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260413',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260413',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260414',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260414',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260415',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260415',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260416',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260416',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260417',1800,51000,0,'H Union Sta',1
-'20260417',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
-'20260418',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1
-'20260418',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,170500,4,'',1,10000,4,'',1
-'20260419',1800,52000,0,'B Union Sta',1,9700,0,'J Union Sta',1,2800,0,'J Union Sta',1,6500,0,'J Union Sta',1,169800,0,'E Union Sta',1
-'20260419',1801,71600,0,'J W Harbour GO',1,3500,0,'J W Harbour GO',1,7000,0,'J W Harbour GO',1,8400,0,'H Oakville GO',1,163300,0,'J W Harbour GO',1,16700,0,'C Hamilton GO',1
-'20260420',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260420',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260421',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260421',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260422',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260422',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260423',1800,51000,0,'H Union Sta',1,180500,0,'E Union Sta',1,10000,0,'E Union Sta',1
-'20260423',1801,55700,0,'C Hamilton GO',1,189800,0,'H Oakville GO',1,8500,0,'J W Harbour GO',1,16500,0,'C Hamilton GO',1
-'20260424',1800,51000,0,'H Union Sta',1
-'20260424',1801,55700,0,'C Hamilton GO',1,199800,0,'H Oakville GO',1,15000,0,'C Hamilton GO',1
+1800,'20260106',510,,16742,0,52 29 30,1,1805,,16746,0,16 29 30,1,100,,16747,0,16 29 30,1
+1800,'20260107',510,,16749,0,52 29 30,1,1805,,16753,0,16 29 30,1,100,,16754,0,16 29 30,1
+1800,'20260108',510,,16756,0,52 29 30,1,1805,,16760,0,16 29 30,1,100,,16761,0,16 29 30,1
+1800,'20260109',510,,16763,0,52 29 30,1
+1800,'20260110',520,,16767,0,5 29 30,1,97,,16768,0,68 29 30,1,28,,16769,0,68 29 30,1,65,,16770,0,68 29 30,1
+1800,'20260111',520,,16779,0,5 29 30,1,97,,16780,0,68 29 30,1,28,,16781,0,68 29 30,1,65,,16782,0,68 29 30,1,1698,,16791,0,16 29 30,1
+1800,'20260112',510,,16793,0,52 29 30,1,1805,,16797,0,16 29 30,1,100,,16798,0,16 29 30,1
+1800,'20260113',510,,16800,0,52 29 30,1,1805,,16804,0,16 29 30,1,100,,16805,0,16 29 30,1
+1800,'20260114',510,,16807,0,52 29 30,1,1805,,16811,0,16 29 30,1,100,,16812,0,16 29 30,1
+1800,'20260115',510,,16814,0,52 29 30,1,1805,,16818,0,16 29 30,1,100,,16819,0,16 29 30,1
+1800,'20260116',510,,16821,0,52 29 30,1,1910,,16825,0,52 29 30,1
+1800,'20260117',520,,16826,0,5 29 30,1,97,,16827,0,68 29 30,1,28,,16828,0,68 29 30,1,65,,16829,0,68 29 30,1,112,,16832,0,46 29 30,1,30,,16834,0,46 29 30,1,70,,16836,0,46 29 30,1,2,,16837,0,46 29 30,1,28,,16840,0,46 29 30,1,2,,16841,0,46 29 30,1,70,,16843,0,46 29 30,1,2,,16844,0,46 29 30,1,28,,16846,0,46 29 30,1,2,,16847,0,46 29 30,1,68,,16849,0,46 29 30,1,2,,16850,0,46 29 30,1,28,,16852,0,46 29 30,1,2,,16853,0,46 29 30,1,68,,16855,0,46 29 30,1,2,,16856,0,46 29 30,1,28,,16859,0,46 29 30,1,2,,16860,0,46 29 30,1,68,,16862,0,46 29 30,1,2,,16863,0,46 29 30,1,28,,16865,0,46 29 30,1,2,,16866,0,46 29 30,1,58,,16868,0,46 29 30,1,2,,16869,0,46 29 30,1,8,,16871,0,46 29 30,1,2,,16872,0,46 29 30,1,28,,16875,0,46 29 30,1,2,,16876,0,46 29 30,1,68,,16878,0,46 29 30,1,2,,16879,0,46 29 30,1,28,,16881,0,46 29 30,1,2,,16882,0,46 29 30,1,68,,16885,0,46 29 30,1,2,,16886,0,46 29 30,1,28,,16888,0,46 29 30,1,2,,16889,0,46 29 30,1,68,,16892,0,46 29 30,1,2,,16893,0,46 29 30,1,28,,16895,0,46 29 30,1,2,,16896,0,46 29 30,1,57,,16898,0,46 29 30,1,11,,16900,0,46 29 30,1,2,,16901,0,46 29 30,1,28,,16903,0,46 29 30,1,2,,16904,0,46 29 30,1,68,,16906,0,46 29 30,1,2,,16907,0,46 29 30,1,28,,16910,0,46 29 30,1,2,,16911,0,46 29 30,1,68,,16913,0,46 29 30,1,2,,16914,0,46 29 30,1,28,,16916,0,46 29 30,1,68,,16919,0,46 29 30,1,30,,16921,0,46 29 30,1,72,,16923,0,46 29 30,1,4,,16925,0,46 29 30,1,24,,16927,0,46 29 30,1,70,,16929,0,46 29 30,1,30,,16934,0,46 29 30,1,60,,16932,0,46 29 30,1,10,,16936,0,46 29 30,1
+1800,'20260118',520,,16937,0,5 29 30,1,97,,16938,0,68 29 30,1,28,,16939,0,68 29 30,1,65,,16940,0,68 29 30,1,112,,16943,0,46 29 30,1,30,,16945,0,46 29 30,1,70,,16947,0,46 29 30,1,2,,16948,0,46 29 30,1,28,,16951,0,46 29 30,1,2,,16952,0,46 29 30,1,70,,16954,0,46 29 30,1,2,,16955,0,46 29 30,1,28,,16957,0,46 29 30,1,2,,16958,0,46 29 30,1,68,,16960,0,46 29 30,1,2,,16961,0,46 29 30,1,28,,16963,0,46 29 30,1,2,,16964,0,46 29 30,1,68,,16966,0,46 29 30,1,2,,16967,0,46 29 30,1,28,,16970,0,46 29 30,1,2,,16971,0,46 29 30,1,68,,16973,0,46 29 30,1,2,,16974,0,46 29 30,1,28,,16976,0,46 29 30,1,2,,16977,0,46 29 30,1,58,,16979,0,46 29 30,1,2,,16980,0,46 29 30,1,8,,16982,0,46 29 30,1,2,,16983,0,46 29 30,1,28,,16986,0,46 29 30,1,2,,16987,0,46 29 30,1,68,,16989,0,46 29 30,1,2,,16990,0,46 29 30,1,28,,16992,0,46 29 30,1,2,,16993,0,46 29 30,1,68,,16996,0,46 29 30,1,2,,16997,0,46 29 30,1,28,,16999,0,46 29 30,1,2,,17000,0,46 29 30,1,68,,17003,0,46 29 30,1,2,,17004,0,46 29 30,1,28,,17006,0,46 29 30,1,2,,17007,0,46 29 30,1,57,,17009,0,46 29 30,1,11,,17011,0,46 29 30,1,2,,17012,0,46 29 30,1,28,,17014,0,46 29 30,1,2,,17015,0,46 29 30,1,68,,17017,0,46 29 30,1,2,,17018,0,46 29 30,1,28,,17021,0,46 29 30,1,2,,17022,0,46 29 30,1,68,,17024,0,46 29 30,1,2,,17025,0,46 29 30,1,28,,17027,0,46 29 30,1,68,,17030,0,46 29 30,1,30,,17032,0,46 29 30,1,72,,17034,0,46 29 30,1,4,,17036,0,46 29 30,1,24,,17038,0,46 29 30,1,70,,17040,0,46 29 30,1,30,,17045,0,46 29 30,1,56,,17046,0,16 29 30,1,4,,17043,0,46 29 30,1
+1800,'20260119',510,,17048,0,52 29 30,1,1805,,17052,0,16 29 30,1,100,,17053,0,16 29 30,1
+1800,'20260120',510,,17055,0,52 29 30,1,1805,,17059,0,16 29 30,1,100,,17060,0,16 29 30,1
+1800,'20260121',510,,17062,0,52 29 30,1,1805,,17066,0,16 29 30,1,100,,17067,0,16 29 30,1
+1800,'20260122',510,,17069,0,52 29 30,1,1805,,17073,0,16 29 30,1,100,,17074,0,16 29 30,1
+1800,'20260123',510,,17076,0,52 29 30,1,1910,,17080,0,52 29 30,1
+1800,'20260124',520,,17081,0,5 29 30,1,97,,17082,0,68 29 30,1,28,,17083,0,68 29 30,1,65,,17084,0,68 29 30,1,112,,17087,0,46 29 30,1,30,,17089,0,46 29 30,1,70,,17091,0,46 29 30,1,2,,17092,0,46 29 30,1,28,,17095,0,46 29 30,1,2,,17096,0,46 29 30,1,70,,17098,0,46 29 30,1,2,,17099,0,46 29 30,1,28,,17101,0,46 29 30,1,2,,17102,0,46 29 30,1,68,,17104,0,46 29 30,1,2,,17105,0,46 29 30,1,28,,17107,0,46 29 30,1,2,,17108,0,46 29 30,1,68,,17110,0,46 29 30,1,2,,17111,0,46 29 30,1,28,,17114,0,46 29 30,1,2,,17115,0,46 29 30,1,68,,17117,0,46 29 30,1,2,,17118,0,46 29 30,1,28,,17120,0,46 29 30,1,2,,17121,0,46 29 30,1,58,,17123,0,46 29 30,1,2,,17124,0,46 29 30,1,8,,17126,0,46 29 30,1,2,,17127,0,46 29 30,1,28,,17130,0,46 29 30,1,2,,17131,0,46 29 30,1,68,,17133,0,46 29 30,1,2,,17134,0,46 29 30,1,28,,17136,0,46 29 30,1,2,,17137,0,46 29 30,1,68,,17140,0,46 29 30,1,2,,17141,0,46 29 30,1,28,,17143,0,46 29 30,1,2,,17144,0,46 29 30,1,68,,17147,0,46 29 30,1,2,,17148,0,46 29 30,1,28,,17150,0,46 29 30,1,2,,17151,0,46 29 30,1,57,,17153,0,46 29 30,1,11,,17155,0,46 29 30,1,2,,17156,0,46 29 30,1,28,,17158,0,46 29 30,1,2,,17159,0,46 29 30,1,68,,17161,0,46 29 30,1,2,,17162,0,46 29 30,1,28,,17165,0,46 29 30,1,2,,17166,0,46 29 30,1,68,,17168,0,46 29 30,1,2,,17169,0,46 29 30,1,28,,17171,0,46 29 30,1,68,,17174,0,46 29 30,1,30,,17176,0,46 29 30,1,72,,17178,0,46 29 30,1,4,,17180,0,46 29 30,1,24,,17182,0,46 29 30,1,70,,17184,0,46 29 30,1,30,,17189,0,46 29 30,1,60,,17187,0,46 29 30,1,10,,17191,0,46 29 30,1
+1800,'20260125',520,,17192,0,5 29 30,1,97,,17193,0,68 29 30,1,28,,17194,0,68 29 30,1,65,,17195,0,68 29 30,1,112,,17198,0,46 29 30,1,30,,17200,0,46 29 30,1,70,,17202,0,46 29 30,1,2,,17203,0,46 29 30,1,28,,17206,0,46 29 30,1,2,,17207,0,46 29 30,1,70,,17209,0,46 29 30,1,2,,17210,0,46 29 30,1,28,,17212,0,46 29 30,1,2,,17213,0,46 29 30,1,68,,17215,0,46 29 30,1,2,,17216,0,46 29 30,1,28,,17218,0,46 29 30,1,2,,17219,0,46 29 30,1,68,,17221,0,46 29 30,1,2,,17222,0,46 29 30,1,28,,17225,0,46 29 30,1,2,,17226,0,46 29 30,1,68,,17228,0,46 29 30,1,2,,17229,0,46 29 30,1,28,,17231,0,46 29 30,1,2,,17232,0,46 29 30,1,58,,17234,0,46 29 30,1,2,,17235,0,46 29 30,1,8,,17237,0,46 29 30,1,2,,17238,0,46 29 30,1,28,,17241,0,46 29 30,1,2,,17242,0,46 29 30,1,68,,17244,0,46 29 30,1,2,,17245,0,46 29 30,1,28,,17247,0,46 29 30,1,2,,17248,0,46 29 30,1,68,,17251,0,46 29 30,1,2,,17252,0,46 29 30,1,28,,17254,0,46 29 30,1,2,,17255,0,46 29 30,1,68,,17258,0,46 29 30,1,2,,17259,0,46 29 30,1,28,,17261,0,46 29 30,1,2,,17262,0,46 29 30,1,57,,17264,0,46 29 30,1,11,,17266,0,46 29 30,1,2,,17267,0,46 29 30,1,28,,17269,0,46 29 30,1,2,,17270,0,46 29 30,1,68,,17272,0,46 29 30,1,2,,17273,0,46 29 30,1,28,,17276,0,46 29 30,1,2,,17277,0,46 29 30,1,68,,17279,0,46 29 30,1,2,,17280,0,46 29 30,1,28,,17282,0,46 29 30,1,68,,17285,0,46 29 30,1,30,,17287,0,46 29 30,1,72,,17289,0,46 29 30,1,4,,17291,0,46 29 30,1,24,,17293,0,46 29 30,1,70,,17295,0,46 29 30,1,30,,17300,0,46 29 30,1,56,,17301,0,16 29 30,1,4,,17298,0,46 29 30,1
+1800,'20260126',510,,17303,0,52 29 30,1,1805,,17307,0,16 29 30,1,100,,17308,0,16 29 30,1
+1800,'20260127',510,,17310,0,52 29 30,1,1805,,17314,0,16 29 30,1,100,,17315,0,16 29 30,1
+1800,'20260128',510,,17317,0,52 29 30,1,1805,,17321,0,16 29 30,1,100,,17322,0,16 29 30,1
+1800,'20260129',510,,17324,0,52 29 30,1,1805,,17328,0,16 29 30,1,100,,17329,0,16 29 30,1
+1800,'20260130',510,,17331,0,52 29 30,1
+1800,'20260131',520,,17335,0,5 29 30,1,97,,17336,0,68 29 30,1,28,,17337,0,68 29 30,1,65,,17338,0,68 29 30,1
+1800,'20260201',520,,17347,0,5 29 30,1,97,,17348,0,68 29 30,1,28,,17349,0,68 29 30,1,65,,17350,0,68 29 30,1,1698,,17359,0,16 29 30,1
+1800,'20260202',510,,17361,0,52 29 30,1,1805,,17365,0,16 29 30,1,100,,17366,0,16 29 30,1
+1800,'20260203',510,,17368,0,52 29 30,1,1805,,17372,0,16 29 30,1,100,,17373,0,16 29 30,1
+1800,'20260204',510,,17375,0,52 29 30,1,1805,,17379,0,16 29 30,1,100,,17380,0,16 29 30,1
+1800,'20260205',510,,17382,0,52 29 30,1,1805,,17386,0,16 29 30,1,100,,17387,0,16 29 30,1
+1800,'20260206',510,,17389,0,52 29 30,1
+1800,'20260207',520,,17393,0,5 29 30,1,97,,17394,0,68 29 30,1,28,,17395,0,68 29 30,1,65,,17396,0,68 29 30,1
+1800,'20260208',520,,17405,0,5 29 30,1,97,,17406,0,68 29 30,1,28,,17407,0,68 29 30,1,65,,17408,0,68 29 30,1,1698,,17417,0,16 29 30,1
+1800,'20260209',510,,17419,0,52 29 30,1,1805,,17423,0,16 29 30,1,100,,17424,0,16 29 30,1
+1800,'20260210',510,,17426,0,52 29 30,1,1805,,17430,0,16 29 30,1,100,,17431,0,16 29 30,1
+1800,'20260211',510,,17433,0,52 29 30,1,1805,,17437,0,16 29 30,1,100,,17438,0,16 29 30,1
+1800,'20260212',510,,17440,0,52 29 30,1,1805,,17444,0,16 29 30,1,100,,17445,0,16 29 30,1
+1800,'20260213',510,,17447,0,52 29 30,1
+1800,'20260214',520,,17451,0,5 29 30,1,97,,17452,0,68 29 30,1,28,,17453,0,68 29 30,1,65,,17454,0,68 29 30,1
+1800,'20260215',520,,17463,0,5 29 30,1,97,,17464,0,68 29 30,1,28,,17465,0,68 29 30,1,65,,17466,0,68 29 30,1,1698,,17475,0,16 29 30,1
+1800,'20260216',520,,17476,0,5 29 30,1,97,,17477,0,68 29 30,1,28,,17478,0,68 29 30,1,65,,17479,0,68 29 30,1
+1800,'20260217',510,,17489,0,52 29 30,1,1805,,17493,0,16 29 30,1,100,,17494,0,16 29 30,1
+1800,'20260218',510,,17496,0,52 29 30,1,1805,,17500,0,16 29 30,1,100,,17501,0,16 29 30,1
+1800,'20260219',510,,17503,0,52 29 30,1,1805,,17507,0,16 29 30,1,100,,17508,0,16 29 30,1
+1800,'20260220',510,,17510,0,52 29 30,1
+1800,'20260221',520,,17514,0,5 29 30,1,97,,17515,0,68 29 30,1,28,,17516,0,68 29 30,1,65,,17517,0,68 29 30,1
+1800,'20260222',520,,17526,0,5 29 30,1,97,,17527,0,68 29 30,1,28,,17528,0,68 29 30,1,65,,17529,0,68 29 30,1,1698,,17538,0,16 29 30,1
+1800,'20260223',510,,17540,0,52 29 30,1,1805,,17544,0,16 29 30,1,100,,17545,0,16 29 30,1
+1800,'20260224',510,,17547,0,52 29 30,1,1805,,17551,0,16 29 30,1,100,,17552,0,16 29 30,1
+1800,'20260225',510,,17554,0,52 29 30,1,1805,,17558,0,16 29 30,1,100,,17559,0,16 29 30,1
+1800,'20260226',510,,17561,0,52 29 30,1,1805,,17565,0,16 29 30,1,100,,17566,0,16 29 30,1
+1800,'20260227',510,,17568,0,52 29 30,1
+1800,'20260228',520,,17572,0,5 29 30,1,97,,17573,0,68 29 30,1,28,,17574,0,68 29 30,1,65,,17575,0,68 29 30,1
+1800,'20260301',520,,17584,0,5 29 30,1,97,,17585,0,68 29 30,1,28,,17586,0,68 29 30,1,65,,17587,0,68 29 30,1,1698,,17596,0,16 29 30,1
+1800,'20260302',510,,17598,0,52 29 30,1,1805,,17602,0,16 29 30,1,100,,17603,0,16 29 30,1
+1800,'20260303',510,,17605,0,52 29 30,1,1805,,17609,0,16 29 30,1,100,,17610,0,16 29 30,1
+1800,'20260304',510,,17612,0,52 29 30,1,1805,,17616,0,16 29 30,1,100,,17617,0,16 29 30,1
+1800,'20260305',510,,17619,0,52 29 30,1,1805,,17623,0,16 29 30,1,100,,17624,0,16 29 30,1
+1800,'20260306',510,,17626,0,52 29 30,1
+1800,'20260307',520,,17630,0,5 29 30,1,97,,17631,0,68 29 30,1,28,,17632,0,68 29 30,1,65,,17633,0,68 29 30,1
+1800,'20260308',520,,17642,0,5 29 30,1,97,,17643,0,68 29 30,1,28,,17644,0,68 29 30,1,65,,17645,0,68 29 30,1,1698,,17654,0,16 29 30,1
+1800,'20260309',510,,17656,0,52 29 30,1,1805,,17660,0,16 29 30,1,100,,17661,0,16 29 30,1
+1800,'20260310',510,,17663,0,52 29 30,1,1805,,17667,0,16 29 30,1,100,,17668,0,16 29 30,1
+1800,'20260311',510,,17670,0,52 29 30,1,1805,,17674,0,16 29 30,1,100,,17675,0,16 29 30,1
+1800,'20260312',510,,17677,0,52 29 30,1,1805,,17681,0,16 29 30,1,100,,17682,0,16 29 30,1
+1800,'20260313',510,,17684,0,52 29 30,1
+1800,'20260314',520,,17688,0,5 29 30,1,97,,17689,0,68 29 30,1,28,,17690,0,68 29 30,1,65,,17691,0,68 29 30,1
+1800,'20260315',520,,17700,0,5 29 30,1,97,,17701,0,68 29 30,1,28,,17702,0,68 29 30,1,65,,17703,0,68 29 30,1,1698,,17712,0,16 29 30,1
+1800,'20260316',510,,17714,0,52 29 30,1,1805,,17718,0,16 29 30,1,100,,17719,0,16 29 30,1
+1800,'20260317',510,,17721,0,52 29 30,1,1805,,17725,0,16 29 30,1,100,,17726,0,16 29 30,1
+1800,'20260318',510,,17728,0,52 29 30,1,1805,,17732,0,16 29 30,1,100,,17733,0,16 29 30,1
+1800,'20260319',510,,17735,0,52 29 30,1,1805,,17739,0,16 29 30,1,100,,17740,0,16 29 30,1
+1800,'20260320',510,,17742,0,52 29 30,1
+1800,'20260321',520,,17746,0,5 29 30,1,97,,17747,0,68 29 30,1,28,,17748,0,68 29 30,1,65,,17749,0,68 29 30,1
+1800,'20260322',520,,17758,0,5 29 30,1,97,,17759,0,68 29 30,1,28,,17760,0,68 29 30,1,65,,17761,0,68 29 30,1,1698,,17770,0,16 29 30,1
+1800,'20260323',510,,17772,0,52 29 30,1,1805,,17776,0,16 29 30,1,100,,17777,0,16 29 30,1
+1800,'20260324',510,,17779,0,52 29 30,1,1805,,17783,0,16 29 30,1,100,,17784,0,16 29 30,1
+1800,'20260325',510,,17786,0,52 29 30,1,1805,,17790,0,16 29 30,1,100,,17791,0,16 29 30,1
+1800,'20260326',510,,17793,0,52 29 30,1,1805,,17797,0,16 29 30,1,100,,17798,0,16 29 30,1
+1800,'20260327',510,,17800,0,52 29 30,1
+1800,'20260328',520,,17804,0,5 29 30,1,97,,17805,0,68 29 30,1,28,,17806,0,68 29 30,1,65,,17807,0,68 29 30,1
+1800,'20260329',520,,17816,0,5 29 30,1,97,,17817,0,68 29 30,1,28,,17818,0,68 29 30,1,65,,17819,0,68 29 30,1,1698,,17828,0,16 29 30,1
+1800,'20260330',510,,17830,0,52 29 30,1,1805,,17834,0,16 29 30,1,100,,17835,0,16 29 30,1
+1800,'20260331',510,,17837,0,52 29 30,1,1805,,17841,0,16 29 30,1,100,,17842,0,16 29 30,1
+1800,'20260401',510,,17844,0,52 29 30,1,1805,,17848,0,16 29 30,1,100,,17849,0,16 29 30,1
+1800,'20260402',510,,17851,0,52 29 30,1,1805,,17855,0,16 29 30,1,100,,17856,0,16 29 30,1
+1800,'20260403',520,,17857,0,5 29 30,1,97,,17858,0,68 29 30,1,28,,17859,0,68 29 30,1,65,,17860,0,68 29 30,1
+1800,'20260404',520,,17869,0,5 29 30,1,97,,17870,0,68 29 30,1,28,,17871,0,68 29 30,1,65,,17872,0,68 29 30,1
+1800,'20260405',520,,17881,0,5 29 30,1,97,,17882,0,68 29 30,1,28,,17883,0,68 29 30,1,65,,17884,0,68 29 30,1,1698,,17893,0,16 29 30,1
+1800,'20260406',510,,17895,0,52 29 30,1,1805,,17899,0,16 29 30,1,100,,17900,0,16 29 30,1
+1800,'20260407',510,,17902,0,52 29 30,1,1805,,17906,0,16 29 30,1,100,,17907,0,16 29 30,1
+1800,'20260408',510,,17909,0,52 29 30,1,1805,,17913,0,16 29 30,1,100,,17914,0,16 29 30,1
+1800,'20260409',510,,17916,0,52 29 30,1,1805,,17920,0,16 29 30,1,100,,17921,0,16 29 30,1
+1800,'20260410',510,,17923,0,52 29 30,1
+1800,'20260411',520,,17927,0,5 29 30,1,97,,17928,0,68 29 30,1,28,,17929,0,68 29 30,1,65,,17930,0,68 29 30,1
+1800,'20260412',520,,17939,0,5 29 30,1,97,,17940,0,68 29 30,1,28,,17941,0,68 29 30,1,65,,17942,0,68 29 30,1,1698,,17951,0,16 29 30,1
+1800,'20260413',510,,17953,0,52 29 30,1,1805,,17957,0,16 29 30,1,100,,17958,0,16 29 30,1
+1800,'20260414',510,,17960,0,52 29 30,1,1805,,17964,0,16 29 30,1,100,,17965,0,16 29 30,1
+1800,'20260415',510,,17967,0,52 29 30,1,1805,,17971,0,16 29 30,1,100,,17972,0,16 29 30,1
+1800,'20260416',510,,17974,0,52 29 30,1,1805,,17978,0,16 29 30,1,100,,17979,0,16 29 30,1
+1800,'20260417',510,,17981,0,52 29 30,1
+1800,'20260418',520,,17985,0,5 29 30,1,97,,17986,0,68 29 30,1,28,,17987,0,68 29 30,1,65,,17988,0,68 29 30,1
+1800,'20260419',520,,17997,0,5 29 30,1,97,,17998,0,68 29 30,1,28,,17999,0,68 29 30,1,65,,18000,0,68 29 30,1,1698,,18009,0,16 29 30,1
+1800,'20260420',510,,18011,0,52 29 30,1,1805,,18015,0,16 29 30,1,100,,18016,0,16 29 30,1
+1800,'20260421',510,,18018,0,52 29 30,1,1805,,18022,0,16 29 30,1,100,,18023,0,16 29 30,1
+1800,'20260422',510,,18025,0,52 29 30,1,1805,,18029,0,16 29 30,1,100,,18030,0,16 29 30,1
+1800,'20260423',510,,18032,0,52 29 30,1,1805,,18036,0,16 29 30,1,100,,18037,0,16 29 30,1
+1800,'20260424',510,,18039,0,52 29 30,1
+1801,'20260106',557,,18043,0,31 38 9,1,1898,,18050,0,52 56 9,1,85,,18053,0,68 70 71 9,1,165,,18054,0,31 38 9,1
+1801,'20260107',557,,18055,0,31 38 9,1,1898,,18062,0,52 56 9,1,85,,18065,0,68 70 71 9,1,165,,18066,0,31 38 9,1
+1801,'20260108',557,,18067,0,31 38 9,1,1898,,18074,0,52 56 9,1,85,,18077,0,68 70 71 9,1,165,,18078,0,31 38 9,1
+1801,'20260109',557,,18079,0,31 38 9,1,1998,,18087,0,52 56 9,1,150,,18089,0,31 38 9,1
+1801,'20260110',716,,18090,0,68 70 71 9,1,35,,18091,0,68 70 71 9,1,70,,18092,0,68 70 71 9,1,84,,18094,0,52 56 9,1,1705,,18104,4,,1,100,,18106,4,,1
+1801,'20260111',716,,18108,0,68 70 71 9,1,35,,18109,0,68 70 71 9,1,70,,18110,0,68 70 71 9,1,84,,18112,0,52 56 9,1,1633,,18122,0,68 70 71 9,1,167,,18123,0,31 38 9,1
+1801,'20260112',557,,18124,0,31 38 9,1,1898,,18131,0,52 56 9,1,85,,18134,0,68 70 71 9,1,165,,18135,0,31 38 9,1
+1801,'20260113',557,,18136,0,31 38 9,1,1898,,18143,0,52 56 9,1,85,,18146,0,68 70 71 9,1,165,,18147,0,31 38 9,1
+1801,'20260114',557,,18148,0,31 38 9,1,1898,,18155,0,52 56 9,1,85,,18158,0,68 70 71 9,1,165,,18159,0,31 38 9,1
+1801,'20260115',557,,18160,0,31 38 9,1,1898,,18167,0,52 56 9,1,85,,18170,0,68 70 71 9,1,165,,18171,0,31 38 9,1
+1801,'20260116',557,,18172,0,31 38 9,1,1863,,18180,4,,1,30,,18184,4,,1,70,,18188,4,,1,35,,18191,0,52 56 9,1,150,,18193,0,31 38 9,1
+1801,'20260117',716,,18194,0,68 70 71 9,1,35,,18195,0,68 70 71 9,1,70,,18196,0,68 70 71 9,1,80,,18200,0,46 56 9,1,4,,18198,0,52 56 9,1,6,,18202,0,46 56 9,1,18,,18204,0,46 56 9,1,30,,18207,0,46 56 9,1,42,,18208,0,46 56 9,1,28,,18210,0,46 56 9,1,2,,18211,0,46 56 9,1,26,,18213,0,46 56 9,1,2,,18214,0,46 56 9,1,51,,18216,0,46 56 9,1,2,,18217,0,46 56 9,1,15,,18219,0,46 56 9,1,2,,18220,0,46 56 9,1,28,,18223,0,46 56 9,1,2,,18224,0,46 56 9,1,68,,18226,0,46 56 9,1,2,,18227,0,46 56 9,1,28,,18229,0,46 56 9,1,2,,18230,0,46 56 9,1,68,,18232,0,46 56 9,1,2,,18233,0,46 56 9,1,28,,18235,0,46 56 9,1,2,,18236,0,46 56 9,1,68,,18238,0,46 56 9,1,2,,18239,0,46 56 9,1,28,,18241,0,46 56 9,1,2,,18242,0,46 56 9,1,68,,18244,0,46 56 9,1,2,,18245,0,46 56 9,1,28,,18247,0,46 56 9,1,2,,18248,0,46 56 9,1,68,,18251,0,46 56 9,1,2,,18252,0,46 56 9,1,28,,18254,0,46 56 9,1,2,,18255,0,46 56 9,1,50,,18257,0,46 56 9,1,2,,18258,0,46 56 9,1,17,,18260,0,46 56 9,1,2,,18261,0,46 56 9,1,28,,18263,0,46 56 9,1,42,,18264,0,46 56 9,1,28,,18266,0,46 56 9,1,2,,18267,0,46 56 9,1,28,,18270,0,46 56 9,1,42,,18271,0,46 56 9,1,24,,18276,0,46 56 9,1,2,,18277,0,46 56 9,1,2,,18273,0,46 56 9,1,2,,18274,0,46 56 9,1,28,,18279,0,46 56 9,1,42,,18280,0,46 56 9,1,28,,18282,0,46 56 9,1,2,,18283,0,46 56 9,1,28,,18285,0,46 56 9,1,42,,18286,0,46 56 9,1,28,,18288,0,46 56 9,1,30,,18291,0,46 56 9,1,70,,18293,0,46 56 9,1,30,,18295,0,46 56 9,1,73,,18297,0,46 56 9,1,71,,18299,0,46 56 9,1,33,,18302,0,46 56 9,1,67,,18304,0,46 56 9,1,108,,18308,4,,1,100,,18310,4,,1
+1801,'20260118',716,,18312,0,68 70 71 9,1,35,,18313,0,68 70 71 9,1,70,,18314,0,68 70 71 9,1,80,,18318,0,46 56 9,1,4,,18316,0,52 56 9,1,6,,18320,0,46 56 9,1,18,,18322,0,46 56 9,1,30,,18325,0,46 56 9,1,42,,18326,0,46 56 9,1,28,,18328,0,46 56 9,1,2,,18329,0,46 56 9,1,26,,18331,0,46 56 9,1,2,,18332,0,46 56 9,1,51,,18334,0,46 56 9,1,2,,18335,0,46 56 9,1,15,,18337,0,46 56 9,1,2,,18338,0,46 56 9,1,28,,18341,0,46 56 9,1,2,,18342,0,46 56 9,1,68,,18344,0,46 56 9,1,2,,18345,0,46 56 9,1,28,,18347,0,46 56 9,1,2,,18348,0,46 56 9,1,68,,18350,0,46 56 9,1,2,,18351,0,46 56 9,1,28,,18353,0,46 56 9,1,2,,18354,0,46 56 9,1,68,,18356,0,46 56 9,1,2,,18357,0,46 56 9,1,28,,18359,0,46 56 9,1,2,,18360,0,46 56 9,1,68,,18362,0,46 56 9,1,2,,18363,0,46 56 9,1,28,,18365,0,46 56 9,1,2,,18366,0,46 56 9,1,68,,18369,0,46 56 9,1,2,,18370,0,46 56 9,1,28,,18372,0,46 56 9,1,2,,18373,0,46 56 9,1,50,,18375,0,46 56 9,1,2,,18376,0,46 56 9,1,17,,18378,0,46 56 9,1,2,,18379,0,46 56 9,1,28,,18381,0,46 56 9,1,42,,18382,0,46 56 9,1,28,,18384,0,46 56 9,1,2,,18385,0,46 56 9,1,28,,18388,0,46 56 9,1,42,,18389,0,46 56 9,1,24,,18394,0,46 56 9,1,2,,18395,0,46 56 9,1,2,,18391,0,46 56 9,1,2,,18392,0,46 56 9,1,28,,18397,0,46 56 9,1,42,,18398,0,46 56 9,1,28,,18400,0,46 56 9,1,2,,18401,0,46 56 9,1,28,,18403,0,46 56 9,1,42,,18404,0,46 56 9,1,28,,18406,0,46 56 9,1,30,,18409,0,46 56 9,1,70,,18411,0,46 56 9,1,30,,18413,0,46 56 9,1,73,,18415,0,46 56 9,1,71,,18417,0,46 56 9,1,33,,18420,0,46 56 9,1,103,,18424,0,68 70 71 9,1,167,,18425,0,31 38 9,1
+1801,'20260119',557,,18426,0,31 38 9,1,1898,,18433,0,52 56 9,1,85,,18436,0,68 70 71 9,1,165,,18437,0,31 38 9,1
+1801,'20260120',557,,18438,0,31 38 9,1,1898,,18445,0,52 56 9,1,85,,18448,0,68 70 71 9,1,165,,18449,0,31 38 9,1
+1801,'20260121',557,,18450,0,31 38 9,1,1898,,18457,0,52 56 9,1,85,,18460,0,68 70 71 9,1,165,,18461,0,31 38 9,1
+1801,'20260122',557,,18462,0,31 38 9,1,1898,,18469,0,52 56 9,1,85,,18472,0,68 70 71 9,1,165,,18473,0,31 38 9,1
+1801,'20260123',557,,18474,0,31 38 9,1,1863,,18482,4,,1,30,,18486,4,,1,70,,18490,4,,1,35,,18493,0,52 56 9,1,150,,18495,0,31 38 9,1
+1801,'20260124',716,,18496,0,68 70 71 9,1,35,,18497,0,68 70 71 9,1,70,,18498,0,68 70 71 9,1,80,,18502,0,46 56 9,1,4,,18500,0,52 56 9,1,6,,18504,0,46 56 9,1,18,,18506,0,46 56 9,1,30,,18509,0,46 56 9,1,42,,18510,0,46 56 9,1,28,,18512,0,46 56 9,1,2,,18513,0,46 56 9,1,26,,18515,0,46 56 9,1,2,,18516,0,46 56 9,1,51,,18518,0,46 56 9,1,2,,18519,0,46 56 9,1,15,,18521,0,46 56 9,1,2,,18522,0,46 56 9,1,28,,18525,0,46 56 9,1,2,,18526,0,46 56 9,1,68,,18528,0,46 56 9,1,2,,18529,0,46 56 9,1,28,,18531,0,46 56 9,1,2,,18532,0,46 56 9,1,68,,18534,0,46 56 9,1,2,,18535,0,46 56 9,1,28,,18537,0,46 56 9,1,2,,18538,0,46 56 9,1,68,,18540,0,46 56 9,1,2,,18541,0,46 56 9,1,28,,18543,0,46 56 9,1,2,,18544,0,46 56 9,1,68,,18546,0,46 56 9,1,2,,18547,0,46 56 9,1,28,,18549,0,46 56 9,1,2,,18550,0,46 56 9,1,68,,18553,0,46 56 9,1,2,,18554,0,46 56 9,1,28,,18556,0,46 56 9,1,2,,18557,0,46 56 9,1,50,,18559,0,46 56 9,1,2,,18560,0,46 56 9,1,17,,18562,0,46 56 9,1,2,,18563,0,46 56 9,1,28,,18565,0,46 56 9,1,42,,18566,0,46 56 9,1,28,,18568,0,46 56 9,1,2,,18569,0,46 56 9,1,28,,18572,0,46 56 9,1,42,,18573,0,46 56 9,1,24,,18578,0,46 56 9,1,2,,18579,0,46 56 9,1,2,,18575,0,46 56 9,1,2,,18576,0,46 56 9,1,28,,18581,0,46 56 9,1,42,,18582,0,46 56 9,1,28,,18584,0,46 56 9,1,2,,18585,0,46 56 9,1,28,,18587,0,46 56 9,1,42,,18588,0,46 56 9,1,28,,18590,0,46 56 9,1,30,,18593,0,46 56 9,1,70,,18595,0,46 56 9,1,30,,18597,0,46 56 9,1,73,,18599,0,46 56 9,1,71,,18601,0,46 56 9,1,33,,18604,0,46 56 9,1,67,,18606,0,46 56 9,1,108,,18610,4,,1,100,,18612,4,,1
+1801,'20260125',716,,18614,0,68 70 71 9,1,35,,18615,0,68 70 71 9,1,70,,18616,0,68 70 71 9,1,80,,18620,0,46 56 9,1,4,,18618,0,52 56 9,1,6,,18622,0,46 56 9,1,18,,18624,0,46 56 9,1,30,,18627,0,46 56 9,1,42,,18628,0,46 56 9,1,28,,18630,0,46 56 9,1,2,,18631,0,46 56 9,1,26,,18633,0,46 56 9,1,2,,18634,0,46 56 9,1,51,,18636,0,46 56 9,1,2,,18637,0,46 56 9,1,15,,18639,0,46 56 9,1,2,,18640,0,46 56 9,1,28,,18643,0,46 56 9,1,2,,18644,0,46 56 9,1,68,,18646,0,46 56 9,1,2,,18647,0,46 56 9,1,28,,18649,0,46 56 9,1,2,,18650,0,46 56 9,1,68,,18652,0,46 56 9,1,2,,18653,0,46 56 9,1,28,,18655,0,46 56 9,1,2,,18656,0,46 56 9,1,68,,18658,0,46 56 9,1,2,,18659,0,46 56 9,1,28,,18661,0,46 56 9,1,2,,18662,0,46 56 9,1,68,,18664,0,46 56 9,1,2,,18665,0,46 56 9,1,28,,18667,0,46 56 9,1,2,,18668,0,46 56 9,1,68,,18671,0,46 56 9,1,2,,18672,0,46 56 9,1,28,,18674,0,46 56 9,1,2,,18675,0,46 56 9,1,50,,18677,0,46 56 9,1,2,,18678,0,46 56 9,1,17,,18680,0,46 56 9,1,2,,18681,0,46 56 9,1,28,,18683,0,46 56 9,1,42,,18684,0,46 56 9,1,28,,18686,0,46 56 9,1,2,,18687,0,46 56 9,1,28,,18690,0,46 56 9,1,42,,18691,0,46 56 9,1,24,,18696,0,46 56 9,1,2,,18697,0,46 56 9,1,2,,18693,0,46 56 9,1,2,,18694,0,46 56 9,1,28,,18699,0,46 56 9,1,42,,18700,0,46 56 9,1,28,,18702,0,46 56 9,1,2,,18703,0,46 56 9,1,28,,18705,0,46 56 9,1,42,,18706,0,46 56 9,1,28,,18708,0,46 56 9,1,30,,18711,0,46 56 9,1,70,,18713,0,46 56 9,1,30,,18715,0,46 56 9,1,73,,18717,0,46 56 9,1,71,,18719,0,46 56 9,1,33,,18722,0,46 56 9,1,103,,18726,0,68 70 71 9,1,167,,18727,0,31 38 9,1
+1801,'20260126',557,,18728,0,31 38 9,1,1898,,18735,0,52 56 9,1,85,,18738,0,68 70 71 9,1,165,,18739,0,31 38 9,1
+1801,'20260127',557,,18740,0,31 38 9,1,1898,,18747,0,52 56 9,1,85,,18750,0,68 70 71 9,1,165,,18751,0,31 38 9,1
+1801,'20260128',557,,18752,0,31 38 9,1,1898,,18759,0,52 56 9,1,85,,18762,0,68 70 71 9,1,165,,18763,0,31 38 9,1
+1801,'20260129',557,,18764,0,31 38 9,1,1898,,18771,0,52 56 9,1,85,,18774,0,68 70 71 9,1,165,,18775,0,31 38 9,1
+1801,'20260130',557,,18776,0,31 38 9,1,1998,,18784,0,52 56 9,1,150,,18786,0,31 38 9,1
+1801,'20260131',716,,18787,0,68 70 71 9,1,35,,18788,0,68 70 71 9,1,70,,18789,0,68 70 71 9,1,84,,18791,0,52 56 9,1,1705,,18801,4,,1,100,,18803,4,,1
+1801,'20260201',716,,18805,0,68 70 71 9,1,35,,18806,0,68 70 71 9,1,70,,18807,0,68 70 71 9,1,84,,18809,0,52 56 9,1,1633,,18819,0,68 70 71 9,1,167,,18820,0,31 38 9,1
+1801,'20260202',557,,18821,0,31 38 9,1,1898,,18828,0,52 56 9,1,85,,18831,0,68 70 71 9,1,165,,18832,0,31 38 9,1
+1801,'20260203',557,,18833,0,31 38 9,1,1898,,18840,0,52 56 9,1,85,,18843,0,68 70 71 9,1,165,,18844,0,31 38 9,1
+1801,'20260204',557,,18845,0,31 38 9,1,1898,,18852,0,52 56 9,1,85,,18855,0,68 70 71 9,1,165,,18856,0,31 38 9,1
+1801,'20260205',557,,18857,0,31 38 9,1,1898,,18864,0,52 56 9,1,85,,18867,0,68 70 71 9,1,165,,18868,0,31 38 9,1
+1801,'20260206',557,,18869,0,31 38 9,1,1998,,18877,0,52 56 9,1,150,,18879,0,31 38 9,1
+1801,'20260207',716,,18880,0,68 70 71 9,1,35,,18881,0,68 70 71 9,1,70,,18882,0,68 70 71 9,1,84,,18884,0,52 56 9,1,1705,,18894,4,,1,100,,18896,4,,1
+1801,'20260208',716,,18898,0,68 70 71 9,1,35,,18899,0,68 70 71 9,1,70,,18900,0,68 70 71 9,1,84,,18902,0,52 56 9,1,1633,,18912,0,68 70 71 9,1,167,,18913,0,31 38 9,1
+1801,'20260209',557,,18914,0,31 38 9,1,1898,,18921,0,52 56 9,1,85,,18924,0,68 70 71 9,1,165,,18925,0,31 38 9,1
+1801,'20260210',557,,18926,0,31 38 9,1,1898,,18933,0,52 56 9,1,85,,18936,0,68 70 71 9,1,165,,18937,0,31 38 9,1
+1801,'20260211',557,,18938,0,31 38 9,1,1898,,18945,0,52 56 9,1,85,,18948,0,68 70 71 9,1,165,,18949,0,31 38 9,1
+1801,'20260212',557,,18950,0,31 38 9,1,1898,,18957,0,52 56 9,1,85,,18960,0,68 70 71 9,1,165,,18961,0,31 38 9,1
+1801,'20260213',557,,18962,0,31 38 9,1,1998,,18970,0,52 56 9,1,150,,18972,0,31 38 9,1
+1801,'20260214',716,,18973,0,68 70 71 9,1,35,,18974,0,68 70 71 9,1,70,,18975,0,68 70 71 9,1,84,,18977,0,52 56 9,1,1705,,18987,4,,1,100,,18989,4,,1
+1801,'20260215',716,,18991,0,68 70 71 9,1,35,,18992,0,68 70 71 9,1,70,,18993,0,68 70 71 9,1,84,,18995,0,52 56 9,1,1633,,19005,0,68 70 71 9,1,167,,19006,0,31 38 9,1
+1801,'20260216',716,,19007,0,68 70 71 9,1,35,,19008,0,68 70 71 9,1,70,,19009,0,68 70 71 9,1,84,,19011,0,52 56 9,1,1705,,19021,4,,1,100,,19023,4,,1
+1801,'20260217',557,,19025,0,31 38 9,1,1898,,19032,0,52 56 9,1,85,,19035,0,68 70 71 9,1,165,,19036,0,31 38 9,1
+1801,'20260218',557,,19037,0,31 38 9,1,1898,,19044,0,52 56 9,1,85,,19047,0,68 70 71 9,1,165,,19048,0,31 38 9,1
+1801,'20260219',557,,19049,0,31 38 9,1,1898,,19056,0,52 56 9,1,85,,19059,0,68 70 71 9,1,165,,19060,0,31 38 9,1
+1801,'20260220',557,,19061,0,31 38 9,1,1998,,19069,0,52 56 9,1,150,,19071,0,31 38 9,1
+1801,'20260221',716,,19072,0,68 70 71 9,1,35,,19073,0,68 70 71 9,1,70,,19074,0,68 70 71 9,1,84,,19076,0,52 56 9,1,1705,,19086,4,,1,100,,19088,4,,1
+1801,'20260222',716,,19090,0,68 70 71 9,1,35,,19091,0,68 70 71 9,1,70,,19092,0,68 70 71 9,1,84,,19094,0,52 56 9,1,1633,,19104,0,68 70 71 9,1,167,,19105,0,31 38 9,1
+1801,'20260223',557,,19106,0,31 38 9,1,1898,,19113,0,52 56 9,1,85,,19116,0,68 70 71 9,1,165,,19117,0,31 38 9,1
+1801,'20260224',557,,19118,0,31 38 9,1,1898,,19125,0,52 56 9,1,85,,19128,0,68 70 71 9,1,165,,19129,0,31 38 9,1
+1801,'20260225',557,,19130,0,31 38 9,1,1898,,19137,0,52 56 9,1,85,,19140,0,68 70 71 9,1,165,,19141,0,31 38 9,1
+1801,'20260226',557,,19142,0,31 38 9,1,1898,,19149,0,52 56 9,1,85,,19152,0,68 70 71 9,1,165,,19153,0,31 38 9,1
+1801,'20260227',557,,19154,0,31 38 9,1,1998,,19162,0,52 56 9,1,150,,19164,0,31 38 9,1
+1801,'20260228',716,,19165,0,68 70 71 9,1,35,,19166,0,68 70 71 9,1,70,,19167,0,68 70 71 9,1,84,,19169,0,52 56 9,1,1705,,19179,4,,1,100,,19181,4,,1
+1801,'20260301',716,,19183,0,68 70 71 9,1,35,,19184,0,68 70 71 9,1,70,,19185,0,68 70 71 9,1,84,,19187,0,52 56 9,1,1633,,19197,0,68 70 71 9,1,167,,19198,0,31 38 9,1
+1801,'20260302',557,,19199,0,31 38 9,1,1898,,19206,0,52 56 9,1,85,,19209,0,68 70 71 9,1,165,,19210,0,31 38 9,1
+1801,'20260303',557,,19211,0,31 38 9,1,1898,,19218,0,52 56 9,1,85,,19221,0,68 70 71 9,1,165,,19222,0,31 38 9,1
+1801,'20260304',557,,19223,0,31 38 9,1,1898,,19230,0,52 56 9,1,85,,19233,0,68 70 71 9,1,165,,19234,0,31 38 9,1
+1801,'20260305',557,,19235,0,31 38 9,1,1898,,19242,0,52 56 9,1,85,,19245,0,68 70 71 9,1,165,,19246,0,31 38 9,1
+1801,'20260306',557,,19247,0,31 38 9,1,1998,,19255,0,52 56 9,1,150,,19257,0,31 38 9,1
+1801,'20260307',716,,19258,0,68 70 71 9,1,35,,19259,0,68 70 71 9,1,70,,19260,0,68 70 71 9,1,84,,19262,0,52 56 9,1,1705,,19272,4,,1,100,,19274,4,,1
+1801,'20260308',716,,19276,0,68 70 71 9,1,35,,19277,0,68 70 71 9,1,70,,19278,0,68 70 71 9,1,84,,19280,0,52 56 9,1,1633,,19290,0,68 70 71 9,1,167,,19291,0,31 38 9,1
+1801,'20260309',557,,19292,0,31 38 9,1,1898,,19299,0,52 56 9,1,85,,19302,0,68 70 71 9,1,165,,19303,0,31 38 9,1
+1801,'20260310',557,,19304,0,31 38 9,1,1898,,19311,0,52 56 9,1,85,,19314,0,68 70 71 9,1,165,,19315,0,31 38 9,1
+1801,'20260311',557,,19316,0,31 38 9,1,1898,,19323,0,52 56 9,1,85,,19326,0,68 70 71 9,1,165,,19327,0,31 38 9,1
+1801,'20260312',557,,19328,0,31 38 9,1,1898,,19335,0,52 56 9,1,85,,19338,0,68 70 71 9,1,165,,19339,0,31 38 9,1
+1801,'20260313',557,,19340,0,31 38 9,1,1998,,19348,0,52 56 9,1,150,,19350,0,31 38 9,1
+1801,'20260314',716,,19351,0,68 70 71 9,1,35,,19352,0,68 70 71 9,1,70,,19353,0,68 70 71 9,1,84,,19355,0,52 56 9,1,1705,,19365,4,,1,100,,19367,4,,1
+1801,'20260315',716,,19369,0,68 70 71 9,1,35,,19370,0,68 70 71 9,1,70,,19371,0,68 70 71 9,1,84,,19373,0,52 56 9,1,1633,,19383,0,68 70 71 9,1,167,,19384,0,31 38 9,1
+1801,'20260316',557,,19385,0,31 38 9,1,1898,,19392,0,52 56 9,1,85,,19395,0,68 70 71 9,1,165,,19396,0,31 38 9,1
+1801,'20260317',557,,19397,0,31 38 9,1,1898,,19404,0,52 56 9,1,85,,19407,0,68 70 71 9,1,165,,19408,0,31 38 9,1
+1801,'20260318',557,,19409,0,31 38 9,1,1898,,19416,0,52 56 9,1,85,,19419,0,68 70 71 9,1,165,,19420,0,31 38 9,1
+1801,'20260319',557,,19421,0,31 38 9,1,1898,,19428,0,52 56 9,1,85,,19431,0,68 70 71 9,1,165,,19432,0,31 38 9,1
+1801,'20260320',557,,19433,0,31 38 9,1,1998,,19441,0,52 56 9,1,150,,19443,0,31 38 9,1
+1801,'20260321',716,,19444,0,68 70 71 9,1,35,,19445,0,68 70 71 9,1,70,,19446,0,68 70 71 9,1,84,,19448,0,52 56 9,1,1705,,19458,4,,1,100,,19460,4,,1
+1801,'20260322',716,,19462,0,68 70 71 9,1,35,,19463,0,68 70 71 9,1,70,,19464,0,68 70 71 9,1,84,,19466,0,52 56 9,1,1633,,19476,0,68 70 71 9,1,167,,19477,0,31 38 9,1
+1801,'20260323',557,,19478,0,31 38 9,1,1898,,19485,0,52 56 9,1,85,,19488,0,68 70 71 9,1,165,,19489,0,31 38 9,1
+1801,'20260324',557,,19490,0,31 38 9,1,1898,,19497,0,52 56 9,1,85,,19500,0,68 70 71 9,1,165,,19501,0,31 38 9,1
+1801,'20260325',557,,19502,0,31 38 9,1,1898,,19509,0,52 56 9,1,85,,19512,0,68 70 71 9,1,165,,19513,0,31 38 9,1
+1801,'20260326',557,,19514,0,31 38 9,1,1898,,19521,0,52 56 9,1,85,,19524,0,68 70 71 9,1,165,,19525,0,31 38 9,1
+1801,'20260327',557,,19526,0,31 38 9,1,1998,,19534,0,52 56 9,1,150,,19536,0,31 38 9,1
+1801,'20260328',716,,19537,0,68 70 71 9,1,35,,19538,0,68 70 71 9,1,70,,19539,0,68 70 71 9,1,84,,19541,0,52 56 9,1,1705,,19551,4,,1,100,,19553,4,,1
+1801,'20260329',716,,19555,0,68 70 71 9,1,35,,19556,0,68 70 71 9,1,70,,19557,0,68 70 71 9,1,84,,19559,0,52 56 9,1,1633,,19569,0,68 70 71 9,1,167,,19570,0,31 38 9,1
+1801,'20260330',557,,19571,0,31 38 9,1,1898,,19578,0,52 56 9,1,85,,19581,0,68 70 71 9,1,165,,19582,0,31 38 9,1
+1801,'20260331',557,,19583,0,31 38 9,1,1898,,19590,0,52 56 9,1,85,,19593,0,68 70 71 9,1,165,,19594,0,31 38 9,1
+1801,'20260401',557,,19595,0,31 38 9,1,1898,,19602,0,52 56 9,1,85,,19605,0,68 70 71 9,1,165,,19606,0,31 38 9,1
+1801,'20260402',557,,19607,0,31 38 9,1,1898,,19614,0,52 56 9,1,85,,19617,0,68 70 71 9,1,165,,19618,0,31 38 9,1
+1801,'20260403',716,,19619,0,68 70 71 9,1,35,,19620,0,68 70 71 9,1,70,,19621,0,68 70 71 9,1,84,,19623,0,52 56 9,1,1705,,19633,4,,1,100,,19635,4,,1
+1801,'20260404',716,,19637,0,68 70 71 9,1,35,,19638,0,68 70 71 9,1,70,,19639,0,68 70 71 9,1,84,,19641,0,52 56 9,1,1705,,19651,4,,1,100,,19653,4,,1
+1801,'20260405',716,,19655,0,68 70 71 9,1,35,,19656,0,68 70 71 9,1,70,,19657,0,68 70 71 9,1,84,,19659,0,52 56 9,1,1633,,19669,0,68 70 71 9,1,167,,19670,0,31 38 9,1
+1801,'20260406',557,,19671,0,31 38 9,1,1898,,19678,0,52 56 9,1,85,,19681,0,68 70 71 9,1,165,,19682,0,31 38 9,1
+1801,'20260407',557,,19683,0,31 38 9,1,1898,,19690,0,52 56 9,1,85,,19693,0,68 70 71 9,1,165,,19694,0,31 38 9,1
+1801,'20260408',557,,19695,0,31 38 9,1,1898,,19702,0,52 56 9,1,85,,19705,0,68 70 71 9,1,165,,19706,0,31 38 9,1
+1801,'20260409',557,,19707,0,31 38 9,1,1898,,19714,0,52 56 9,1,85,,19717,0,68 70 71 9,1,165,,19718,0,31 38 9,1
+1801,'20260410',557,,19719,0,31 38 9,1,1998,,19727,0,52 56 9,1,150,,19729,0,31 38 9,1
+1801,'20260411',716,,19730,0,68 70 71 9,1,35,,19731,0,68 70 71 9,1,70,,19732,0,68 70 71 9,1,84,,19734,0,52 56 9,1,1705,,19744,4,,1,100,,19746,4,,1
+1801,'20260412',716,,19748,0,68 70 71 9,1,35,,19749,0,68 70 71 9,1,70,,19750,0,68 70 71 9,1,84,,19752,0,52 56 9,1,1633,,19762,0,68 70 71 9,1,167,,19763,0,31 38 9,1
+1801,'20260413',557,,19764,0,31 38 9,1,1898,,19771,0,52 56 9,1,85,,19774,0,68 70 71 9,1,165,,19775,0,31 38 9,1
+1801,'20260414',557,,19776,0,31 38 9,1,1898,,19783,0,52 56 9,1,85,,19786,0,68 70 71 9,1,165,,19787,0,31 38 9,1
+1801,'20260415',557,,19788,0,31 38 9,1,1898,,19795,0,52 56 9,1,85,,19798,0,68 70 71 9,1,165,,19799,0,31 38 9,1
+1801,'20260416',557,,19800,0,31 38 9,1,1898,,19807,0,52 56 9,1,85,,19810,0,68 70 71 9,1,165,,19811,0,31 38 9,1
+1801,'20260417',557,,19812,0,31 38 9,1,1998,,19820,0,52 56 9,1,150,,19822,0,31 38 9,1
+1801,'20260418',716,,19823,0,68 70 71 9,1,35,,19824,0,68 70 71 9,1,70,,19825,0,68 70 71 9,1,84,,19827,0,52 56 9,1,1705,,19837,4,,1,100,,19839,4,,1
+1801,'20260419',716,,19841,0,68 70 71 9,1,35,,19842,0,68 70 71 9,1,70,,19843,0,68 70 71 9,1,84,,19845,0,52 56 9,1,1633,,19855,0,68 70 71 9,1,167,,19856,0,31 38 9,1
+1801,'20260420',557,,19857,0,31 38 9,1,1898,,19864,0,52 56 9,1,85,,19867,0,68 70 71 9,1,165,,19868,0,31 38 9,1
+1801,'20260421',557,,19869,0,31 38 9,1,1898,,19876,0,52 56 9,1,85,,19879,0,68 70 71 9,1,165,,19880,0,31 38 9,1
+1801,'20260422',557,,19881,0,31 38 9,1,1898,,19888,0,52 56 9,1,85,,19891,0,68 70 71 9,1,165,,19892,0,31 38 9,1
+1801,'20260423',557,,19893,0,31 38 9,1,1898,,19900,0,52 56 9,1,85,,19903,0,68 70 71 9,1,165,,19904,0,31 38 9,1
+1801,'20260424',557,,19905,0,31 38 9,1,1998,,19913,0,52 56 9,1,150,,19915,0,31 38 9,1
