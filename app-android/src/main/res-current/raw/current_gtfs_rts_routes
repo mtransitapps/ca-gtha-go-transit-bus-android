@@ -1,5 +1,5 @@
 11,'11','Brock University','98002E',1568,3
-12,'12','Niagara Falls / Toronto','98002E',1569,3
+12,'12','Niagara Falls / Burlington','98002E',1569,3
 15,'15','Brantford / Aldershot','98002E',1572,3
 16,'16','Hamilton / Toronto Express','98002E',1573,3
 17,'17','Waterloo / Hamilton','F78025',1574,3
@@ -14,6 +14,7 @@
 31,'31','Guelph / Toronto','00853E',1630,3
 32,'32','Brampton Trinity Common / North York','00853E',1631,3
 33,'33','Guelph / North York','00853E',1632,3
+35,'35','Union Pearson Express','00A6FF',1634,3
 36,'36','Brampton / North York Express','00853E',1635,3
 37,'37','Orangeville / Brampton','00853E',1636,3
 38,'38','Bolton / Malton','00853E',1637,3
