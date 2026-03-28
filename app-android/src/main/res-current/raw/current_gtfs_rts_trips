@@ -8,8 +8,8 @@
 1600,0,'Union Sta',16
 1701,0,'Hamilton GO',17
 1700,0,'U Of Waterloo',17
-1801,0,'Aldershot GO / Hamilton GO / W Harbour GO / Oakville GO / Clarkson GO',18
 1800,0,'Aldershot GO / Union Sta',18
+1801,0,'Clarkson GO / Hamilton GO / W Harbour GO / Oakville GO',18
 1900,0,'Finch',19
 1901,0,'Sq One',19
 2101,0,'Lisgar GO / Meadowvale GO / Milton GO / Sq One',21
@@ -60,12 +60,12 @@
 6801,0,'Aurora GO / E Gwillimbury GO',68
 7001,0,'Mt Joy GO / Unionville GO / Old Elm GO',70
 7000,0,'Uxbridge',70
-7100,0,'Old Elm GO / Uxbridge',71
-7101,0,'Union Sta',71
+7100,0,'Mt Joy GO / Old Elm GO / Uxbridge / Unionville GO',71
+7101,0,'Rutherford GO / Union Sta',71
 8801,0,'Dc Oshawa GO',88
 8800,0,'Trent U',88
-9000,0,'Dc Oshawa GO',90
-9001,0,'Union Sta',90
+9000,0,'Ajax GO / Dc Oshawa GO',90
+9001,0,'Union Sta / York Mills',90
 9200,0,'Dc Oshawa GO / Dundas / Hwy 412 P+R',92
 9201,0,'Yorkdale',92
 9400,0,'Pickering GO',94
