@@ -311,7 +311,7 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final int CF_SID = 100011;
 
 	@Override
-	public @Nullable Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
+	public @Nullable Integer convertStopIdNotSupported(@NotNull String stopCode) {
 		final String stopId = stopCode.trim();
 		switch (stopId) {
 		case SID_UN:
