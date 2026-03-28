@@ -455,7 +455,7 @@ public class GTHAGOTransitBusAgencyTools extends DefaultAgencyTools {
 		case SID_CF:
 			return CF_SID;
 		default:
-			return super.convertStopIdFromCodeNotSupported(stopCode);
+			return super.convertStopIdNotSupported(stopCode);
 		}
 	}
 }
