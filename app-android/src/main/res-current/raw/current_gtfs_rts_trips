@@ -1,72 +1,72 @@
 1100,0,'Aldershot GO',11
 1101,0,'Brock U',11
-1200,0,'Burlington Carpool / Burlington GO',12
+1200,0,'Burlington Carpool',12
 1201,0,'Niagara Falls',12
 1500,0,'Aldershot GO',15
-1501,0,'Brantford / Sngr / Mcfn / McMaster U',15
+1501,0,'Sngr / Mcfn',15
 1601,0,'Hamilton GO',16
 1600,0,'Union Sta',16
 1701,0,'Hamilton GO',17
 1700,0,'U Of Waterloo',17
-1800,0,'Aldershot GO / Union Sta',18
-1801,0,'Clarkson GO / Hamilton GO / W Harbour GO / Oakville GO',18
+1800,0,'Union Sta',18
+1801,0,'W Harbour GO',18
 1900,0,'Finch',19
 1901,0,'Sq One',19
-2101,0,'Lisgar GO / Meadowvale GO / Milton GO / Sq One',21
+2101,0,'Milton GO',21
 2100,0,'Union Sta',21
 2200,0,'Milton GO',22
 2201,0,'Oakville GO',22
 2500,0,'Sq One',25
 2501,0,'U Of Waterloo',25
 2700,0,'Finch',27
-2701,0,'Meadowvale GO / Milton GO',27
-2901,0,'Guelph Central GO / U Of Guelph',29
-2900,0,'Kipling / Sq One',29
-3000,0,'Bramalea GO / Hwy 407',30
-3001,0,'Bramalea GO / U Of Waterloo',30
-3101,0,'Bramalea GO / Georgetown GO / U Of Guelph / Mt Pleasant GO',31
-3100,0,'Bramalea GO / Union Sta / Hwy 407',31
-3201,0,'Bramalea / Trinity Common',32
+2701,0,'Milton GO',27
+2901,0,'Guelph Central GO',29
+2900,0,'Kipling',29
+3000,0,'Hwy 407',30
+3001,0,'U Of Waterloo',30
+3101,0,'U Of Guelph',31
+3100,0,'Union Sta',31
 3200,0,'Finch',32
-3300,0,'Bramalea GO / Mt Pleasant GO / York Mills',33
-3301,0,'Brampton / Georgetown GO / U Of Guelph / Mt Pleasant GO',33
-3500,0,'Hwy 407 / Union Sta UP Express',35
+3201,0,'Trinity Common',32
+3301,0,'U Of Guelph',33
+3300,0,'York Mills',33
 3501,0,'Pearson Airport UP Express',35
+3500,0,'Union Sta Up Express',35
 3601,0,'Bramalea',36
 3600,0,'York Mills',36
 3701,0,'Brampton',37
-3700,0,'Orangeville Mall',37
+3700,0,'Orangeville',37
 3800,0,'Bolton',38
 3801,0,'Malton GO',38
 4001,0,'Hamilton GO',40
-4000,0,'Richmond Hl Ctr / Unionville GO',40
-4100,0,'Centennial College / Pickering GO / U Of T Scarborough',41
-4101,0,'Hamilton GO / Sq One',41
-4700,0,'Erin Mills / Hwy 407 / Sq One',47
-4701,0,'Hamilton GO / McMaster U',47
+4000,0,'Unionville GO',40
+4101,0,'Hamilton GO',41
+4100,0,'Pickering GO',41
+4701,0,'Hamilton GO',47
+4700,0,'Hwy 407',47
 4800,0,'Hwy 407',48
 4801,0,'U Of Guelph',48
 5200,0,'Dc Oshawa GO',52
 5201,0,'Hwy 407',52
-5600,0,'Dc Oshawa GO / Unionville GO / Hwy 407',56
-5601,0,'Oakville GO / Sq One',56
+5600,0,'Dc Oshawa GO',56
+5601,0,'Oakville GO',56
 6100,0,'Bloomington GO',61
 6101,0,'Union Sta',61
-6500,0,'Aurora GO / E Gwillimbury GO',65
+6500,0,'E Gwillimbury GO',65
 6501,0,'Union Sta',65
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
-6800,0,'Allandale Waterfront GO / E Gwillimbury GO',68
-6801,0,'Aurora GO / E Gwillimbury GO',68
-7001,0,'Mt Joy GO / Unionville GO / Old Elm GO',70
+6800,0,'Allandale Waterfront GO',68
+6801,0,'Aurora GO',68
+7001,0,'Unionville GO',70
 7000,0,'Uxbridge',70
-7100,0,'Mt Joy GO / Old Elm GO / Uxbridge / Unionville GO',71
 7101,0,'Rutherford GO / Union Sta',71
+7100,0,'Uxbridge',71
 8801,0,'Dc Oshawa GO',88
 8800,0,'Trent U',88
-9000,0,'Ajax GO / Dc Oshawa GO',90
-9001,0,'Union Sta / York Mills',90
-9200,0,'Dc Oshawa GO / Dundas / Hwy 412 P+R',92
+9000,0,'Dc Oshawa GO',90
+9001,0,'York Mills',90
+9200,0,'Dc Oshawa GO',92
 9201,0,'Yorkdale',92
 9400,0,'Pickering GO',94
 9401,0,'Sq One',94
