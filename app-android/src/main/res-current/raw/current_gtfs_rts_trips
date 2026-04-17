@@ -14,9 +14,9 @@
 1901,0,'Sq One',19
 2101,0,'Milton GO',21
 2100,0,'Union Sta',21
-2200,0,'Milton GO',22
+2200,0,'Milton Carpool',22
 2201,0,'Oakville GO',22
-2500,0,'Sq One',25
+2500,0,'Kipling',25
 2501,0,'U Of Waterloo',25
 2700,0,'Finch',27
 2701,0,'Milton GO',27
@@ -24,13 +24,13 @@
 2900,0,'Kipling',29
 3000,0,'Hwy 407',30
 3001,0,'U Of Waterloo',30
-3101,0,'U Of Guelph',31
-3100,0,'Union Sta',31
+3100,0,'Hwy 407 / Union Sta',31
+3101,0,'Kitchener GO',31
 3200,0,'Finch',32
 3201,0,'Trinity Common',32
 3301,0,'U Of Guelph',33
 3300,0,'York Mills',33
-3500,0,'Hwy 407',35
+3500,0,'Hwy 407 / Union Sta UP Express',35
 3501,0,'Pearson Airport UP Express',35
 3601,0,'Bramalea',36
 3600,0,'York Mills',36
@@ -42,12 +42,12 @@
 4000,0,'Unionville GO',40
 4101,0,'Hamilton GO',41
 4100,0,'Pickering GO',41
+4700,0,'Canadas Wonderland',47
 4701,0,'Hamilton GO',47
-4700,0,'Hwy 407',47
 4800,0,'Hwy 407',48
 4801,0,'U Of Guelph',48
+5201,0,'Canadas Wonderland',52
 5200,0,'Dc Oshawa GO',52
-5201,0,'Hwy 407',52
 5600,0,'Dc Oshawa GO',56
 5601,0,'Oakville GO',56
 6100,0,'Bloomington GO',61
@@ -57,7 +57,7 @@
 6701,0,'Finch',67
 6700,0,'Woodbine / 404',67
 6800,0,'Allandale Waterfront GO',68
-6801,0,'Aurora GO',68
+6801,0,'Hwy 407',68
 7001,0,'Unionville GO',70
 7000,0,'Uxbridge',70
 7101,0,'Union Sta',71
